@@ -126,32 +126,6 @@ window.onload = wrap_img;
     
     
 <div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="o">%%html</span>
-<span class="p">&lt;</span><span class="nt">script</span> <span class="na">type</span><span class="o">=</span><span class="s">&quot;text/javascript&quot;</span><span class="p">&gt;</span>
-<span class="kd">function</span> <span class="nx">randomlinks</span><span class="p">(){</span>
-    <span class="kd">var</span> <span class="nx">myrandom</span> <span class="o">=</span> <span class="nx">localStorage</span><span class="p">.</span><span class="nx">getItem</span><span class="p">(</span><span class="s1">&#39;testVerRandI&#39;</span><span class="p">)</span> <span class="o">||</span> <span class="nb">Math</span><span class="p">.</span><span class="nx">floor</span><span class="p">(</span><span class="nb">Math</span><span class="p">.</span><span class="nx">random</span><span class="p">()</span><span class="o">*</span><span class="mf">4</span><span class="p">)</span>
-    <span class="nx">localStorage</span><span class="p">.</span><span class="nx">setItem</span><span class="p">(</span><span class="s1">&#39;testVerRandI&#39;</span><span class="p">,</span><span class="nx">myrandom</span><span class="p">);</span>
-    <span class="kd">var</span> <span class="nx">links</span><span class="o">=</span><span class="k">new</span> <span class="nb">Array</span><span class="p">()</span>
-    <span class="nx">links</span><span class="p">[</span><span class="mf">0</span><span class="p">]</span><span class="o">=</span><span class="s2">&quot;https://farm.pcibex.net/p/DBGzbk/&quot;</span>
-    <span class="nx">links</span><span class="p">[</span><span class="mf">1</span><span class="p">]</span><span class="o">=</span><span class="s2">&quot;https://farm.pcibex.net/p/ujhQkn/&quot;</span>
-    <span class="nx">links</span><span class="p">[</span><span class="mf">2</span><span class="p">]</span><span class="o">=</span><span class="s2">&quot;https://farm.pcibex.net/p/wRdlrR/&quot;</span>
-    <span class="nx">links</span><span class="p">[</span><span class="mf">3</span><span class="p">]</span><span class="o">=</span><span class="s2">&quot;https://farm.pcibex.net/p/XXbazX/&quot;</span>
- 
-    <span class="nb">window</span><span class="p">.</span><span class="nx">location</span><span class="o">=</span><span class="nx">links</span><span class="p">[</span><span class="nx">myrandom</span><span class="p">]</span>
-<span class="p">}</span>
-<span class="p">&lt;/</span><span class="nt">script</span><span class="p">&gt;</span>
-<span class="p">&lt;</span><span class="nt">form</span><span class="p">&gt;</span>
-<span class="p">&lt;</span><span class="nt">input</span> <span class="na">type</span><span class="o">=</span><span class="s">&quot;button&quot;</span> <span class="na">value</span><span class="o">=</span><span class="s">&quot;Приступить!&quot;</span> <span class="na">onClick</span><span class="o">=</span><span class="s">&quot;randomlinks()&quot;</span><span class="p">&gt;</span>
-<span class="p">&lt;/</span><span class="nt">form</span><span class="p">&gt;</span>
-</pre></div>
-
-    </div>
-</div>
-</div>
 
 <div class="output_wrapper">
 <div class="output">
