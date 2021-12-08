@@ -4,9 +4,9 @@
         "post0": {
             "title": "Исследование студентов НИУ ВШЭ",
             "content": "&#1053;&#1072;&#1078;&#1084;&#1080;&#1090;&#1077; &#1085;&#1072; &#1082;&#1085;&#1086;&#1087;&#1082;&#1091;, &#1095;&#1090;&#1086;&#1073;&#1099; &#1087;&#1088;&#1080;&#1089;&#1090;&#1091;&#1087;&#1080;&#1090;&#1100; &#1082; &#1101;&#1082;&#1089;&#1087;&#1077;&#1088;&#1080;&#1084;&#1077;&#1085;&#1090;&#1091;: . %%html &lt;script type=&quot;text/javascript&quot;&gt; function randomlinks(){ var myrandom = localStorage.getItem(&#39;testVerRandI&#39;) || Math.floor(Math.random()*4) localStorage.setItem(&#39;testVerRandI&#39;,myrandom); var links=new Array() links[0]=&quot;https://farm.pcibex.net/p/DBGzbk/&quot; links[1]=&quot;https://farm.pcibex.net/p/ujhQkn/&quot; links[2]=&quot;https://farm.pcibex.net/p/wRdlrR/&quot; links[3]=&quot;https://farm.pcibex.net/p/XXbazX/&quot; window.location=links[myrandom] } &lt;/script&gt; &lt;form&gt; &lt;input type=&quot;button&quot; value=&quot;Приступить!&quot; onClick=&quot;randomlinks()&quot;&gt; &lt;/form&gt; .",
-            "url": "https://mizoru.github.io/blog/2020/12/07/experiment.html",
-            "relUrl": "/2020/12/07/experiment.html",
-            "date": " • Dec 7, 2020"
+            "url": "https://mizoru.github.io/blog/2020/12/08/experiment.html",
+            "relUrl": "/2020/12/08/experiment.html",
+            "date": " • Dec 8, 2020"
         }
         
     
