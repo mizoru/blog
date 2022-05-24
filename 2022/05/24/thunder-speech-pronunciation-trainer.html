@@ -4,9 +4,9 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="twitter:card" content="summary_large_image" /><!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>Finetuning a pretrained QuartzNet on TIMIT using thunder-speech | Посты mizoru</title>
+<title>Finetuning a pretrained QuartzNet on TIMIT | Посты mizoru</title>
 <meta name="generator" content="Jekyll v4.1.1" />
-<meta property="og:title" content="Finetuning a pretrained QuartzNet on TIMIT using thunder-speech" />
+<meta property="og:title" content="Finetuning a pretrained QuartzNet on TIMIT" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Никто не знает, что здесь будет." />
 <meta property="og:description" content="Никто не знает, что здесь будет." />
@@ -16,7 +16,7 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2022-05-24T00:00:00-05:00" />
 <script type="application/ld+json">
-{"datePublished":"2022-05-24T00:00:00-05:00","url":"https://mizoru.github.io/blog/2022/05/24/thunder-speech-pronunciation-trainer.html","@type":"BlogPosting","headline":"Finetuning a pretrained QuartzNet on TIMIT using thunder-speech","dateModified":"2022-05-24T00:00:00-05:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://mizoru.github.io/blog/2022/05/24/thunder-speech-pronunciation-trainer.html"},"description":"Никто не знает, что здесь будет.","@context":"https://schema.org"}</script>
+{"datePublished":"2022-05-24T00:00:00-05:00","url":"https://mizoru.github.io/blog/2022/05/24/thunder-speech-pronunciation-trainer.html","@type":"BlogPosting","headline":"Finetuning a pretrained QuartzNet on TIMIT","dateModified":"2022-05-24T00:00:00-05:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://mizoru.github.io/blog/2022/05/24/thunder-speech-pronunciation-trainer.html"},"description":"Никто не знает, что здесь будет.","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/blog/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://mizoru.github.io/blog/feed.xml" title="Посты mizoru" /><link rel="shortcut icon" type="image/x-icon" href="/blog/images/favicon.ico"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Primer/15.2.0/primer.css" integrity="sha512-xTz2ys4coGAOz8vuV1NcQBkgVmKhsSEtjbqyMJbBHRplFuvKIUo6xhLHpAyPt9mfR6twHJgn9OgVLuqOvjeBhg==" crossorigin="anonymous" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous" />
@@ -75,7 +75,7 @@ window.onload = wrap_img;
         <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">Finetuning a pretrained QuartzNet on TIMIT using [thunder-speech](https://github.com/scart97/thunder-speech)</h1>
+    <h1 class="post-title p-name" itemprop="name headline">Finetuning a pretrained QuartzNet on TIMIT</h1>
 <p class="post-meta post-meta-title"><time class="dt-published" datetime="2022-05-24T00:00:00-05:00" itemprop="datePublished">
         May 24, 2022
       </time>
@@ -118,11 +118,36 @@ window.onload = wrap_img;
 <div class="cell border-box-sizing text_cell rendered">
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>I talk more about this project <a href="twitter.com">here on Twitter</a></p>
+<p>I talk more about this project <a href="https://twitter.com/Irmuzy/status/1529087355377836032">here on Twitter</a></p>
 
 </div>
 </div>
 </div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Cloning the repository that contains <code>.csv</code>'s with processed labels and filepaths, courtesy of my coursemates.</p>
+
+</div>
+</div>
+</div>
+    
+    
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-python"><pre><span></span><span class="err">!</span><span class="n">git</span> <span class="n">clone</span> <span class="n">https</span><span class="p">:</span><span class="o">//</span><span class="n">github</span><span class="o">.</span><span class="n">com</span><span class="o">/</span><span class="n">mizoru</span><span class="o">/</span><span class="n">pronunciation</span><span class="o">-</span><span class="n">trainer</span><span class="o">.</span><span class="n">git</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+</div>
+    
+
 <div class="cell border-box-sizing text_cell rendered">
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
@@ -271,7 +296,8 @@ window.onload = wrap_img;
 <div class=" highlight hl-python"><pre><span></span><span class="k">class</span> <span class="nc">TimitDataset</span><span class="p">(</span><span class="n">BaseSpeechDataset</span><span class="p">):</span>
   <span class="k">def</span> <span class="fm">__init__</span><span class="p">(</span>
         <span class="bp">self</span><span class="p">,</span> <span class="n">items</span><span class="p">:</span> <span class="n">Sequence</span><span class="p">,</span> <span class="n">force_mono</span><span class="p">:</span> <span class="nb">bool</span> <span class="o">=</span> <span class="kc">True</span><span class="p">,</span> <span class="n">sample_rate</span><span class="p">:</span> <span class="nb">int</span> <span class="o">=</span> <span class="mi">16000</span><span class="p">,</span>
-        <span class="n">time_stretch</span> <span class="o">=</span> <span class="mf">0.2</span><span class="p">,</span> <span class="n">volume</span> <span class="o">=</span> <span class="mf">0.2</span><span class="p">,</span> <span class="n">pitch</span> <span class="o">=</span> <span class="mi">2</span><span class="p">,</span> <span class="n">noise_files</span> <span class="o">=</span> <span class="kc">None</span>
+        <span class="n">time_stretch</span> <span class="o">=</span> <span class="kc">None</span><span class="p">,</span> <span class="n">volume</span> <span class="o">=</span> <span class="kc">None</span><span class="p">,</span> <span class="n">pitch</span> <span class="o">=</span> <span class="kc">None</span><span class="p">,</span> <span class="n">noise_files</span> <span class="o">=</span> <span class="kc">None</span>
+                <span class="c1">#       0.2,          0.2,            2</span>
     <span class="p">):</span>
     <span class="nb">super</span><span class="p">()</span><span class="o">.</span><span class="fm">__init__</span><span class="p">(</span><span class="n">items</span><span class="p">,</span> <span class="n">force_mono</span><span class="p">,</span> <span class="n">sample_rate</span><span class="p">)</span>
     <span class="bp">self</span><span class="o">.</span><span class="n">librosa_transforms</span> <span class="o">=</span> <span class="nb">bool</span><span class="p">(</span><span class="n">time_stretch</span><span class="p">)</span>
@@ -282,16 +308,17 @@ window.onload = wrap_img;
 
   <span class="k">def</span> <span class="nf">open_audio</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">item</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="n">Tuple</span><span class="p">[</span><span class="n">Tensor</span><span class="p">,</span> <span class="nb">int</span><span class="p">]:</span>
     <span class="n">audio</span><span class="p">,</span><span class="n">sr</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">loader</span><span class="o">.</span><span class="n">open_audio</span><span class="p">(</span><span class="n">item</span><span class="o">.</span><span class="n">Path</span><span class="p">)</span>
+
+<span class="c1"># adding noise</span>
     <span class="k">if</span> <span class="bp">self</span><span class="o">.</span><span class="n">noise_files</span><span class="p">:</span>
       <span class="n">idx</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="n">torch</span><span class="o">.</span><span class="n">randint</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="nb">len</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">noise_files</span><span class="p">),</span> <span class="p">(</span><span class="mi">1</span><span class="p">,)))</span>
       <span class="n">noise</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">loader</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">noise_files</span><span class="p">[</span><span class="n">idx</span><span class="p">])</span> 
-      <span class="n">noize_level</span> <span class="o">=</span> <span class="n">torch</span><span class="o">.</span><span class="n">rand</span><span class="p">(</span><span class="mi">1</span><span class="p">)</span> <span class="o">*</span> <span class="mi">40</span>    <span class="c1"># [0, 40]</span>
-
+<span class="c1"># this bit of code I got from a course, it gets the loudness ratio right</span>
+      <span class="n">noize_level</span> <span class="o">=</span> <span class="n">torch</span><span class="o">.</span><span class="n">rand</span><span class="p">(</span><span class="mi">1</span><span class="p">)</span> <span class="o">*</span> <span class="mi">40</span>    <span class="c1"># from 0 to 40</span>
       <span class="n">noize_energy</span> <span class="o">=</span> <span class="n">torch</span><span class="o">.</span><span class="n">norm</span><span class="p">(</span><span class="n">noise</span><span class="p">)</span>
       <span class="n">audio_energy</span> <span class="o">=</span> <span class="n">torch</span><span class="o">.</span><span class="n">norm</span><span class="p">(</span><span class="n">audio</span><span class="p">)</span>
-
       <span class="n">alpha</span> <span class="o">=</span> <span class="p">(</span><span class="n">audio_energy</span> <span class="o">/</span> <span class="n">noize_energy</span><span class="p">)</span> <span class="o">*</span> <span class="n">torch</span><span class="o">.</span><span class="n">pow</span><span class="p">(</span><span class="mi">10</span><span class="p">,</span> <span class="o">-</span><span class="n">noize_level</span> <span class="o">/</span> <span class="mi">20</span><span class="p">)</span>
-
+<span class="c1"># repeat the noise as many times as wee need</span>
       <span class="k">if</span> <span class="n">noise</span><span class="o">.</span><span class="n">shape</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span> <span class="o">&lt;</span> <span class="n">audio</span><span class="o">.</span><span class="n">shape</span><span class="p">[</span><span class="mi">1</span><span class="p">]:</span>
         <span class="n">noise</span> <span class="o">=</span> <span class="n">torch</span><span class="o">.</span><span class="n">cat</span><span class="p">([</span><span class="n">noise</span><span class="p">]</span> <span class="o">*</span> <span class="n">ceil</span><span class="p">(</span><span class="n">audio</span><span class="o">.</span><span class="n">shape</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span> <span class="o">/</span> <span class="n">noise</span><span class="o">.</span><span class="n">shape</span><span class="p">[</span><span class="mi">1</span><span class="p">]),</span> <span class="mi">1</span><span class="p">)</span>
       <span class="n">noise</span> <span class="o">=</span> <span class="n">noise</span><span class="p">[:,:</span><span class="n">audio</span><span class="o">.</span><span class="n">shape</span><span class="p">[</span><span class="mi">1</span><span class="p">]]</span>
@@ -299,17 +326,24 @@ window.onload = wrap_img;
       <span class="n">audio</span> <span class="o">=</span> <span class="n">audio</span> <span class="o">+</span> <span class="n">alpha</span> <span class="o">*</span> <span class="n">noise</span>
       <span class="n">audio</span><span class="o">.</span><span class="n">clamp_</span><span class="p">(</span><span class="o">-</span><span class="mi">1</span><span class="p">,</span> <span class="mi">1</span><span class="p">)</span>
 
-    <span class="c1"># if self.pitch:                                              #THIS ONE TAKES FOREVER </span>
-    <span class="c1">#   audio = torchaudio.functional.pitch_shift(audio, sr, self.pitch * torch.randn(1))  #AND PROBABLY DOESN'T WORK</span>
-    <span class="c1"># if self.volume:</span>
-    <span class="c1">#   audio = torchaudio.transforms.Vol(torch.abs(1+self.volume*torch.randn(1)))(audio)    #</span>
-    <span class="c1"># if self.librosa_transforms: audio = audio.numpy().squeeze()</span>
-    <span class="c1"># if self.time_stretch:</span>
-    <span class="c1">#   audio = librosa.effects.time_stretch(audio, np.abs(1 + self.time_stretch * np.random.randn()))</span>
-    <span class="c1"># if self.librosa_transforms: audio = torch.Tensor(audio).unsqueeze(0)</span>
+  <span class="c1"># THIS TRANSFORM TAKES FOREVER</span>
+    <span class="k">if</span> <span class="bp">self</span><span class="o">.</span><span class="n">pitch</span><span class="p">:</span>             <span class="c1"># AND PROBABLY DOESN'T WORK  </span>
+      <span class="n">audio</span> <span class="o">=</span> <span class="n">torchaudio</span><span class="o">.</span><span class="n">functional</span><span class="o">.</span><span class="n">pitch_shift</span><span class="p">(</span><span class="n">audio</span><span class="p">,</span> <span class="n">sr</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">pitch</span> <span class="o">*</span> <span class="n">torch</span><span class="o">.</span><span class="n">randn</span><span class="p">(</span><span class="mi">1</span><span class="p">))</span>  
+   
+    <span class="k">if</span> <span class="bp">self</span><span class="o">.</span><span class="n">volume</span><span class="p">:</span>    <span class="c1"># this transform led to CUDA out of memory</span>
+      <span class="n">audio</span> <span class="o">=</span> <span class="n">torchaudio</span><span class="o">.</span><span class="n">transforms</span><span class="o">.</span><span class="n">Vol</span><span class="p">(</span><span class="n">torch</span><span class="o">.</span><span class="n">abs</span><span class="p">(</span><span class="mi">1</span><span class="o">+</span><span class="bp">self</span><span class="o">.</span><span class="n">volume</span><span class="o">*</span><span class="n">torch</span><span class="o">.</span><span class="n">randn</span><span class="p">(</span><span class="mi">1</span><span class="p">)))(</span><span class="n">audio</span><span class="p">)</span> 
+    
+    <span class="c1"># this works, but I didn't get better results with it, might need tuning</span>
+    <span class="k">if</span> <span class="bp">self</span><span class="o">.</span><span class="n">librosa_transforms</span><span class="p">:</span> <span class="n">audio</span> <span class="o">=</span> <span class="n">audio</span><span class="o">.</span><span class="n">numpy</span><span class="p">()</span><span class="o">.</span><span class="n">squeeze</span><span class="p">()</span>
+    <span class="k">if</span> <span class="bp">self</span><span class="o">.</span><span class="n">time_stretch</span><span class="p">:</span>
+      <span class="n">audio</span> <span class="o">=</span> <span class="n">librosa</span><span class="o">.</span><span class="n">effects</span><span class="o">.</span><span class="n">time_stretch</span><span class="p">(</span><span class="n">audio</span><span class="p">,</span> <span class="n">np</span><span class="o">.</span><span class="n">abs</span><span class="p">(</span><span class="mi">1</span> <span class="o">+</span> <span class="bp">self</span><span class="o">.</span><span class="n">time_stretch</span> <span class="o">*</span> <span class="n">np</span><span class="o">.</span><span class="n">random</span><span class="o">.</span><span class="n">randn</span><span class="p">()))</span>
+    <span class="k">if</span> <span class="bp">self</span><span class="o">.</span><span class="n">librosa_transforms</span><span class="p">:</span> <span class="n">audio</span> <span class="o">=</span> <span class="n">torch</span><span class="o">.</span><span class="n">Tensor</span><span class="p">(</span><span class="n">audio</span><span class="p">)</span><span class="o">.</span><span class="n">unsqueeze</span><span class="p">(</span><span class="mi">0</span><span class="p">)</span>
+
     <span class="k">return</span> <span class="n">audio</span><span class="p">,</span> <span class="n">sr</span> 
+
   <span class="k">def</span> <span class="nf">open_text</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">item</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="nb">str</span><span class="p">:</span>
     <span class="k">return</span> <span class="n">item</span><span class="o">.</span><span class="n">Transcription</span>
+    
   <span class="k">def</span> <span class="nf">get_item</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">index</span><span class="p">:</span> <span class="nb">int</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="n">Any</span><span class="p">:</span>
     <span class="k">return</span> <span class="bp">self</span><span class="o">.</span><span class="n">items</span><span class="o">.</span><span class="n">iloc</span><span class="p">[</span><span class="n">index</span><span class="p">]</span>
 </pre></div>
@@ -414,7 +448,7 @@ window.onload = wrap_img;
 <div class="cell border-box-sizing text_cell rendered">
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>getting the tokens from my data</p>
+<p>Getting the tokens from the data</p>
 
 </div>
 </div>
@@ -1014,7 +1048,7 @@ Find logs at: <code>./wandb/run-20220523_192302-fkhq1fxl/logs</code>
 <div class="cell border-box-sizing text_cell rendered">
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>I came up with a small list of words, that learners might struggle with differentiating.</p>
+<p>I came up with a small list of words that learners might struggle with differentiating.</p>
 
 </div>
 </div>
@@ -1026,7 +1060,8 @@ Find logs at: <code>./wandb/run-20220523_192302-fkhq1fxl/logs</code>
 
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-python"><pre><span></span><span class="n">subset</span> <span class="o">=</span> <span class="p">[</span><span class="s2">"thin"</span><span class="p">,</span> <span class="s2">"thing"</span><span class="p">,</span> <span class="s2">"think"</span><span class="p">,</span> <span class="s2">"fit"</span><span class="p">,</span> <span class="s2">"feet"</span><span class="p">,</span> <span class="s2">"bald"</span><span class="p">,</span> <span class="s2">"bold"</span><span class="p">,</span> <span class="s2">"food"</span><span class="p">,</span> <span class="s2">"foot"</span><span class="p">,</span> <span class="s2">"death"</span><span class="p">,</span> <span class="s2">"deaf"</span><span class="p">,</span> <span class="s2">"worm"</span><span class="p">,</span> <span class="s2">"warm"</span><span class="p">]</span>
+<div class=" highlight hl-python"><pre><span></span><span class="n">subset</span> <span class="o">=</span> <span class="p">[</span><span class="s2">"thin"</span><span class="p">,</span> <span class="s2">"thing"</span><span class="p">,</span> <span class="s2">"think"</span><span class="p">,</span> <span class="s2">"fit"</span><span class="p">,</span> <span class="s2">"feet"</span><span class="p">,</span> <span class="s2">"bald"</span><span class="p">,</span> <span class="s2">"bold"</span><span class="p">,</span> <span class="s2">"food"</span><span class="p">,</span> <span class="s2">"foot"</span><span class="p">,</span>
+          <span class="s2">"death"</span><span class="p">,</span> <span class="s2">"deaf"</span><span class="p">,</span> <span class="s2">"worm"</span><span class="p">,</span> <span class="s2">"warm"</span><span class="p">]</span>
 </pre></div>
 
     </div>
@@ -1124,7 +1159,7 @@ Q22-eng-English.zip 100%[===================&gt;] 306.34M  11.6MB/s    in 27s
 <div class="cell border-box-sizing text_cell rendered">
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>I get the raw prediction tensors and then convert them.</p>
+<p>I get the raw prediction tensors and then convert them into the format I need.</p>
 
 </div>
 </div>
