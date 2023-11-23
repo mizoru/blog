@@ -1,4484 +1,4484 @@
-#1. 日
+# 1. 日
 [日](https://jisho.org/search/日%23kanjii) [日](https://jisho.org/search/*日*)
-#2. 人
+# 2. 人
 [人](https://jisho.org/search/人%23kanjii) [人](https://jisho.org/search/*人*)
-#3. 一
+# 3. 一
 [一](https://jisho.org/search/一%23kanjii) [一](https://jisho.org/search/*一*)
-#4. 大
+# 4. 大
 [大](https://jisho.org/search/大%23kanjii) [大](https://jisho.org/search/*大*)
-#5. 本
+# 5. 本
 [本](https://jisho.org/search/本%23kanjii) [本](https://jisho.org/search/*本*)
-#6. 中
+# 6. 中
 [中](https://jisho.org/search/中%23kanjii) [中](https://jisho.org/search/*中*)
-#7. 出
+# 7. 出
 [出](https://jisho.org/search/出%23kanjii) [出](https://jisho.org/search/*出*)
-#8. 年
+# 8. 年
 [年](https://jisho.org/search/年%23kanjii) [年](https://jisho.org/search/*年*)
-#9. 行
+# 9. 行
 [行](https://jisho.org/search/行%23kanjii) [行](https://jisho.org/search/*行*)
-#10. 時
+# 10. 時
 [時](https://jisho.org/search/時%23kanjii) [時](https://jisho.org/search/*時*)
-#11. 事
+# 11. 事
 [事](https://jisho.org/search/事%23kanjii) [事](https://jisho.org/search/*事*)
-#12. 分
+# 12. 分
 [分](https://jisho.org/search/分%23kanjii) [分](https://jisho.org/search/*分*)
-#13. 上
+# 13. 上
 [上](https://jisho.org/search/上%23kanjii) [上](https://jisho.org/search/*上*)
-#14. 会
+# 14. 会
 [会](https://jisho.org/search/会%23kanjii) [会](https://jisho.org/search/*会*)
-#15. 生
+# 15. 生
 [生](https://jisho.org/search/生%23kanjii) [生](https://jisho.org/search/*生*)
-#16. 合
+# 16. 合
 [合](https://jisho.org/search/合%23kanjii) [合](https://jisho.org/search/*合*)
-#17. 見
+# 17. 見
 [見](https://jisho.org/search/見%23kanjii) [見](https://jisho.org/search/*見*)
-#18. 国
+# 18. 国
 [国](https://jisho.org/search/国%23kanjii) [国](https://jisho.org/search/*国*)
-#19. 間
+# 19. 間
 [間](https://jisho.org/search/間%23kanjii) [間](https://jisho.org/search/*間*)
-#20. 自
+# 20. 自
 [自](https://jisho.org/search/自%23kanjii) [自](https://jisho.org/search/*自*)
-#21. 者
+# 21. 者
 [者](https://jisho.org/search/者%23kanjii) [者](https://jisho.org/search/*者*)
-#22. 方
+# 22. 方
 [方](https://jisho.org/search/方%23kanjii) [方](https://jisho.org/search/*方*)
-#23. 手
+# 23. 手
 [手](https://jisho.org/search/手%23kanjii) [手](https://jisho.org/search/*手*)
-#24. 子
+# 24. 子
 [子](https://jisho.org/search/子%23kanjii) [子](https://jisho.org/search/*子*)
-#25. 前
+# 25. 前
 [前](https://jisho.org/search/前%23kanjii) [前](https://jisho.org/search/*前*)
-#26. 場
+# 26. 場
 [場](https://jisho.org/search/場%23kanjii) [場](https://jisho.org/search/*場*)
-#27. 地
+# 27. 地
 [地](https://jisho.org/search/地%23kanjii) [地](https://jisho.org/search/*地*)
-#28. 月
+# 28. 月
 [月](https://jisho.org/search/月%23kanjii) [月](https://jisho.org/search/*月*)
-#29. 入
+# 29. 入
 [入](https://jisho.org/search/入%23kanjii) [入](https://jisho.org/search/*入*)
-#30. 後
+# 30. 後
 [後](https://jisho.org/search/後%23kanjii) [後](https://jisho.org/search/*後*)
-#31. 学
+# 31. 学
 [学](https://jisho.org/search/学%23kanjii) [学](https://jisho.org/search/*学*)
-#32. 目
+# 32. 目
 [目](https://jisho.org/search/目%23kanjii) [目](https://jisho.org/search/*目*)
-#33. 部
+# 33. 部
 [部](https://jisho.org/search/部%23kanjii) [部](https://jisho.org/search/*部*)
-#34. 新
+# 34. 新
 [新](https://jisho.org/search/新%23kanjii) [新](https://jisho.org/search/*新*)
-#35. 発
+# 35. 発
 [発](https://jisho.org/search/発%23kanjii) [発](https://jisho.org/search/*発*)
-#36. 長
+# 36. 長
 [長](https://jisho.org/search/長%23kanjii) [長](https://jisho.org/search/*長*)
-#37. 下
+# 37. 下
 [下](https://jisho.org/search/下%23kanjii) [下](https://jisho.org/search/*下*)
-#38. 的
+# 38. 的
 [的](https://jisho.org/search/的%23kanjii) [的](https://jisho.org/search/*的*)
-#39. 高
+# 39. 高
 [高](https://jisho.org/search/高%23kanjii) [高](https://jisho.org/search/*高*)
-#40. 作
+# 40. 作
 [作](https://jisho.org/search/作%23kanjii) [作](https://jisho.org/search/*作*)
-#41. 内
+# 41. 内
 [内](https://jisho.org/search/内%23kanjii) [内](https://jisho.org/search/*内*)
-#42. 動
+# 42. 動
 [動](https://jisho.org/search/動%23kanjii) [動](https://jisho.org/search/*動*)
-#43. 言
+# 43. 言
 [言](https://jisho.org/search/言%23kanjii) [言](https://jisho.org/search/*言*)
-#44. 同
+# 44. 同
 [同](https://jisho.org/search/同%23kanjii) [同](https://jisho.org/search/*同*)
-#45. 気
+# 45. 気
 [気](https://jisho.org/search/気%23kanjii) [気](https://jisho.org/search/*気*)
-#46. 社
+# 46. 社
 [社](https://jisho.org/search/社%23kanjii) [社](https://jisho.org/search/*社*)
-#47. 用
+# 47. 用
 [用](https://jisho.org/search/用%23kanjii) [用](https://jisho.org/search/*用*)
-#48. 代
+# 48. 代
 [代](https://jisho.org/search/代%23kanjii) [代](https://jisho.org/search/*代*)
-#49. 定
+# 49. 定
 [定](https://jisho.org/search/定%23kanjii) [定](https://jisho.org/search/*定*)
-#50. 理
+# 50. 理
 [理](https://jisho.org/search/理%23kanjii) [理](https://jisho.org/search/*理*)
-#51. 立
+# 51. 立
 [立](https://jisho.org/search/立%23kanjii) [立](https://jisho.org/search/*立*)
-#52. 体
+# 52. 体
 [体](https://jisho.org/search/体%23kanjii) [体](https://jisho.org/search/*体*)
-#53. 度
+# 53. 度
 [度](https://jisho.org/search/度%23kanjii) [度](https://jisho.org/search/*度*)
-#54. 通
+# 54. 通
 [通](https://jisho.org/search/通%23kanjii) [通](https://jisho.org/search/*通*)
-#55. 家
+# 55. 家
 [家](https://jisho.org/search/家%23kanjii) [家](https://jisho.org/search/*家*)
-#56. 明
+# 56. 明
 [明](https://jisho.org/search/明%23kanjii) [明](https://jisho.org/search/*明*)
-#57. 業
+# 57. 業
 [業](https://jisho.org/search/業%23kanjii) [業](https://jisho.org/search/*業*)
-#58. 対
+# 58. 対
 [対](https://jisho.org/search/対%23kanjii) [対](https://jisho.org/search/*対*)
-#59. 関
+# 59. 関
 [関](https://jisho.org/search/関%23kanjii) [関](https://jisho.org/search/*関*)
-#60. 当
+# 60. 当
 [当](https://jisho.org/search/当%23kanjii) [当](https://jisho.org/search/*当*)
-#61. 力
+# 61. 力
 [力](https://jisho.org/search/力%23kanjii) [力](https://jisho.org/search/*力*)
-#62. 物
+# 62. 物
 [物](https://jisho.org/search/物%23kanjii) [物](https://jisho.org/search/*物*)
-#63. 思
+# 63. 思
 [思](https://jisho.org/search/思%23kanjii) [思](https://jisho.org/search/*思*)
-#64. 実
+# 64. 実
 [実](https://jisho.org/search/実%23kanjii) [実](https://jisho.org/search/*実*)
-#65. 最
+# 65. 最
 [最](https://jisho.org/search/最%23kanjii) [最](https://jisho.org/search/*最*)
-#66. 金
+# 66. 金
 [金](https://jisho.org/search/金%23kanjii) [金](https://jisho.org/search/*金*)
-#67. 全
+# 67. 全
 [全](https://jisho.org/search/全%23kanjii) [全](https://jisho.org/search/*全*)
-#68. 話
+# 68. 話
 [話](https://jisho.org/search/話%23kanjii) [話](https://jisho.org/search/*話*)
-#69. 表
+# 69. 表
 [表](https://jisho.org/search/表%23kanjii) [表](https://jisho.org/search/*表*)
-#70. 名
+# 70. 名
 [名](https://jisho.org/search/名%23kanjii) [名](https://jisho.org/search/*名*)
-#71. 小
+# 71. 小
 [小](https://jisho.org/search/小%23kanjii) [小](https://jisho.org/search/*小*)
-#72. 来
+# 72. 来
 [来](https://jisho.org/search/来%23kanjii) [来](https://jisho.org/search/*来*)
-#73. 書
+# 73. 書
 [書](https://jisho.org/search/書%23kanjii) [書](https://jisho.org/search/*書*)
-#74. 今
+# 74. 今
 [今](https://jisho.org/search/今%23kanjii) [今](https://jisho.org/search/*今*)
-#75. 外
+# 75. 外
 [外](https://jisho.org/search/外%23kanjii) [外](https://jisho.org/search/*外*)
-#76. 意
+# 76. 意
 [意](https://jisho.org/search/意%23kanjii) [意](https://jisho.org/search/*意*)
-#77. 性
+# 77. 性
 [性](https://jisho.org/search/性%23kanjii) [性](https://jisho.org/search/*性*)
-#78. 現
+# 78. 現
 [現](https://jisho.org/search/現%23kanjii) [現](https://jisho.org/search/*現*)
-#79. 成
+# 79. 成
 [成](https://jisho.org/search/成%23kanjii) [成](https://jisho.org/search/*成*)
-#80. 文
+# 80. 文
 [文](https://jisho.org/search/文%23kanjii) [文](https://jisho.org/search/*文*)
-#81. 女
+# 81. 女
 [女](https://jisho.org/search/女%23kanjii) [女](https://jisho.org/search/*女*)
-#82. 開
+# 82. 開
 [開](https://jisho.org/search/開%23kanjii) [開](https://jisho.org/search/*開*)
-#83. 所
+# 83. 所
 [所](https://jisho.org/search/所%23kanjii) [所](https://jisho.org/search/*所*)
-#84. 以
+# 84. 以
 [以](https://jisho.org/search/以%23kanjii) [以](https://jisho.org/search/*以*)
-#85. 市
+# 85. 市
 [市](https://jisho.org/search/市%23kanjii) [市](https://jisho.org/search/*市*)
-#86. 連
+# 86. 連
 [連](https://jisho.org/search/連%23kanjii) [連](https://jisho.org/search/*連*)
-#87. 法
+# 87. 法
 [法](https://jisho.org/search/法%23kanjii) [法](https://jisho.org/search/*法*)
-#88. 回
+# 88. 回
 [回](https://jisho.org/search/回%23kanjii) [回](https://jisho.org/search/*回*)
-#89. 知
+# 89. 知
 [知](https://jisho.org/search/知%23kanjii) [知](https://jisho.org/search/*知*)
-#90. 記
+# 90. 記
 [記](https://jisho.org/search/記%23kanjii) [記](https://jisho.org/search/*記*)
-#91. 取
+# 91. 取
 [取](https://jisho.org/search/取%23kanjii) [取](https://jisho.org/search/*取*)
-#92. 道
+# 92. 道
 [道](https://jisho.org/search/道%23kanjii) [道](https://jisho.org/search/*道*)
-#93. 戦
+# 93. 戦
 [戦](https://jisho.org/search/戦%23kanjii) [戦](https://jisho.org/search/*戦*)
-#94. 化
+# 94. 化
 [化](https://jisho.org/search/化%23kanjii) [化](https://jisho.org/search/*化*)
-#95. 不
+# 95. 不
 [不](https://jisho.org/search/不%23kanjii) [不](https://jisho.org/search/*不*)
-#96. 世
+# 96. 世
 [世](https://jisho.org/search/世%23kanjii) [世](https://jisho.org/search/*世*)
-#97. 三
+# 97. 三
 [三](https://jisho.org/search/三%23kanjii) [三](https://jisho.org/search/*三*)
-#98. 問
+# 98. 問
 [問](https://jisho.org/search/問%23kanjii) [問](https://jisho.org/search/*問*)
-#99. 多
+# 99. 多
 [多](https://jisho.org/search/多%23kanjii) [多](https://jisho.org/search/*多*)
-#100. 山
+# 100. 山
 [山](https://jisho.org/search/山%23kanjii) [山](https://jisho.org/search/*山*)
-#101. 主
+# 101. 主
 [主](https://jisho.org/search/主%23kanjii) [主](https://jisho.org/search/*主*)
-#102. 心
+# 102. 心
 [心](https://jisho.org/search/心%23kanjii) [心](https://jisho.org/search/*心*)
-#103. 機
+# 103. 機
 [機](https://jisho.org/search/機%23kanjii) [機](https://jisho.org/search/*機*)
-#104. 野
+# 104. 野
 [野](https://jisho.org/search/野%23kanjii) [野](https://jisho.org/search/*野*)
-#105. 二
+# 105. 二
 [二](https://jisho.org/search/二%23kanjii) [二](https://jisho.org/search/*二*)
-#106. 要
+# 106. 要
 [要](https://jisho.org/search/要%23kanjii) [要](https://jisho.org/search/*要*)
-#107. 持
+# 107. 持
 [持](https://jisho.org/search/持%23kanjii) [持](https://jisho.org/search/*持*)
-#108. 数
+# 108. 数
 [数](https://jisho.org/search/数%23kanjii) [数](https://jisho.org/search/*数*)
-#109. 画
+# 109. 画
 [画](https://jisho.org/search/画%23kanjii) [画](https://jisho.org/search/*画*)
-#110. 教
+# 110. 教
 [教](https://jisho.org/search/教%23kanjii) [教](https://jisho.org/search/*教*)
-#111. 近
+# 111. 近
 [近](https://jisho.org/search/近%23kanjii) [近](https://jisho.org/search/*近*)
-#112. 第
+# 112. 第
 [第](https://jisho.org/search/第%23kanjii) [第](https://jisho.org/search/*第*)
-#113. 相
+# 113. 相
 [相](https://jisho.org/search/相%23kanjii) [相](https://jisho.org/search/*相*)
-#114. 情
+# 114. 情
 [情](https://jisho.org/search/情%23kanjii) [情](https://jisho.org/search/*情*)
-#115. 先
+# 115. 先
 [先](https://jisho.org/search/先%23kanjii) [先](https://jisho.org/search/*先*)
-#116. 使
+# 116. 使
 [使](https://jisho.org/search/使%23kanjii) [使](https://jisho.org/search/*使*)
-#117. 無
+# 117. 無
 [無](https://jisho.org/search/無%23kanjii) [無](https://jisho.org/search/*無*)
-#118. 報
+# 118. 報
 [報](https://jisho.org/search/報%23kanjii) [報](https://jisho.org/search/*報*)
-#119. 集
+# 119. 集
 [集](https://jisho.org/search/集%23kanjii) [集](https://jisho.org/search/*集*)
-#120. 考
+# 120. 考
 [考](https://jisho.org/search/考%23kanjii) [考](https://jisho.org/search/*考*)
-#121. 水
+# 121. 水
 [水](https://jisho.org/search/水%23kanjii) [水](https://jisho.org/search/*水*)
-#122. 正
+# 122. 正
 [正](https://jisho.org/search/正%23kanjii) [正](https://jisho.org/search/*正*)
-#123. 東
+# 123. 東
 [東](https://jisho.org/search/東%23kanjii) [東](https://jisho.org/search/*東*)
-#124. 経
+# 124. 経
 [経](https://jisho.org/search/経%23kanjii) [経](https://jisho.org/search/*経*)
-#125. 面
+# 125. 面
 [面](https://jisho.org/search/面%23kanjii) [面](https://jisho.org/search/*面*)
-#126. 変
+# 126. 変
 [変](https://jisho.org/search/変%23kanjii) [変](https://jisho.org/search/*変*)
-#127. 品
+# 127. 品
 [品](https://jisho.org/search/品%23kanjii) [品](https://jisho.org/search/*品*)
-#128. 次
+# 128. 次
 [次](https://jisho.org/search/次%23kanjii) [次](https://jisho.org/search/*次*)
-#129. 田
+# 129. 田
 [田](https://jisho.org/search/田%23kanjii) [田](https://jisho.org/search/*田*)
-#130. 加
+# 130. 加
 [加](https://jisho.org/search/加%23kanjii) [加](https://jisho.org/search/*加*)
-#131. 初
+# 131. 初
 [初](https://jisho.org/search/初%23kanjii) [初](https://jisho.org/search/*初*)
-#132. 利
+# 132. 利
 [利](https://jisho.org/search/利%23kanjii) [利](https://jisho.org/search/*利*)
-#133. 安
+# 133. 安
 [安](https://jisho.org/search/安%23kanjii) [安](https://jisho.org/search/*安*)
-#134. 期
+# 134. 期
 [期](https://jisho.org/search/期%23kanjii) [期](https://jisho.org/search/*期*)
-#135. 結
+# 135. 結
 [結](https://jisho.org/search/結%23kanjii) [結](https://jisho.org/search/*結*)
-#136. 選
+# 136. 選
 [選](https://jisho.org/search/選%23kanjii) [選](https://jisho.org/search/*選*)
-#137. 原
+# 137. 原
 [原](https://jisho.org/search/原%23kanjii) [原](https://jisho.org/search/*原*)
-#138. 民
+# 138. 民
 [民](https://jisho.org/search/民%23kanjii) [民](https://jisho.org/search/*民*)
-#139. 員
+# 139. 員
 [員](https://jisho.org/search/員%23kanjii) [員](https://jisho.org/search/*員*)
-#140. 点
+# 140. 点
 [点](https://jisho.org/search/点%23kanjii) [点](https://jisho.org/search/*点*)
-#141. 公
+# 141. 公
 [公](https://jisho.org/search/公%23kanjii) [公](https://jisho.org/search/*公*)
-#142. 信
+# 142. 信
 [信](https://jisho.org/search/信%23kanjii) [信](https://jisho.org/search/*信*)
-#143. 在
+# 143. 在
 [在](https://jisho.org/search/在%23kanjii) [在](https://jisho.org/search/*在*)
-#144. 決
+# 144. 決
 [決](https://jisho.org/search/決%23kanjii) [決](https://jisho.org/search/*決*)
-#145. 語
+# 145. 語
 [語](https://jisho.org/search/語%23kanjii) [語](https://jisho.org/search/*語*)
-#146. 活
+# 146. 活
 [活](https://jisho.org/search/活%23kanjii) [活](https://jisho.org/search/*活*)
-#147. 私
+# 147. 私
 [私](https://jisho.org/search/私%23kanjii) [私](https://jisho.org/search/*私*)
-#148. 車
+# 148. 車
 [車](https://jisho.org/search/車%23kanjii) [車](https://jisho.org/search/*車*)
-#149. 感
+# 149. 感
 [感](https://jisho.org/search/感%23kanjii) [感](https://jisho.org/search/*感*)
-#150. 海
+# 150. 海
 [海](https://jisho.org/search/海%23kanjii) [海](https://jisho.org/search/*海*)
-#151. 解
+# 151. 解
 [解](https://jisho.org/search/解%23kanjii) [解](https://jisho.org/search/*解*)
-#152. 向
+# 152. 向
 [向](https://jisho.org/search/向%23kanjii) [向](https://jisho.org/search/*向*)
-#153. 真
+# 153. 真
 [真](https://jisho.org/search/真%23kanjii) [真](https://jisho.org/search/*真*)
-#154. 付
+# 154. 付
 [付](https://jisho.org/search/付%23kanjii) [付](https://jisho.org/search/*付*)
-#155. 題
+# 155. 題
 [題](https://jisho.org/search/題%23kanjii) [題](https://jisho.org/search/*題*)
-#156. 平
+# 156. 平
 [平](https://jisho.org/search/平%23kanjii) [平](https://jisho.org/search/*平*)
-#157. 引
+# 157. 引
 [引](https://jisho.org/search/引%23kanjii) [引](https://jisho.org/search/*引*)
-#158. 特
+# 158. 特
 [特](https://jisho.org/search/特%23kanjii) [特](https://jisho.org/search/*特*)
-#159. 保
+# 159. 保
 [保](https://jisho.org/search/保%23kanjii) [保](https://jisho.org/search/*保*)
-#160. 受
+# 160. 受
 [受](https://jisho.org/search/受%23kanjii) [受](https://jisho.org/search/*受*)
-#161. 界
+# 161. 界
 [界](https://jisho.org/search/界%23kanjii) [界](https://jisho.org/search/*界*)
-#162. 別
+# 162. 別
 [別](https://jisho.org/search/別%23kanjii) [別](https://jisho.org/search/*別*)
-#163. 重
+# 163. 重
 [重](https://jisho.org/search/重%23kanjii) [重](https://jisho.org/search/*重*)
-#164. 能
+# 164. 能
 [能](https://jisho.org/search/能%23kanjii) [能](https://jisho.org/search/*能*)
-#165. 電
+# 165. 電
 [電](https://jisho.org/search/電%23kanjii) [電](https://jisho.org/search/*電*)
-#166. 政
+# 166. 政
 [政](https://jisho.org/search/政%23kanjii) [政](https://jisho.org/search/*政*)
-#167. 強
+# 167. 強
 [強](https://jisho.org/search/強%23kanjii) [強](https://jisho.org/search/*強*)
-#168. 何
+# 168. 何
 [何](https://jisho.org/search/何%23kanjii) [何](https://jisho.org/search/*何*)
-#169. 元
+# 169. 元
 [元](https://jisho.org/search/元%23kanjii) [元](https://jisho.org/search/*元*)
-#170. 少
+# 170. 少
 [少](https://jisho.org/search/少%23kanjii) [少](https://jisho.org/search/*少*)
-#171. 続
+# 171. 続
 [続](https://jisho.org/search/続%23kanjii) [続](https://jisho.org/search/*続*)
-#172. 身
+# 172. 身
 [身](https://jisho.org/search/身%23kanjii) [身](https://jisho.org/search/*身*)
-#173. 組
+# 173. 組
 [組](https://jisho.org/search/組%23kanjii) [組](https://jisho.org/search/*組*)
-#174. 調
+# 174. 調
 [調](https://jisho.org/search/調%23kanjii) [調](https://jisho.org/search/*調*)
-#175. 指
+# 175. 指
 [指](https://jisho.org/search/指%23kanjii) [指](https://jisho.org/search/*指*)
-#176. 和
+# 176. 和
 [和](https://jisho.org/search/和%23kanjii) [和](https://jisho.org/search/*和*)
-#177. 口
+# 177. 口
 [口](https://jisho.org/search/口%23kanjii) [口](https://jisho.org/search/*口*)
-#178. 楽
+# 178. 楽
 [楽](https://jisho.org/search/楽%23kanjii) [楽](https://jisho.org/search/*楽*)
-#179. 都
+# 179. 都
 [都](https://jisho.org/search/都%23kanjii) [都](https://jisho.org/search/*都*)
-#180. 川
+# 180. 川
 [川](https://jisho.org/search/川%23kanjii) [川](https://jisho.org/search/*川*)
-#181. 男
+# 181. 男
 [男](https://jisho.org/search/男%23kanjii) [男](https://jisho.org/search/*男*)
-#182. 議
+# 182. 議
 [議](https://jisho.org/search/議%23kanjii) [議](https://jisho.org/search/*議*)
-#183. 切
+# 183. 切
 [切](https://jisho.org/search/切%23kanjii) [切](https://jisho.org/search/*切*)
-#184. 食
+# 184. 食
 [食](https://jisho.org/search/食%23kanjii) [食](https://jisho.org/search/*食*)
-#185. 制
+# 185. 制
 [制](https://jisho.org/search/制%23kanjii) [制](https://jisho.org/search/*制*)
-#186. 校
+# 186. 校
 [校](https://jisho.org/search/校%23kanjii) [校](https://jisho.org/search/*校*)
-#187. 神
+# 187. 神
 [神](https://jisho.org/search/神%23kanjii) [神](https://jisho.org/search/*神*)
-#188. 有
+# 188. 有
 [有](https://jisho.org/search/有%23kanjii) [有](https://jisho.org/search/*有*)
-#189. 番
+# 189. 番
 [番](https://jisho.org/search/番%23kanjii) [番](https://jisho.org/search/*番*)
-#190. 産
+# 190. 産
 [産](https://jisho.org/search/産%23kanjii) [産](https://jisho.org/search/*産*)
-#191. 送
+# 191. 送
 [送](https://jisho.org/search/送%23kanjii) [送](https://jisho.org/search/*送*)
-#192. 治
+# 192. 治
 [治](https://jisho.org/search/治%23kanjii) [治](https://jisho.org/search/*治*)
-#193. 円
+# 193. 円
 [円](https://jisho.org/search/円%23kanjii) [円](https://jisho.org/search/*円*)
-#194. 天
+# 194. 天
 [天](https://jisho.org/search/天%23kanjii) [天](https://jisho.org/search/*天*)
-#195. 空
+# 195. 空
 [空](https://jisho.org/search/空%23kanjii) [空](https://jisho.org/search/*空*)
-#196. 説
+# 196. 説
 [説](https://jisho.org/search/説%23kanjii) [説](https://jisho.org/search/*説*)
-#197. 十
+# 197. 十
 [十](https://jisho.org/search/十%23kanjii) [十](https://jisho.org/search/*十*)
-#198. 売
+# 198. 売
 [売](https://jisho.org/search/売%23kanjii) [売](https://jisho.org/search/*売*)
-#199. 約
+# 199. 約
 [約](https://jisho.org/search/約%23kanjii) [約](https://jisho.org/search/*約*)
-#200. 件
+# 200. 件
 [件](https://jisho.org/search/件%23kanjii) [件](https://jisho.org/search/*件*)
-#201. 確
+# 201. 確
 [確](https://jisho.org/search/確%23kanjii) [確](https://jisho.org/search/*確*)
-#202. 直
+# 202. 直
 [直](https://jisho.org/search/直%23kanjii) [直](https://jisho.org/search/*直*)
-#203. 得
+# 203. 得
 [得](https://jisho.org/search/得%23kanjii) [得](https://jisho.org/search/*得*)
-#204. 運
+# 204. 運
 [運](https://jisho.org/search/運%23kanjii) [運](https://jisho.org/search/*運*)
-#205. 料
+# 205. 料
 [料](https://jisho.org/search/料%23kanjii) [料](https://jisho.org/search/*料*)
-#206. 勝
+# 206. 勝
 [勝](https://jisho.org/search/勝%23kanjii) [勝](https://jisho.org/search/*勝*)
-#207. 味
+# 207. 味
 [味](https://jisho.org/search/味%23kanjii) [味](https://jisho.org/search/*味*)
-#208. 際
+# 208. 際
 [際](https://jisho.org/search/際%23kanjii) [際](https://jisho.org/search/*際*)
-#209. 様
+# 209. 様
 [様](https://jisho.org/search/様%23kanjii) [様](https://jisho.org/search/*様*)
-#210. 店
+# 210. 店
 [店](https://jisho.org/search/店%23kanjii) [店](https://jisho.org/search/*店*)
-#211. 進
+# 211. 進
 [進](https://jisho.org/search/進%23kanjii) [進](https://jisho.org/search/*進*)
-#212. 示
+# 212. 示
 [示](https://jisho.org/search/示%23kanjii) [示](https://jisho.org/search/*示*)
-#213. 流
+# 213. 流
 [流](https://jisho.org/search/流%23kanjii) [流](https://jisho.org/search/*流*)
-#214. 屋
+# 214. 屋
 [屋](https://jisho.org/search/屋%23kanjii) [屋](https://jisho.org/search/*屋*)
-#215. 町
+# 215. 町
 [町](https://jisho.org/search/町%23kanjii) [町](https://jisho.org/search/*町*)
-#216. 聞
+# 216. 聞
 [聞](https://jisho.org/search/聞%23kanjii) [聞](https://jisho.org/search/*聞*)
-#217. 北
+# 217. 北
 [北](https://jisho.org/search/北%23kanjii) [北](https://jisho.org/search/*北*)
-#218. 交
+# 218. 交
 [交](https://jisho.org/search/交%23kanjii) [交](https://jisho.org/search/*交*)
-#219. 過
+# 219. 過
 [過](https://jisho.org/search/過%23kanjii) [過](https://jisho.org/search/*過*)
-#220. 必
+# 220. 必
 [必](https://jisho.org/search/必%23kanjii) [必](https://jisho.org/search/*必*)
-#221. 島
+# 221. 島
 [島](https://jisho.org/search/島%23kanjii) [島](https://jisho.org/search/*島*)
-#222. 広
+# 222. 広
 [広](https://jisho.org/search/広%23kanjii) [広](https://jisho.org/search/*広*)
-#223. 参
+# 223. 参
 [参](https://jisho.org/search/参%23kanjii) [参](https://jisho.org/search/*参*)
-#224. 可
+# 224. 可
 [可](https://jisho.org/search/可%23kanjii) [可](https://jisho.org/search/*可*)
-#225. 務
+# 225. 務
 [務](https://jisho.org/search/務%23kanjii) [務](https://jisho.org/search/*務*)
-#226. 美
+# 226. 美
 [美](https://jisho.org/search/美%23kanjii) [美](https://jisho.org/search/*美*)
-#227. 認
+# 227. 認
 [認](https://jisho.org/search/認%23kanjii) [認](https://jisho.org/search/*認*)
-#228. 式
+# 228. 式
 [式](https://jisho.org/search/式%23kanjii) [式](https://jisho.org/search/*式*)
-#229. 木
+# 229. 木
 [木](https://jisho.org/search/木%23kanjii) [木](https://jisho.org/search/*木*)
-#230. 県
+# 230. 県
 [県](https://jisho.org/search/県%23kanjii) [県](https://jisho.org/search/*県*)
-#231. 置
+# 231. 置
 [置](https://jisho.org/search/置%23kanjii) [置](https://jisho.org/search/*置*)
-#232. 位
+# 232. 位
 [位](https://jisho.org/search/位%23kanjii) [位](https://jisho.org/search/*位*)
-#233. 終
+# 233. 終
 [終](https://jisho.org/search/終%23kanjii) [終](https://jisho.org/search/*終*)
-#234. 村
+# 234. 村
 [村](https://jisho.org/search/村%23kanjii) [村](https://jisho.org/search/*村*)
-#235. 込
+# 235. 込
 [込](https://jisho.org/search/込%23kanjii) [込](https://jisho.org/search/*込*)
-#236. 果
+# 236. 果
 [果](https://jisho.org/search/果%23kanjii) [果](https://jisho.org/search/*果*)
-#237. 設
+# 237. 設
 [設](https://jisho.org/search/設%23kanjii) [設](https://jisho.org/search/*設*)
-#238. 着
+# 238. 着
 [着](https://jisho.org/search/着%23kanjii) [着](https://jisho.org/search/*着*)
-#239. 万
+# 239. 万
 [万](https://jisho.org/search/万%23kanjii) [万](https://jisho.org/search/*万*)
-#240. 始
+# 240. 始
 [始](https://jisho.org/search/始%23kanjii) [始](https://jisho.org/search/*始*)
-#241. 権
+# 241. 権
 [権](https://jisho.org/search/権%23kanjii) [権](https://jisho.org/search/*権*)
-#242. 死
+# 242. 死
 [死](https://jisho.org/search/死%23kanjii) [死](https://jisho.org/search/*死*)
-#243. 線
+# 243. 線
 [線](https://jisho.org/search/線%23kanjii) [線](https://jisho.org/search/*線*)
-#244. 支
+# 244. 支
 [支](https://jisho.org/search/支%23kanjii) [支](https://jisho.org/search/*支*)
-#245. 計
+# 245. 計
 [計](https://jisho.org/search/計%23kanjii) [計](https://jisho.org/search/*計*)
-#246. 常
+# 246. 常
 [常](https://jisho.org/search/常%23kanjii) [常](https://jisho.org/search/*常*)
-#247. 共
+# 247. 共
 [共](https://jisho.org/search/共%23kanjii) [共](https://jisho.org/search/*共*)
-#248. 半
+# 248. 半
 [半](https://jisho.org/search/半%23kanjii) [半](https://jisho.org/search/*半*)
-#249. 氏
+# 249. 氏
 [氏](https://jisho.org/search/氏%23kanjii) [氏](https://jisho.org/search/*氏*)
-#250. 格
+# 250. 格
 [格](https://jisho.org/search/格%23kanjii) [格](https://jisho.org/search/*格*)
-#251. 違
+# 251. 違
 [違](https://jisho.org/search/違%23kanjii) [違](https://jisho.org/search/*違*)
-#252. 白
+# 252. 白
 [白](https://jisho.org/search/白%23kanjii) [白](https://jisho.org/search/*白*)
-#253. 論
+# 253. 論
 [論](https://jisho.org/search/論%23kanjii) [論](https://jisho.org/search/*論*)
-#254. 朝
+# 254. 朝
 [朝](https://jisho.org/search/朝%23kanjii) [朝](https://jisho.org/search/*朝*)
-#255. 風
+# 255. 風
 [風](https://jisho.org/search/風%23kanjii) [風](https://jisho.org/search/*風*)
-#256. 予
+# 256. 予
 [予](https://jisho.org/search/予%23kanjii) [予](https://jisho.org/search/*予*)
-#257. 投
+# 257. 投
 [投](https://jisho.org/search/投%23kanjii) [投](https://jisho.org/search/*投*)
-#258. 状
+# 258. 状
 [状](https://jisho.org/search/状%23kanjii) [状](https://jisho.org/search/*状*)
-#259. 容
+# 259. 容
 [容](https://jisho.org/search/容%23kanjii) [容](https://jisho.org/search/*容*)
-#260. 音
+# 260. 音
 [音](https://jisho.org/search/音%23kanjii) [音](https://jisho.org/search/*音*)
-#261. 五
+# 261. 五
 [五](https://jisho.org/search/五%23kanjii) [五](https://jisho.org/search/*五*)
-#262. 反
+# 262. 反
 [反](https://jisho.org/search/反%23kanjii) [反](https://jisho.org/search/*反*)
-#263. 京
+# 263. 京
 [京](https://jisho.org/search/京%23kanjii) [京](https://jisho.org/search/*京*)
-#264. 住
+# 264. 住
 [住](https://jisho.org/search/住%23kanjii) [住](https://jisho.org/search/*住*)
-#265. 放
+# 265. 放
 [放](https://jisho.org/search/放%23kanjii) [放](https://jisho.org/search/*放*)
-#266. 土
+# 266. 土
 [土](https://jisho.org/search/土%23kanjii) [土](https://jisho.org/search/*土*)
-#267. 応
+# 267. 応
 [応](https://jisho.org/search/応%23kanjii) [応](https://jisho.org/search/*応*)
-#268. 葉
+# 268. 葉
 [葉](https://jisho.org/search/葉%23kanjii) [葉](https://jisho.org/search/*葉*)
-#269. 台
+# 269. 台
 [台](https://jisho.org/search/台%23kanjii) [台](https://jisho.org/search/*台*)
-#270. 仕
+# 270. 仕
 [仕](https://jisho.org/search/仕%23kanjii) [仕](https://jisho.org/search/*仕*)
-#271. 院
+# 271. 院
 [院](https://jisho.org/search/院%23kanjii) [院](https://jisho.org/search/*院*)
-#272. 他
+# 272. 他
 [他](https://jisho.org/search/他%23kanjii) [他](https://jisho.org/search/*他*)
-#273. 足
+# 273. 足
 [足](https://jisho.org/search/足%23kanjii) [足](https://jisho.org/search/*足*)
-#274. 好
+# 274. 好
 [好](https://jisho.org/search/好%23kanjii) [好](https://jisho.org/search/*好*)
-#275. 形
+# 275. 形
 [形](https://jisho.org/search/形%23kanjii) [形](https://jisho.org/search/*形*)
-#276. 転
+# 276. 転
 [転](https://jisho.org/search/転%23kanjii) [転](https://jisho.org/search/*転*)
-#277. 西
+# 277. 西
 [西](https://jisho.org/search/西%23kanjii) [西](https://jisho.org/search/*西*)
-#278. 配
+# 278. 配
 [配](https://jisho.org/search/配%23kanjii) [配](https://jisho.org/search/*配*)
-#279. 四
+# 279. 四
 [四](https://jisho.org/search/四%23kanjii) [四](https://jisho.org/search/*四*)
-#280. 役
+# 280. 役
 [役](https://jisho.org/search/役%23kanjii) [役](https://jisho.org/search/*役*)
-#281. 頭
+# 281. 頭
 [頭](https://jisho.org/search/頭%23kanjii) [頭](https://jisho.org/search/*頭*)
-#282. 伝
+# 282. 伝
 [伝](https://jisho.org/search/伝%23kanjii) [伝](https://jisho.org/search/*伝*)
-#283. 落
+# 283. 落
 [落](https://jisho.org/search/落%23kanjii) [落](https://jisho.org/search/*落*)
-#284. 声
+# 284. 声
 [声](https://jisho.org/search/声%23kanjii) [声](https://jisho.org/search/*声*)
-#285. 起
+# 285. 起
 [起](https://jisho.org/search/起%23kanjii) [起](https://jisho.org/search/*起*)
-#286. 工
+# 286. 工
 [工](https://jisho.org/search/工%23kanjii) [工](https://jisho.org/search/*工*)
-#287. 由
+# 287. 由
 [由](https://jisho.org/search/由%23kanjii) [由](https://jisho.org/search/*由*)
-#288. 判
+# 288. 判
 [判](https://jisho.org/search/判%23kanjii) [判](https://jisho.org/search/*判*)
-#289. 係
+# 289. 係
 [係](https://jisho.org/search/係%23kanjii) [係](https://jisho.org/search/*係*)
-#290. 張
+# 290. 張
 [張](https://jisho.org/search/張%23kanjii) [張](https://jisho.org/search/*張*)
-#291. 団
+# 291. 団
 [団](https://jisho.org/search/団%23kanjii) [団](https://jisho.org/search/*団*)
-#292. 親
+# 292. 親
 [親](https://jisho.org/search/親%23kanjii) [親](https://jisho.org/search/*親*)
-#293. 総
+# 293. 総
 [総](https://jisho.org/search/総%23kanjii) [総](https://jisho.org/search/*総*)
-#294. 質
+# 294. 質
 [質](https://jisho.org/search/質%23kanjii) [質](https://jisho.org/search/*質*)
-#295. 然
+# 295. 然
 [然](https://jisho.org/search/然%23kanjii) [然](https://jisho.org/search/*然*)
-#296. 良
+# 296. 良
 [良](https://jisho.org/search/良%23kanjii) [良](https://jisho.org/search/*良*)
-#297. 告
+# 297. 告
 [告](https://jisho.org/search/告%23kanjii) [告](https://jisho.org/search/*告*)
-#298. 育
+# 298. 育
 [育](https://jisho.org/search/育%23kanjii) [育](https://jisho.org/search/*育*)
-#299. 止
+# 299. 止
 [止](https://jisho.org/search/止%23kanjii) [止](https://jisho.org/search/*止*)
-#300. 士
+# 300. 士
 [士](https://jisho.org/search/士%23kanjii) [士](https://jisho.org/search/*士*)
-#301. 古
+# 301. 古
 [古](https://jisho.org/search/古%23kanjii) [古](https://jisho.org/search/*古*)
-#302. 基
+# 302. 基
 [基](https://jisho.org/search/基%23kanjii) [基](https://jisho.org/search/*基*)
-#303. 区
+# 303. 区
 [区](https://jisho.org/search/区%23kanjii) [区](https://jisho.org/search/*区*)
-#304. 石
+# 304. 石
 [石](https://jisho.org/search/石%23kanjii) [石](https://jisho.org/search/*石*)
-#305. 術
+# 305. 術
 [術](https://jisho.org/search/術%23kanjii) [術](https://jisho.org/search/*術*)
-#306. 供
+# 306. 供
 [供](https://jisho.org/search/供%23kanjii) [供](https://jisho.org/search/*供*)
-#307. 色
+# 307. 色
 [色](https://jisho.org/search/色%23kanjii) [色](https://jisho.org/search/*色*)
-#308. 愛
+# 308. 愛
 [愛](https://jisho.org/search/愛%23kanjii) [愛](https://jisho.org/search/*愛*)
-#309. 帰
+# 309. 帰
 [帰](https://jisho.org/search/帰%23kanjii) [帰](https://jisho.org/search/*帰*)
-#310. 門
+# 310. 門
 [門](https://jisho.org/search/門%23kanjii) [門](https://jisho.org/search/*門*)
-#311. 乗
+# 311. 乗
 [乗](https://jisho.org/search/乗%23kanjii) [乗](https://jisho.org/search/*乗*)
-#312. 改
+# 312. 改
 [改](https://jisho.org/search/改%23kanjii) [改](https://jisho.org/search/*改*)
-#313. 注
+# 313. 注
 [注](https://jisho.org/search/注%23kanjii) [注](https://jisho.org/search/*注*)
-#314. 資
+# 314. 資
 [資](https://jisho.org/search/資%23kanjii) [資](https://jisho.org/search/*資*)
-#315. 価
+# 315. 価
 [価](https://jisho.org/search/価%23kanjii) [価](https://jisho.org/search/*価*)
-#316. 光
+# 316. 光
 [光](https://jisho.org/search/光%23kanjii) [光](https://jisho.org/search/*光*)
-#317. 優
+# 317. 優
 [優](https://jisho.org/search/優%23kanjii) [優](https://jisho.org/search/*優*)
-#318. 構
+# 318. 構
 [構](https://jisho.org/search/構%23kanjii) [構](https://jisho.org/search/*構*)
-#319. 達
+# 319. 達
 [達](https://jisho.org/search/達%23kanjii) [達](https://jisho.org/search/*達*)
-#320. 想
+# 320. 想
 [想](https://jisho.org/search/想%23kanjii) [想](https://jisho.org/search/*想*)
-#321. 軍
+# 321. 軍
 [軍](https://jisho.org/search/軍%23kanjii) [軍](https://jisho.org/search/*軍*)
-#322. 読
+# 322. 読
 [読](https://jisho.org/search/読%23kanjii) [読](https://jisho.org/search/*読*)
-#323. 観
+# 323. 観
 [観](https://jisho.org/search/観%23kanjii) [観](https://jisho.org/search/*観*)
-#324. 種
+# 324. 種
 [種](https://jisho.org/search/種%23kanjii) [種](https://jisho.org/search/*種*)
-#325. 検
+# 325. 検
 [検](https://jisho.org/search/検%23kanjii) [検](https://jisho.org/search/*検*)
-#326. 義
+# 326. 義
 [義](https://jisho.org/search/義%23kanjii) [義](https://jisho.org/search/*義*)
-#327. 映
+# 327. 映
 [映](https://jisho.org/search/映%23kanjii) [映](https://jisho.org/search/*映*)
-#328. 済
+# 328. 済
 [済](https://jisho.org/search/済%23kanjii) [済](https://jisho.org/search/*済*)
-#329. 打
+# 329. 打
 [打](https://jisho.org/search/打%23kanjii) [打](https://jisho.org/search/*打*)
-#330. 八
+# 330. 八
 [八](https://jisho.org/search/八%23kanjii) [八](https://jisho.org/search/*八*)
-#331. 夫
+# 331. 夫
 [夫](https://jisho.org/search/夫%23kanjii) [夫](https://jisho.org/search/*夫*)
-#332. 追
+# 332. 追
 [追](https://jisho.org/search/追%23kanjii) [追](https://jisho.org/search/*追*)
-#333. 残
+# 333. 残
 [残](https://jisho.org/search/残%23kanjii) [残](https://jisho.org/search/*残*)
-#334. 号
+# 334. 号
 [号](https://jisho.org/search/号%23kanjii) [号](https://jisho.org/search/*号*)
-#335. 府
+# 335. 府
 [府](https://jisho.org/search/府%23kanjii) [府](https://jisho.org/search/*府*)
-#336. 限
+# 336. 限
 [限](https://jisho.org/search/限%23kanjii) [限](https://jisho.org/search/*限*)
-#337. 再
+# 337. 再
 [再](https://jisho.org/search/再%23kanjii) [再](https://jisho.org/search/*再*)
-#338. 太
+# 338. 太
 [太](https://jisho.org/search/太%23kanjii) [太](https://jisho.org/search/*太*)
-#339. 商
+# 339. 商
 [商](https://jisho.org/search/商%23kanjii) [商](https://jisho.org/search/*商*)
-#340. 彼
+# 340. 彼
 [彼](https://jisho.org/search/彼%23kanjii) [彼](https://jisho.org/search/*彼*)
-#341. 営
+# 341. 営
 [営](https://jisho.org/search/営%23kanjii) [営](https://jisho.org/search/*営*)
-#342. 求
+# 342. 求
 [求](https://jisho.org/search/求%23kanjii) [求](https://jisho.org/search/*求*)
-#343. 写
+# 343. 写
 [写](https://jisho.org/search/写%23kanjii) [写](https://jisho.org/search/*写*)
-#344. 字
+# 344. 字
 [字](https://jisho.org/search/字%23kanjii) [字](https://jisho.org/search/*字*)
-#345. 早
+# 345. 早
 [早](https://jisho.org/search/早%23kanjii) [早](https://jisho.org/search/*早*)
-#346. 局
+# 346. 局
 [局](https://jisho.org/search/局%23kanjii) [局](https://jisho.org/search/*局*)
-#347. 米
+# 347. 米
 [米](https://jisho.org/search/米%23kanjii) [米](https://jisho.org/search/*米*)
-#348. 存
+# 348. 存
 [存](https://jisho.org/search/存%23kanjii) [存](https://jisho.org/search/*存*)
-#349. 職
+# 349. 職
 [職](https://jisho.org/search/職%23kanjii) [職](https://jisho.org/search/*職*)
-#350. 任
+# 350. 任
 [任](https://jisho.org/search/任%23kanjii) [任](https://jisho.org/search/*任*)
-#351. 南
+# 351. 南
 [南](https://jisho.org/search/南%23kanjii) [南](https://jisho.org/search/*南*)
-#352. 断
+# 352. 断
 [断](https://jisho.org/search/断%23kanjii) [断](https://jisho.org/search/*断*)
-#353. 悪
+# 353. 悪
 [悪](https://jisho.org/search/悪%23kanjii) [悪](https://jisho.org/search/*悪*)
-#354. 命
+# 354. 命
 [命](https://jisho.org/search/命%23kanjii) [命](https://jisho.org/search/*命*)
-#355. 歳
+# 355. 歳
 [歳](https://jisho.org/search/歳%23kanjii) [歳](https://jisho.org/search/*歳*)
-#356. 消
+# 356. 消
 [消](https://jisho.org/search/消%23kanjii) [消](https://jisho.org/search/*消*)
-#357. 登
+# 357. 登
 [登](https://jisho.org/search/登%23kanjii) [登](https://jisho.org/search/*登*)
-#358. 馬
+# 358. 馬
 [馬](https://jisho.org/search/馬%23kanjii) [馬](https://jisho.org/search/*馬*)
-#359. 態
+# 359. 態
 [態](https://jisho.org/search/態%23kanjii) [態](https://jisho.org/search/*態*)
-#360. 待
+# 360. 待
 [待](https://jisho.org/search/待%23kanjii) [待](https://jisho.org/search/*待*)
-#361. 演
+# 361. 演
 [演](https://jisho.org/search/演%23kanjii) [演](https://jisho.org/search/*演*)
-#362. 千
+# 362. 千
 [千](https://jisho.org/search/千%23kanjii) [千](https://jisho.org/search/*千*)
-#363. 両
+# 363. 両
 [両](https://jisho.org/search/両%23kanjii) [両](https://jisho.org/search/*両*)
-#364. 夜
+# 364. 夜
 [夜](https://jisho.org/search/夜%23kanjii) [夜](https://jisho.org/search/*夜*)
-#365. 急
+# 365. 急
 [急](https://jisho.org/search/急%23kanjii) [急](https://jisho.org/search/*急*)
-#366. 案
+# 366. 案
 [案](https://jisho.org/search/案%23kanjii) [案](https://jisho.org/search/*案*)
-#367. 病
+# 367. 病
 [病](https://jisho.org/search/病%23kanjii) [病](https://jisho.org/search/*病*)
-#368. 象
+# 368. 象
 [象](https://jisho.org/search/象%23kanjii) [象](https://jisho.org/search/*象*)
-#369. 返
+# 369. 返
 [返](https://jisho.org/search/返%23kanjii) [返](https://jisho.org/search/*返*)
-#370. 図
+# 370. 図
 [図](https://jisho.org/search/図%23kanjii) [図](https://jisho.org/search/*図*)
-#371. 条
+# 371. 条
 [条](https://jisho.org/search/条%23kanjii) [条](https://jisho.org/search/*条*)
-#372. 歩
+# 372. 歩
 [歩](https://jisho.org/search/歩%23kanjii) [歩](https://jisho.org/search/*歩*)
-#373. 備
+# 373. 備
 [備](https://jisho.org/search/備%23kanjii) [備](https://jisho.org/search/*備*)
-#374. 査
+# 374. 査
 [査](https://jisho.org/search/査%23kanjii) [査](https://jisho.org/search/*査*)
-#375. 路
+# 375. 路
 [路](https://jisho.org/search/路%23kanjii) [路](https://jisho.org/search/*路*)
-#376. 介
+# 376. 介
 [介](https://jisho.org/search/介%23kanjii) [介](https://jisho.org/search/*介*)
-#377. 科
+# 377. 科
 [科](https://jisho.org/search/科%23kanjii) [科](https://jisho.org/search/*科*)
-#378. 像
+# 378. 像
 [像](https://jisho.org/search/像%23kanjii) [像](https://jisho.org/search/*像*)
-#379. 呼
+# 379. 呼
 [呼](https://jisho.org/search/呼%23kanjii) [呼](https://jisho.org/search/*呼*)
-#380. 族
+# 380. 族
 [族](https://jisho.org/search/族%23kanjii) [族](https://jisho.org/search/*族*)
-#381. 側
+# 381. 側
 [側](https://jisho.org/search/側%23kanjii) [側](https://jisho.org/search/*側*)
-#382. 等
+# 382. 等
 [等](https://jisho.org/search/等%23kanjii) [等](https://jisho.org/search/*等*)
-#383. 戸
+# 383. 戸
 [戸](https://jisho.org/search/戸%23kanjii) [戸](https://jisho.org/search/*戸*)
-#384. 建
+# 384. 建
 [建](https://jisho.org/search/建%23kanjii) [建](https://jisho.org/search/*建*)
-#385. 客
+# 385. 客
 [客](https://jisho.org/search/客%23kanjii) [客](https://jisho.org/search/*客*)
-#386. 技
+# 386. 技
 [技](https://jisho.org/search/技%23kanjii) [技](https://jisho.org/search/*技*)
-#387. 提
+# 387. 提
 [提](https://jisho.org/search/提%23kanjii) [提](https://jisho.org/search/*提*)
-#388. 念
+# 388. 念
 [念](https://jisho.org/search/念%23kanjii) [念](https://jisho.org/search/*念*)
-#389. 個
+# 389. 個
 [個](https://jisho.org/search/個%23kanjii) [個](https://jisho.org/search/*個*)
-#390. 館
+# 390. 館
 [館](https://jisho.org/search/館%23kanjii) [館](https://jisho.org/search/*館*)
-#391. 研
+# 391. 研
 [研](https://jisho.org/search/研%23kanjii) [研](https://jisho.org/search/*研*)
-#392. 細
+# 392. 細
 [細](https://jisho.org/search/細%23kanjii) [細](https://jisho.org/search/*細*)
-#393. 球
+# 393. 球
 [球](https://jisho.org/search/球%23kanjii) [球](https://jisho.org/search/*球*)
-#394. 首
+# 394. 首
 [首](https://jisho.org/search/首%23kanjii) [首](https://jisho.org/search/*首*)
-#395. 母
+# 395. 母
 [母](https://jisho.org/search/母%23kanjii) [母](https://jisho.org/search/*母*)
-#396. 造
+# 396. 造
 [造](https://jisho.org/search/造%23kanjii) [造](https://jisho.org/search/*造*)
-#397. 素
+# 397. 素
 [素](https://jisho.org/search/素%23kanjii) [素](https://jisho.org/search/*素*)
-#398. 室
+# 398. 室
 [室](https://jisho.org/search/室%23kanjii) [室](https://jisho.org/search/*室*)
-#399. 九
+# 399. 九
 [九](https://jisho.org/search/九%23kanjii) [九](https://jisho.org/search/*九*)
-#400. 験
+# 400. 験
 [験](https://jisho.org/search/験%23kanjii) [験](https://jisho.org/search/*験*)
-#401. 花
+# 401. 花
 [花](https://jisho.org/search/花%23kanjii) [花](https://jisho.org/search/*花*)
-#402. 助
+# 402. 助
 [助](https://jisho.org/search/助%23kanjii) [助](https://jisho.org/search/*助*)
-#403. 影
+# 403. 影
 [影](https://jisho.org/search/影%23kanjii) [影](https://jisho.org/search/*影*)
-#404. 歌
+# 404. 歌
 [歌](https://jisho.org/search/歌%23kanjii) [歌](https://jisho.org/search/*歌*)
-#405. 例
+# 405. 例
 [例](https://jisho.org/search/例%23kanjii) [例](https://jisho.org/search/*例*)
-#406. 増
+# 406. 増
 [増](https://jisho.org/search/増%23kanjii) [増](https://jisho.org/search/*増*)
-#407. 害
+# 407. 害
 [害](https://jisho.org/search/害%23kanjii) [害](https://jisho.org/search/*害*)
-#408. 去
+# 408. 去
 [去](https://jisho.org/search/去%23kanjii) [去](https://jisho.org/search/*去*)
-#409. 井
+# 409. 井
 [井](https://jisho.org/search/井%23kanjii) [井](https://jisho.org/search/*井*)
-#410. 収
+# 410. 収
 [収](https://jisho.org/search/収%23kanjii) [収](https://jisho.org/search/*収*)
-#411. 買
+# 411. 買
 [買](https://jisho.org/search/買%23kanjii) [買](https://jisho.org/search/*買*)
-#412. 難
+# 412. 難
 [難](https://jisho.org/search/難%23kanjii) [難](https://jisho.org/search/*難*)
-#413. 単
+# 413. 単
 [単](https://jisho.org/search/単%23kanjii) [単](https://jisho.org/search/*単*)
-#414. 規
+# 414. 規
 [規](https://jisho.org/search/規%23kanjii) [規](https://jisho.org/search/*規*)
-#415. 統
+# 415. 統
 [統](https://jisho.org/search/統%23kanjii) [統](https://jisho.org/search/*統*)
-#416. 録
+# 416. 録
 [録](https://jisho.org/search/録%23kanjii) [録](https://jisho.org/search/*録*)
-#417. 非
+# 417. 非
 [非](https://jisho.org/search/非%23kanjii) [非](https://jisho.org/search/*非*)
-#418. 各
+# 418. 各
 [各](https://jisho.org/search/各%23kanjii) [各](https://jisho.org/search/*各*)
-#419. 究
+# 419. 究
 [究](https://jisho.org/search/究%23kanjii) [究](https://jisho.org/search/*究*)
-#420. 火
+# 420. 火
 [火](https://jisho.org/search/火%23kanjii) [火](https://jisho.org/search/*火*)
-#421. 護
+# 421. 護
 [護](https://jisho.org/search/護%23kanjii) [護](https://jisho.org/search/*護*)
-#422. 器
+# 422. 器
 [器](https://jisho.org/search/器%23kanjii) [器](https://jisho.org/search/*器*)
-#423. 型
+# 423. 型
 [型](https://jisho.org/search/型%23kanjii) [型](https://jisho.org/search/*型*)
-#424. 試
+# 424. 試
 [試](https://jisho.org/search/試%23kanjii) [試](https://jisho.org/search/*試*)
-#425. 視
+# 425. 視
 [視](https://jisho.org/search/視%23kanjii) [視](https://jisho.org/search/*視*)
-#426. 満
+# 426. 満
 [満](https://jisho.org/search/満%23kanjii) [満](https://jisho.org/search/*満*)
-#427. 派
+# 427. 派
 [派](https://jisho.org/search/派%23kanjii) [派](https://jisho.org/search/*派*)
-#428. 医
+# 428. 医
 [医](https://jisho.org/search/医%23kanjii) [医](https://jisho.org/search/*医*)
-#429. 笑
+# 429. 笑
 [笑](https://jisho.org/search/笑%23kanjii) [笑](https://jisho.org/search/*笑*)
-#430. 宮
+# 430. 宮
 [宮](https://jisho.org/search/宮%23kanjii) [宮](https://jisho.org/search/*宮*)
-#431. 福
+# 431. 福
 [福](https://jisho.org/search/福%23kanjii) [福](https://jisho.org/search/*福*)
-#432. 史
+# 432. 史
 [史](https://jisho.org/search/史%23kanjii) [史](https://jisho.org/search/*史*)
-#433. 証
+# 433. 証
 [証](https://jisho.org/search/証%23kanjii) [証](https://jisho.org/search/*証*)
-#434. 師
+# 434. 師
 [師](https://jisho.org/search/師%23kanjii) [師](https://jisho.org/search/*師*)
-#435. 王
+# 435. 王
 [王](https://jisho.org/search/王%23kanjii) [王](https://jisho.org/search/*王*)
-#436. 比
+# 436. 比
 [比](https://jisho.org/search/比%23kanjii) [比](https://jisho.org/search/*比*)
-#437. 勢
+# 437. 勢
 [勢](https://jisho.org/search/勢%23kanjii) [勢](https://jisho.org/search/*勢*)
-#438. 離
+# 438. 離
 [離](https://jisho.org/search/離%23kanjii) [離](https://jisho.org/search/*離*)
-#439. 郎
+# 439. 郎
 [郎](https://jisho.org/search/郎%23kanjii) [郎](https://jisho.org/search/*郎*)
-#440. 協
+# 440. 協
 [協](https://jisho.org/search/協%23kanjii) [協](https://jisho.org/search/*協*)
-#441. 割
+# 441. 割
 [割](https://jisho.org/search/割%23kanjii) [割](https://jisho.org/search/*割*)
-#442. 失
+# 442. 失
 [失](https://jisho.org/search/失%23kanjii) [失](https://jisho.org/search/*失*)
-#443. 識
+# 443. 識
 [識](https://jisho.org/search/識%23kanjii) [識](https://jisho.org/search/*識*)
-#444. 武
+# 444. 武
 [武](https://jisho.org/search/武%23kanjii) [武](https://jisho.org/search/*武*)
-#445. 段
+# 445. 段
 [段](https://jisho.org/search/段%23kanjii) [段](https://jisho.org/search/*段*)
-#446. 官
+# 446. 官
 [官](https://jisho.org/search/官%23kanjii) [官](https://jisho.org/search/*官*)
-#447. 移
+# 447. 移
 [移](https://jisho.org/search/移%23kanjii) [移](https://jisho.org/search/*移*)
-#448. 降
+# 448. 降
 [降](https://jisho.org/search/降%23kanjii) [降](https://jisho.org/search/*降*)
-#449. 藤
+# 449. 藤
 [藤](https://jisho.org/search/藤%23kanjii) [藤](https://jisho.org/search/*藤*)
-#450. 量
+# 450. 量
 [量](https://jisho.org/search/量%23kanjii) [量](https://jisho.org/search/*量*)
-#451. 友
+# 451. 友
 [友](https://jisho.org/search/友%23kanjii) [友](https://jisho.org/search/*友*)
-#452. 顔
+# 452. 顔
 [顔](https://jisho.org/search/顔%23kanjii) [顔](https://jisho.org/search/*顔*)
-#453. 殺
+# 453. 殺
 [殺](https://jisho.org/search/殺%23kanjii) [殺](https://jisho.org/search/*殺*)
-#454. 若
+# 454. 若
 [若](https://jisho.org/search/若%23kanjii) [若](https://jisho.org/search/*若*)
-#455. 座
+# 455. 座
 [座](https://jisho.org/search/座%23kanjii) [座](https://jisho.org/search/*座*)
-#456. 準
+# 456. 準
 [準](https://jisho.org/search/準%23kanjii) [準](https://jisho.org/search/*準*)
-#457. 望
+# 457. 望
 [望](https://jisho.org/search/望%23kanjii) [望](https://jisho.org/search/*望*)
-#458. 類
+# 458. 類
 [類](https://jisho.org/search/類%23kanjii) [類](https://jisho.org/search/*類*)
-#459. 英
+# 459. 英
 [英](https://jisho.org/search/英%23kanjii) [英](https://jisho.org/search/*英*)
-#460. 差
+# 460. 差
 [差](https://jisho.org/search/差%23kanjii) [差](https://jisho.org/search/*差*)
-#461. 周
+# 461. 周
 [周](https://jisho.org/search/周%23kanjii) [周](https://jisho.org/search/*周*)
-#462. 横
+# 462. 横
 [横](https://jisho.org/search/横%23kanjii) [横](https://jisho.org/search/*横*)
-#463. 園
+# 463. 園
 [園](https://jisho.org/search/園%23kanjii) [園](https://jisho.org/search/*園*)
-#464. 松
+# 464. 松
 [松](https://jisho.org/search/松%23kanjii) [松](https://jisho.org/search/*松*)
-#465. 深
+# 465. 深
 [深](https://jisho.org/search/深%23kanjii) [深](https://jisho.org/search/*深*)
-#466. 負
+# 466. 負
 [負](https://jisho.org/search/負%23kanjii) [負](https://jisho.org/search/*負*)
-#467. 製
+# 467. 製
 [製](https://jisho.org/search/製%23kanjii) [製](https://jisho.org/search/*製*)
-#468. 走
+# 468. 走
 [走](https://jisho.org/search/走%23kanjii) [走](https://jisho.org/search/*走*)
-#469. 企
+# 469. 企
 [企](https://jisho.org/search/企%23kanjii) [企](https://jisho.org/search/*企*)
-#470. 域
+# 470. 域
 [域](https://jisho.org/search/域%23kanjii) [域](https://jisho.org/search/*域*)
-#471. 守
+# 471. 守
 [守](https://jisho.org/search/守%23kanjii) [守](https://jisho.org/search/*守*)
-#472. 党
+# 472. 党
 [党](https://jisho.org/search/党%23kanjii) [党](https://jisho.org/search/*党*)
-#473. 除
+# 473. 除
 [除](https://jisho.org/search/除%23kanjii) [除](https://jisho.org/search/*除*)
-#474. 青
+# 474. 青
 [青](https://jisho.org/search/青%23kanjii) [青](https://jisho.org/search/*青*)
-#475. 黒
+# 475. 黒
 [黒](https://jisho.org/search/黒%23kanjii) [黒](https://jisho.org/search/*黒*)
-#476. 父
+# 476. 父
 [父](https://jisho.org/search/父%23kanjii) [父](https://jisho.org/search/*父*)
-#477. 頼
+# 477. 頼
 [頼](https://jisho.org/search/頼%23kanjii) [頼](https://jisho.org/search/*頼*)
-#478. 右
+# 478. 右
 [右](https://jisho.org/search/右%23kanjii) [右](https://jisho.org/search/*右*)
-#479. 評
+# 479. 評
 [評](https://jisho.org/search/評%23kanjii) [評](https://jisho.org/search/*評*)
-#480. 根
+# 480. 根
 [根](https://jisho.org/search/根%23kanjii) [根](https://jisho.org/search/*根*)
-#481. 速
+# 481. 速
 [速](https://jisho.org/search/速%23kanjii) [速](https://jisho.org/search/*速*)
-#482. 六
+# 482. 六
 [六](https://jisho.org/search/六%23kanjii) [六](https://jisho.org/search/*六*)
-#483. 談
+# 483. 談
 [談](https://jisho.org/search/談%23kanjii) [談](https://jisho.org/search/*談*)
-#484. 州
+# 484. 州
 [州](https://jisho.org/search/州%23kanjii) [州](https://jisho.org/search/*州*)
-#485. 争
+# 485. 争
 [争](https://jisho.org/search/争%23kanjii) [争](https://jisho.org/search/*争*)
-#486. 申
+# 486. 申
 [申](https://jisho.org/search/申%23kanjii) [申](https://jisho.org/search/*申*)
-#487. 兵
+# 487. 兵
 [兵](https://jisho.org/search/兵%23kanjii) [兵](https://jisho.org/search/*兵*)
-#488. 赤
+# 488. 赤
 [赤](https://jisho.org/search/赤%23kanjii) [赤](https://jisho.org/search/*赤*)
-#489. 処
+# 489. 処
 [処](https://jisho.org/search/処%23kanjii) [処](https://jisho.org/search/*処*)
-#490. 異
+# 490. 異
 [異](https://jisho.org/search/異%23kanjii) [異](https://jisho.org/search/*異*)
-#491. 独
+# 491. 独
 [独](https://jisho.org/search/独%23kanjii) [独](https://jisho.org/search/*独*)
-#492. 編
+# 492. 編
 [編](https://jisho.org/search/編%23kanjii) [編](https://jisho.org/search/*編*)
-#493. 百
+# 493. 百
 [百](https://jisho.org/search/百%23kanjii) [百](https://jisho.org/search/*百*)
-#494. 与
+# 494. 与
 [与](https://jisho.org/search/与%23kanjii) [与](https://jisho.org/search/*与*)
-#495. 値
+# 495. 値
 [値](https://jisho.org/search/値%23kanjii) [値](https://jisho.org/search/*値*)
-#496. 接
+# 496. 接
 [接](https://jisho.org/search/接%23kanjii) [接](https://jisho.org/search/*接*)
-#497. 撃
+# 497. 撃
 [撃](https://jisho.org/search/撃%23kanjii) [撃](https://jisho.org/search/*撃*)
-#498. 歴
+# 498. 歴
 [歴](https://jisho.org/search/歴%23kanjii) [歴](https://jisho.org/search/*歴*)
-#499. 系
+# 499. 系
 [系](https://jisho.org/search/系%23kanjii) [系](https://jisho.org/search/*系*)
-#500. 銀
+# 500. 銀
 [銀](https://jisho.org/search/銀%23kanjii) [銀](https://jisho.org/search/*銀*)
-#501. 答
+# 501. 答
 [答](https://jisho.org/search/答%23kanjii) [答](https://jisho.org/search/*答*)
-#502. 振
+# 502. 振
 [振](https://jisho.org/search/振%23kanjii) [振](https://jisho.org/search/*振*)
-#503. 衛
+# 503. 衛
 [衛](https://jisho.org/search/衛%23kanjii) [衛](https://jisho.org/search/*衛*)
-#504. 旅
+# 504. 旅
 [旅](https://jisho.org/search/旅%23kanjii) [旅](https://jisho.org/search/*旅*)
-#505. 程
+# 505. 程
 [程](https://jisho.org/search/程%23kanjii) [程](https://jisho.org/search/*程*)
-#506. 管
+# 506. 管
 [管](https://jisho.org/search/管%23kanjii) [管](https://jisho.org/search/*管*)
-#507. 末
+# 507. 末
 [末](https://jisho.org/search/末%23kanjii) [末](https://jisho.org/search/*末*)
-#508. 境
+# 508. 境
 [境](https://jisho.org/search/境%23kanjii) [境](https://jisho.org/search/*境*)
-#509. 覚
+# 509. 覚
 [覚](https://jisho.org/search/覚%23kanjii) [覚](https://jisho.org/search/*覚*)
-#510. 左
+# 510. 左
 [左](https://jisho.org/search/左%23kanjii) [左](https://jisho.org/search/*左*)
-#511. 働
+# 511. 働
 [働](https://jisho.org/search/働%23kanjii) [働](https://jisho.org/search/*働*)
-#512. 七
+# 512. 七
 [七](https://jisho.org/search/七%23kanjii) [七](https://jisho.org/search/*七*)
-#513. 防
+# 513. 防
 [防](https://jisho.org/search/防%23kanjii) [防](https://jisho.org/search/*防*)
-#514. 帯
+# 514. 帯
 [帯](https://jisho.org/search/帯%23kanjii) [帯](https://jisho.org/search/*帯*)
-#515. 策
+# 515. 策
 [策](https://jisho.org/search/策%23kanjii) [策](https://jisho.org/search/*策*)
-#516. 施
+# 516. 施
 [施](https://jisho.org/search/施%23kanjii) [施](https://jisho.org/search/*施*)
-#517. 毎
+# 517. 毎
 [毎](https://jisho.org/search/毎%23kanjii) [毎](https://jisho.org/search/*毎*)
-#518. 復
+# 518. 復
 [復](https://jisho.org/search/復%23kanjii) [復](https://jisho.org/search/*復*)
-#519. 率
+# 519. 率
 [率](https://jisho.org/search/率%23kanjii) [率](https://jisho.org/search/*率*)
-#520. 辺
+# 520. 辺
 [辺](https://jisho.org/search/辺%23kanjii) [辺](https://jisho.org/search/*辺*)
-#521. 鉄
+# 521. 鉄
 [鉄](https://jisho.org/search/鉄%23kanjii) [鉄](https://jisho.org/search/*鉄*)
-#522. 谷
+# 522. 谷
 [谷](https://jisho.org/search/谷%23kanjii) [谷](https://jisho.org/search/*谷*)
-#523. 載
+# 523. 載
 [載](https://jisho.org/search/載%23kanjii) [載](https://jisho.org/search/*載*)
-#524. 展
+# 524. 展
 [展](https://jisho.org/search/展%23kanjii) [展](https://jisho.org/search/*展*)
-#525. 紙
+# 525. 紙
 [紙](https://jisho.org/search/紙%23kanjii) [紙](https://jisho.org/search/*紙*)
-#526. 警
+# 526. 警
 [警](https://jisho.org/search/警%23kanjii) [警](https://jisho.org/search/*警*)
-#527. 春
+# 527. 春
 [春](https://jisho.org/search/春%23kanjii) [春](https://jisho.org/search/*春*)
-#528. 修
+# 528. 修
 [修](https://jisho.org/search/修%23kanjii) [修](https://jisho.org/search/*修*)
-#529. 久
+# 529. 久
 [久](https://jisho.org/search/久%23kanjii) [久](https://jisho.org/search/*久*)
-#530. 寄
+# 530. 寄
 [寄](https://jisho.org/search/寄%23kanjii) [寄](https://jisho.org/search/*寄*)
-#531. 週
+# 531. 週
 [週](https://jisho.org/search/週%23kanjii) [週](https://jisho.org/search/*週*)
-#532. 突
+# 532. 突
 [突](https://jisho.org/search/突%23kanjii) [突](https://jisho.org/search/*突*)
-#533. 曲
+# 533. 曲
 [曲](https://jisho.org/search/曲%23kanjii) [曲](https://jisho.org/search/*曲*)
-#534. 渡
+# 534. 渡
 [渡](https://jisho.org/search/渡%23kanjii) [渡](https://jisho.org/search/*渡*)
-#535. 城
+# 535. 城
 [城](https://jisho.org/search/城%23kanjii) [城](https://jisho.org/search/*城*)
-#536. 未
+# 536. 未
 [未](https://jisho.org/search/未%23kanjii) [未](https://jisho.org/search/*未*)
-#537. 低
+# 537. 低
 [低](https://jisho.org/search/低%23kanjii) [低](https://jisho.org/search/*低*)
-#538. 算
+# 538. 算
 [算](https://jisho.org/search/算%23kanjii) [算](https://jisho.org/search/*算*)
-#539. 居
+# 539. 居
 [居](https://jisho.org/search/居%23kanjii) [居](https://jisho.org/search/*居*)
-#540. 宅
+# 540. 宅
 [宅](https://jisho.org/search/宅%23kanjii) [宅](https://jisho.org/search/*宅*)
-#541. 材
+# 541. 材
 [材](https://jisho.org/search/材%23kanjii) [材](https://jisho.org/search/*材*)
-#542. 橋
+# 542. 橋
 [橋](https://jisho.org/search/橋%23kanjii) [橋](https://jisho.org/search/*橋*)
-#543. 駅
+# 543. 駅
 [駅](https://jisho.org/search/駅%23kanjii) [駅](https://jisho.org/search/*駅*)
-#544. 極
+# 544. 極
 [極](https://jisho.org/search/極%23kanjii) [極](https://jisho.org/search/*極*)
-#545. 版
+# 545. 版
 [版](https://jisho.org/search/版%23kanjii) [版](https://jisho.org/search/*版*)
-#546. 装
+# 546. 装
 [装](https://jisho.org/search/装%23kanjii) [装](https://jisho.org/search/*装*)
-#547. 挙
+# 547. 挙
 [挙](https://jisho.org/search/挙%23kanjii) [挙](https://jisho.org/search/*挙*)
-#548. 景
+# 548. 景
 [景](https://jisho.org/search/景%23kanjii) [景](https://jisho.org/search/*景*)
-#549. 御
+# 549. 御
 [御](https://jisho.org/search/御%23kanjii) [御](https://jisho.org/search/*御*)
-#550. 費
+# 550. 費
 [費](https://jisho.org/search/費%23kanjii) [費](https://jisho.org/search/*費*)
-#551. 察
+# 551. 察
 [察](https://jisho.org/search/察%23kanjii) [察](https://jisho.org/search/*察*)
-#552. 習
+# 552. 習
 [習](https://jisho.org/search/習%23kanjii) [習](https://jisho.org/search/*習*)
-#553. 階
+# 553. 階
 [階](https://jisho.org/search/階%23kanjii) [階](https://jisho.org/search/*階*)
-#554. 完
+# 554. 完
 [完](https://jisho.org/search/完%23kanjii) [完](https://jisho.org/search/*完*)
-#555. 退
+# 555. 退
 [退](https://jisho.org/search/退%23kanjii) [退](https://jisho.org/search/*退*)
-#556. 飛
+# 556. 飛
 [飛](https://jisho.org/search/飛%23kanjii) [飛](https://jisho.org/search/*飛*)
-#557. 姿
+# 557. 姿
 [姿](https://jisho.org/search/姿%23kanjii) [姿](https://jisho.org/search/*姿*)
-#558. 減
+# 558. 減
 [減](https://jisho.org/search/減%23kanjii) [減](https://jisho.org/search/*減*)
-#559. 岡
+# 559. 岡
 [岡](https://jisho.org/search/岡%23kanjii) [岡](https://jisho.org/search/*岡*)
-#560. 導
+# 560. 導
 [導](https://jisho.org/search/導%23kanjii) [導](https://jisho.org/search/*導*)
-#561. 含
+# 561. 含
 [含](https://jisho.org/search/含%23kanjii) [含](https://jisho.org/search/*含*)
-#562. 越
+# 562. 越
 [越](https://jisho.org/search/越%23kanjii) [越](https://jisho.org/search/*越*)
-#563. 夏
+# 563. 夏
 [夏](https://jisho.org/search/夏%23kanjii) [夏](https://jisho.org/search/*夏*)
-#564. 更
+# 564. 更
 [更](https://jisho.org/search/更%23kanjii) [更](https://jisho.org/search/*更*)
-#565. 専
+# 565. 専
 [専](https://jisho.org/search/専%23kanjii) [専](https://jisho.org/search/*専*)
-#566. 戻
+# 566. 戻
 [戻](https://jisho.org/search/戻%23kanjii) [戻](https://jisho.org/search/*戻*)
-#567. 願
+# 567. 願
 [願](https://jisho.org/search/願%23kanjii) [願](https://jisho.org/search/*願*)
-#568. 領
+# 568. 領
 [領](https://jisho.org/search/領%23kanjii) [領](https://jisho.org/search/*領*)
-#569. 省
+# 569. 省
 [省](https://jisho.org/search/省%23kanjii) [省](https://jisho.org/search/*省*)
-#570. 船
+# 570. 船
 [船](https://jisho.org/search/船%23kanjii) [船](https://jisho.org/search/*船*)
-#571. 為
+# 571. 為
 [為](https://jisho.org/search/為%23kanjii) [為](https://jisho.org/search/*為*)
-#572. 隊
+# 572. 隊
 [隊](https://jisho.org/search/隊%23kanjii) [隊](https://jisho.org/search/*隊*)
-#573. 効
+# 573. 効
 [効](https://jisho.org/search/効%23kanjii) [効](https://jisho.org/search/*効*)
-#574. 抜
+# 574. 抜
 [抜](https://jisho.org/search/抜%23kanjii) [抜](https://jisho.org/search/*抜*)
-#575. 具
+# 575. 具
 [具](https://jisho.org/search/具%23kanjii) [具](https://jisho.org/search/*具*)
-#576. 担
+# 576. 担
 [担](https://jisho.org/search/担%23kanjii) [担](https://jisho.org/search/*担*)
-#577. 労
+# 577. 労
 [労](https://jisho.org/search/労%23kanjii) [労](https://jisho.org/search/*労*)
-#578. 賞
+# 578. 賞
 [賞](https://jisho.org/search/賞%23kanjii) [賞](https://jisho.org/search/*賞*)
-#579. 絶
+# 579. 絶
 [絶](https://jisho.org/search/絶%23kanjii) [絶](https://jisho.org/search/*絶*)
-#580. 源
+# 580. 源
 [源](https://jisho.org/search/源%23kanjii) [源](https://jisho.org/search/*源*)
-#581. 監
+# 581. 監
 [監](https://jisho.org/search/監%23kanjii) [監](https://jisho.org/search/*監*)
-#582. 農
+# 582. 農
 [農](https://jisho.org/search/農%23kanjii) [農](https://jisho.org/search/*農*)
-#583. 佐
+# 583. 佐
 [佐](https://jisho.org/search/佐%23kanjii) [佐](https://jisho.org/search/*佐*)
-#584. 庫
+# 584. 庫
 [庫](https://jisho.org/search/庫%23kanjii) [庫](https://jisho.org/search/*庫*)
-#585. 及
+# 585. 及
 [及](https://jisho.org/search/及%23kanjii) [及](https://jisho.org/search/*及*)
-#586. 著
+# 586. 著
 [著](https://jisho.org/search/著%23kanjii) [著](https://jisho.org/search/*著*)
-#587. 熱
+# 587. 熱
 [熱](https://jisho.org/search/熱%23kanjii) [熱](https://jisho.org/search/*熱*)
-#588. 沢
+# 588. 沢
 [沢](https://jisho.org/search/沢%23kanjii) [沢](https://jisho.org/search/*沢*)
-#589. 疑
+# 589. 疑
 [疑](https://jisho.org/search/疑%23kanjii) [疑](https://jisho.org/search/*疑*)
-#590. 吉
+# 590. 吉
 [吉](https://jisho.org/search/吉%23kanjii) [吉](https://jisho.org/search/*吉*)
-#591. 探
+# 591. 探
 [探](https://jisho.org/search/探%23kanjii) [探](https://jisho.org/search/*探*)
-#592. 株
+# 592. 株
 [株](https://jisho.org/search/株%23kanjii) [株](https://jisho.org/search/*株*)
-#593. 波
+# 593. 波
 [波](https://jisho.org/search/波%23kanjii) [波](https://jisho.org/search/*波*)
-#594. 健
+# 594. 健
 [健](https://jisho.org/search/健%23kanjii) [健](https://jisho.org/search/*健*)
-#595. 興
+# 595. 興
 [興](https://jisho.org/search/興%23kanjii) [興](https://jisho.org/search/*興*)
-#596. 苦
+# 596. 苦
 [苦](https://jisho.org/search/苦%23kanjii) [苦](https://jisho.org/search/*苦*)
-#597. 将
+# 597. 将
 [将](https://jisho.org/search/将%23kanjii) [将](https://jisho.org/search/*将*)
-#598. 宿
+# 598. 宿
 [宿](https://jisho.org/search/宿%23kanjii) [宿](https://jisho.org/search/*宿*)
-#599. 響
+# 599. 響
 [響](https://jisho.org/search/響%23kanjii) [響](https://jisho.org/search/*響*)
-#600. 休
+# 600. 休
 [休](https://jisho.org/search/休%23kanjii) [休](https://jisho.org/search/*休*)
-#601. 援
+# 601. 援
 [援](https://jisho.org/search/援%23kanjii) [援](https://jisho.org/search/*援*)
-#602. 遠
+# 602. 遠
 [遠](https://jisho.org/search/遠%23kanjii) [遠](https://jisho.org/search/*遠*)
-#603. 故
+# 603. 故
 [故](https://jisho.org/search/故%23kanjii) [故](https://jisho.org/search/*故*)
-#604. 温
+# 604. 温
 [温](https://jisho.org/search/温%23kanjii) [温](https://jisho.org/search/*温*)
-#605. 精
+# 605. 精
 [精](https://jisho.org/search/精%23kanjii) [精](https://jisho.org/search/*精*)
-#606. 巻
+# 606. 巻
 [巻](https://jisho.org/search/巻%23kanjii) [巻](https://jisho.org/search/*巻*)
-#607. 整
+# 607. 整
 [整](https://jisho.org/search/整%23kanjii) [整](https://jisho.org/search/*整*)
-#608. 幸
+# 608. 幸
 [幸](https://jisho.org/search/幸%23kanjii) [幸](https://jisho.org/search/*幸*)
-#609. 席
+# 609. 席
 [席](https://jisho.org/search/席%23kanjii) [席](https://jisho.org/search/*席*)
-#610. 森
+# 610. 森
 [森](https://jisho.org/search/森%23kanjii) [森](https://jisho.org/search/*森*)
-#611. 児
+# 611. 児
 [児](https://jisho.org/search/児%23kanjii) [児](https://jisho.org/search/*児*)
-#612. 江
+# 612. 江
 [江](https://jisho.org/search/江%23kanjii) [江](https://jisho.org/search/*江*)
-#613. 秋
+# 613. 秋
 [秋](https://jisho.org/search/秋%23kanjii) [秋](https://jisho.org/search/*秋*)
-#614. 芸
+# 614. 芸
 [芸](https://jisho.org/search/芸%23kanjii) [芸](https://jisho.org/search/*芸*)
-#615. 途
+# 615. 途
 [途](https://jisho.org/search/途%23kanjii) [途](https://jisho.org/search/*途*)
-#616. 洋
+# 616. 洋
 [洋](https://jisho.org/search/洋%23kanjii) [洋](https://jisho.org/search/*洋*)
-#617. 補
+# 617. 補
 [補](https://jisho.org/search/補%23kanjii) [補](https://jisho.org/search/*補*)
-#618. 織
+# 618. 織
 [織](https://jisho.org/search/織%23kanjii) [織](https://jisho.org/search/*織*)
-#619. 囲
+# 619. 囲
 [囲](https://jisho.org/search/囲%23kanjii) [囲](https://jisho.org/search/*囲*)
-#620. 薬
+# 620. 薬
 [薬](https://jisho.org/search/薬%23kanjii) [薬](https://jisho.org/search/*薬*)
-#621. 香
+# 621. 香
 [香](https://jisho.org/search/香%23kanjii) [香](https://jisho.org/search/*香*)
-#622. 級
+# 622. 級
 [級](https://jisho.org/search/級%23kanjii) [級](https://jisho.org/search/*級*)
-#623. 環
+# 623. 環
 [環](https://jisho.org/search/環%23kanjii) [環](https://jisho.org/search/*環*)
-#624. 競
+# 624. 競
 [競](https://jisho.org/search/競%23kanjii) [競](https://jisho.org/search/*競*)
-#625. 富
+# 625. 富
 [富](https://jisho.org/search/富%23kanjii) [富](https://jisho.org/search/*富*)
-#626. 背
+# 626. 背
 [背](https://jisho.org/search/背%23kanjii) [背](https://jisho.org/search/*背*)
-#627. 蔵
+# 627. 蔵
 [蔵](https://jisho.org/search/蔵%23kanjii) [蔵](https://jisho.org/search/*蔵*)
-#628. 換
+# 628. 換
 [換](https://jisho.org/search/換%23kanjii) [換](https://jisho.org/search/*換*)
-#629. 適
+# 629. 適
 [適](https://jisho.org/search/適%23kanjii) [適](https://jisho.org/search/*適*)
-#630. 委
+# 630. 委
 [委](https://jisho.org/search/委%23kanjii) [委](https://jisho.org/search/*委*)
-#631. 積
+# 631. 積
 [積](https://jisho.org/search/積%23kanjii) [積](https://jisho.org/search/*積*)
-#632. 破
+# 632. 破
 [破](https://jisho.org/search/破%23kanjii) [破](https://jisho.org/search/*破*)
-#633. 押
+# 633. 押
 [押](https://jisho.org/search/押%23kanjii) [押](https://jisho.org/search/*押*)
-#634. 便
+# 634. 便
 [便](https://jisho.org/search/便%23kanjii) [便](https://jisho.org/search/*便*)
-#635. 星
+# 635. 星
 [星](https://jisho.org/search/星%23kanjii) [星](https://jisho.org/search/*星*)
-#636. 軽
+# 636. 軽
 [軽](https://jisho.org/search/軽%23kanjii) [軽](https://jisho.org/search/*軽*)
-#637. 紀
+# 637. 紀
 [紀](https://jisho.org/search/紀%23kanjii) [紀](https://jisho.org/search/*紀*)
-#638. 税
+# 638. 税
 [税](https://jisho.org/search/税%23kanjii) [税](https://jisho.org/search/*税*)
-#639. 財
+# 639. 財
 [財](https://jisho.org/search/財%23kanjii) [財](https://jisho.org/search/*財*)
-#640. 普
+# 640. 普
 [普](https://jisho.org/search/普%23kanjii) [普](https://jisho.org/search/*普*)
-#641. 君
+# 641. 君
 [君](https://jisho.org/search/君%23kanjii) [君](https://jisho.org/search/*君*)
-#642. 寺
+# 642. 寺
 [寺](https://jisho.org/search/寺%23kanjii) [寺](https://jisho.org/search/*寺*)
-#643. 許
+# 643. 許
 [許](https://jisho.org/search/許%23kanjii) [許](https://jisho.org/search/*許*)
-#644. 標
+# 644. 標
 [標](https://jisho.org/search/標%23kanjii) [標](https://jisho.org/search/*標*)
-#645. 険
+# 645. 険
 [険](https://jisho.org/search/険%23kanjii) [険](https://jisho.org/search/*険*)
-#646. 崎
+# 646. 崎
 [崎](https://jisho.org/search/崎%23kanjii) [崎](https://jisho.org/search/*崎*)
-#647. 血
+# 647. 血
 [血](https://jisho.org/search/血%23kanjii) [血](https://jisho.org/search/*血*)
-#648. 敗
+# 648. 敗
 [敗](https://jisho.org/search/敗%23kanjii) [敗](https://jisho.org/search/*敗*)
-#649. 攻
+# 649. 攻
 [攻](https://jisho.org/search/攻%23kanjii) [攻](https://jisho.org/search/*攻*)
-#650. 並
+# 650. 並
 [並](https://jisho.org/search/並%23kanjii) [並](https://jisho.org/search/*並*)
-#651. 酒
+# 651. 酒
 [酒](https://jisho.org/search/酒%23kanjii) [酒](https://jisho.org/search/*酒*)
-#652. 板
+# 652. 板
 [板](https://jisho.org/search/板%23kanjii) [板](https://jisho.org/search/*板*)
-#653. 激
+# 653. 激
 [激](https://jisho.org/search/激%23kanjii) [激](https://jisho.org/search/*激*)
-#654. 節
+# 654. 節
 [節](https://jisho.org/search/節%23kanjii) [節](https://jisho.org/search/*節*)
-#655. 舞
+# 655. 舞
 [舞](https://jisho.org/search/舞%23kanjii) [舞](https://jisho.org/search/*舞*)
-#656. 被
+# 656. 被
 [被](https://jisho.org/search/被%23kanjii) [被](https://jisho.org/search/*被*)
-#657. 司
+# 657. 司
 [司](https://jisho.org/search/司%23kanjii) [司](https://jisho.org/search/*司*)
-#658. 遊
+# 658. 遊
 [遊](https://jisho.org/search/遊%23kanjii) [遊](https://jisho.org/search/*遊*)
-#659. 額
+# 659. 額
 [額](https://jisho.org/search/額%23kanjii) [額](https://jisho.org/search/*額*)
-#660. 超
+# 660. 超
 [超](https://jisho.org/search/超%23kanjii) [超](https://jisho.org/search/*超*)
-#661. 雑
+# 661. 雑
 [雑](https://jisho.org/search/雑%23kanjii) [雑](https://jisho.org/search/*雑*)
-#662. 順
+# 662. 順
 [順](https://jisho.org/search/順%23kanjii) [順](https://jisho.org/search/*順*)
-#663. 給
+# 663. 給
 [給](https://jisho.org/search/給%23kanjii) [給](https://jisho.org/search/*給*)
-#664. 林
+# 664. 林
 [林](https://jisho.org/search/林%23kanjii) [林](https://jisho.org/search/*林*)
-#665. 婚
+# 665. 婚
 [婚](https://jisho.org/search/婚%23kanjii) [婚](https://jisho.org/search/*婚*)
-#666. 飲
+# 666. 飲
 [飲](https://jisho.org/search/飲%23kanjii) [飲](https://jisho.org/search/*飲*)
-#667. 服
+# 667. 服
 [服](https://jisho.org/search/服%23kanjii) [服](https://jisho.org/search/*服*)
-#668. 端
+# 668. 端
 [端](https://jisho.org/search/端%23kanjii) [端](https://jisho.org/search/*端*)
-#669. 泉
+# 669. 泉
 [泉](https://jisho.org/search/泉%23kanjii) [泉](https://jisho.org/search/*泉*)
-#670. 丸
+# 670. 丸
 [丸](https://jisho.org/search/丸%23kanjii) [丸](https://jisho.org/search/*丸*)
-#671. 療
+# 671. 療
 [療](https://jisho.org/search/療%23kanjii) [療](https://jisho.org/search/*療*)
-#672. 角
+# 672. 角
 [角](https://jisho.org/search/角%23kanjii) [角](https://jisho.org/search/*角*)
-#673. 玉
+# 673. 玉
 [玉](https://jisho.org/search/玉%23kanjii) [玉](https://jisho.org/search/*玉*)
-#674. 静
+# 674. 静
 [静](https://jisho.org/search/静%23kanjii) [静](https://jisho.org/search/*静*)
-#675. 推
+# 675. 推
 [推](https://jisho.org/search/推%23kanjii) [推](https://jisho.org/search/*推*)
-#676. 清
+# 676. 清
 [清](https://jisho.org/search/清%23kanjii) [清](https://jisho.org/search/*清*)
-#677. 豊
+# 677. 豊
 [豊](https://jisho.org/search/豊%23kanjii) [豊](https://jisho.org/search/*豊*)
-#678. 述
+# 678. 述
 [述](https://jisho.org/search/述%23kanjii) [述](https://jisho.org/search/*述*)
-#679. 授
+# 679. 授
 [授](https://jisho.org/search/授%23kanjii) [授](https://jisho.org/search/*授*)
-#680. 志
+# 680. 志
 [志](https://jisho.org/search/志%23kanjii) [志](https://jisho.org/search/*志*)
-#681. 印
+# 681. 印
 [印](https://jisho.org/search/印%23kanjii) [印](https://jisho.org/search/*印*)
-#682. 革
+# 682. 革
 [革](https://jisho.org/search/革%23kanjii) [革](https://jisho.org/search/*革*)
-#683. 午
+# 683. 午
 [午](https://jisho.org/search/午%23kanjii) [午](https://jisho.org/search/*午*)
-#684. 況
+# 684. 況
 [況](https://jisho.org/search/況%23kanjii) [況](https://jisho.org/search/*況*)
-#685. 従
+# 685. 従
 [従](https://jisho.org/search/従%23kanjii) [従](https://jisho.org/search/*従*)
-#686. 息
+# 686. 息
 [息](https://jisho.org/search/息%23kanjii) [息](https://jisho.org/search/*息*)
-#687. 肉
+# 687. 肉
 [肉](https://jisho.org/search/肉%23kanjii) [肉](https://jisho.org/search/*肉*)
-#688. 略
+# 688. 略
 [略](https://jisho.org/search/略%23kanjii) [略](https://jisho.org/search/*略*)
-#689. 訪
+# 689. 訪
 [訪](https://jisho.org/search/訪%23kanjii) [訪](https://jisho.org/search/*訪*)
-#690. 康
+# 690. 康
 [康](https://jisho.org/search/康%23kanjii) [康](https://jisho.org/search/*康*)
-#691. 留
+# 691. 留
 [留](https://jisho.org/search/留%23kanjii) [留](https://jisho.org/search/*留*)
-#692. 河
+# 692. 河
 [河](https://jisho.org/search/河%23kanjii) [河](https://jisho.org/search/*河*)
-#693. 津
+# 693. 津
 [津](https://jisho.org/search/津%23kanjii) [津](https://jisho.org/search/*津*)
-#694. 遺
+# 694. 遺
 [遺](https://jisho.org/search/遺%23kanjii) [遺](https://jisho.org/search/*遺*)
-#695. 港
+# 695. 港
 [港](https://jisho.org/search/港%23kanjii) [港](https://jisho.org/search/*港*)
-#696. 街
+# 696. 街
 [街](https://jisho.org/search/街%23kanjii) [街](https://jisho.org/search/*街*)
-#697. 余
+# 697. 余
 [余](https://jisho.org/search/余%23kanjii) [余](https://jisho.org/search/*余*)
-#698. 課
+# 698. 課
 [課](https://jisho.org/search/課%23kanjii) [課](https://jisho.org/search/*課*)
-#699. 陸
+# 699. 陸
 [陸](https://jisho.org/search/陸%23kanjii) [陸](https://jisho.org/search/*陸*)
-#700. 般
+# 700. 般
 [般](https://jisho.org/search/般%23kanjii) [般](https://jisho.org/search/*般*)
-#701. 短
+# 701. 短
 [短](https://jisho.org/search/短%23kanjii) [短](https://jisho.org/search/*短*)
-#702. 草
+# 702. 草
 [草](https://jisho.org/search/草%23kanjii) [草](https://jisho.org/search/*草*)
-#703. 焼
+# 703. 焼
 [焼](https://jisho.org/search/焼%23kanjii) [焼](https://jisho.org/search/*焼*)
-#704. 模
+# 704. 模
 [模](https://jisho.org/search/模%23kanjii) [模](https://jisho.org/search/*模*)
-#705. 老
+# 705. 老
 [老](https://jisho.org/search/老%23kanjii) [老](https://jisho.org/search/*老*)
-#706. 絵
+# 706. 絵
 [絵](https://jisho.org/search/絵%23kanjii) [絵](https://jisho.org/search/*絵*)
-#707. 我
+# 707. 我
 [我](https://jisho.org/search/我%23kanjii) [我](https://jisho.org/search/*我*)
-#708. 盛
+# 708. 盛
 [盛](https://jisho.org/search/盛%23kanjii) [盛](https://jisho.org/search/*盛*)
-#709. 密
+# 709. 密
 [密](https://jisho.org/search/密%23kanjii) [密](https://jisho.org/search/*密*)
-#710. 冷
+# 710. 冷
 [冷](https://jisho.org/search/冷%23kanjii) [冷](https://jisho.org/search/*冷*)
-#711. 喜
+# 711. 喜
 [喜](https://jisho.org/search/喜%23kanjii) [喜](https://jisho.org/search/*喜*)
-#712. 了
+# 712. 了
 [了](https://jisho.org/search/了%23kanjii) [了](https://jisho.org/search/*了*)
-#713. 昨
+# 713. 昨
 [昨](https://jisho.org/search/昨%23kanjii) [昨](https://jisho.org/search/*昨*)
-#714. 裁
+# 714. 裁
 [裁](https://jisho.org/search/裁%23kanjii) [裁](https://jisho.org/search/*裁*)
-#715. 属
+# 715. 属
 [属](https://jisho.org/search/属%23kanjii) [属](https://jisho.org/search/*属*)
-#716. 阪
+# 716. 阪
 [阪](https://jisho.org/search/阪%23kanjii) [阪](https://jisho.org/search/*阪*)
-#717. 督
+# 717. 督
 [督](https://jisho.org/search/督%23kanjii) [督](https://jisho.org/search/*督*)
-#718. 緒
+# 718. 緒
 [緒](https://jisho.org/search/緒%23kanjii) [緒](https://jisho.org/search/*緒*)
-#719. 布
+# 719. 布
 [布](https://jisho.org/search/布%23kanjii) [布](https://jisho.org/search/*布*)
-#720. 払
+# 720. 払
 [払](https://jisho.org/search/払%23kanjii) [払](https://jisho.org/search/*払*)
-#721. 散
+# 721. 散
 [散](https://jisho.org/search/散%23kanjii) [散](https://jisho.org/search/*散*)
-#722. 裏
+# 722. 裏
 [裏](https://jisho.org/search/裏%23kanjii) [裏](https://jisho.org/search/*裏*)
-#723. 障
+# 723. 障
 [障](https://jisho.org/search/障%23kanjii) [障](https://jisho.org/search/*障*)
-#724. 茶
+# 724. 茶
 [茶](https://jisho.org/search/茶%23kanjii) [茶](https://jisho.org/search/*茶*)
-#725. 講
+# 725. 講
 [講](https://jisho.org/search/講%23kanjii) [講](https://jisho.org/search/*講*)
-#726. 雨
+# 726. 雨
 [雨](https://jisho.org/search/雨%23kanjii) [雨](https://jisho.org/search/*雨*)
-#727. 倒
+# 727. 倒
 [倒](https://jisho.org/search/倒%23kanjii) [倒](https://jisho.org/search/*倒*)
-#728. 圧
+# 728. 圧
 [圧](https://jisho.org/search/圧%23kanjii) [圧](https://jisho.org/search/*圧*)
-#729. 因
+# 729. 因
 [因](https://jisho.org/search/因%23kanjii) [因](https://jisho.org/search/*因*)
-#730. 夢
+# 730. 夢
 [夢](https://jisho.org/search/夢%23kanjii) [夢](https://jisho.org/search/*夢*)
-#731. 列
+# 731. 列
 [列](https://jisho.org/search/列%23kanjii) [列](https://jisho.org/search/*列*)
-#732. 危
+# 732. 危
 [危](https://jisho.org/search/危%23kanjii) [危](https://jisho.org/search/*危*)
-#733. 章
+# 733. 章
 [章](https://jisho.org/search/章%23kanjii) [章](https://jisho.org/search/*章*)
-#734. 継
+# 734. 継
 [継](https://jisho.org/search/継%23kanjii) [継](https://jisho.org/search/*継*)
-#735. 照
+# 735. 照
 [照](https://jisho.org/search/照%23kanjii) [照](https://jisho.org/search/*照*)
-#736. 紹
+# 736. 紹
 [紹](https://jisho.org/search/紹%23kanjii) [紹](https://jisho.org/search/*紹*)
-#737. 庭
+# 737. 庭
 [庭](https://jisho.org/search/庭%23kanjii) [庭](https://jisho.org/search/*庭*)
-#738. 仲
+# 738. 仲
 [仲](https://jisho.org/search/仲%23kanjii) [仲](https://jisho.org/search/*仲*)
-#739. 訳
+# 739. 訳
 [訳](https://jisho.org/search/訳%23kanjii) [訳](https://jisho.org/search/*訳*)
-#740. 逆
+# 740. 逆
 [逆](https://jisho.org/search/逆%23kanjii) [逆](https://jisho.org/search/*逆*)
-#741. 皇
+# 741. 皇
 [皇](https://jisho.org/search/皇%23kanjii) [皇](https://jisho.org/search/*皇*)
-#742. 鮮
+# 742. 鮮
 [鮮](https://jisho.org/search/鮮%23kanjii) [鮮](https://jisho.org/search/*鮮*)
-#743. 似
+# 743. 似
 [似](https://jisho.org/search/似%23kanjii) [似](https://jisho.org/search/*似*)
-#744. 替
+# 744. 替
 [替](https://jisho.org/search/替%23kanjii) [替](https://jisho.org/search/*替*)
-#745. 誰
+# 745. 誰
 [誰](https://jisho.org/search/誰%23kanjii) [誰](https://jisho.org/search/*誰*)
-#746. 致
+# 746. 致
 [致](https://jisho.org/search/致%23kanjii) [致](https://jisho.org/search/*致*)
-#747. 堂
+# 747. 堂
 [堂](https://jisho.org/search/堂%23kanjii) [堂](https://jisho.org/search/*堂*)
-#748. 責
+# 748. 責
 [責](https://jisho.org/search/責%23kanjii) [責](https://jisho.org/search/*責*)
-#749. 鳥
+# 749. 鳥
 [鳥](https://jisho.org/search/鳥%23kanjii) [鳥](https://jisho.org/search/*鳥*)
-#750. 刻
+# 750. 刻
 [刻](https://jisho.org/search/刻%23kanjii) [刻](https://jisho.org/search/*刻*)
-#751. 曜
+# 751. 曜
 [曜](https://jisho.org/search/曜%23kanjii) [曜](https://jisho.org/search/*曜*)
-#752. 拡
+# 752. 拡
 [拡](https://jisho.org/search/拡%23kanjii) [拡](https://jisho.org/search/*拡*)
-#753. 伊
+# 753. 伊
 [伊](https://jisho.org/search/伊%23kanjii) [伊](https://jisho.org/search/*伊*)
-#754. 婦
+# 754. 婦
 [婦](https://jisho.org/search/婦%23kanjii) [婦](https://jisho.org/search/*婦*)
-#755. 称
+# 755. 称
 [称](https://jisho.org/search/称%23kanjii) [称](https://jisho.org/search/*称*)
-#756. 央
+# 756. 央
 [央](https://jisho.org/search/央%23kanjii) [央](https://jisho.org/search/*央*)
-#757. 養
+# 757. 養
 [養](https://jisho.org/search/養%23kanjii) [養](https://jisho.org/search/*養*)
-#758. 博
+# 758. 博
 [博](https://jisho.org/search/博%23kanjii) [博](https://jisho.org/search/*博*)
-#759. 販
+# 759. 販
 [販](https://jisho.org/search/販%23kanjii) [販](https://jisho.org/search/*販*)
-#760. 僕
+# 760. 僕
 [僕](https://jisho.org/search/僕%23kanjii) [僕](https://jisho.org/search/*僕*)
-#761. 岩
+# 761. 岩
 [岩](https://jisho.org/search/岩%23kanjii) [岩](https://jisho.org/search/*岩*)
-#762. 練
+# 762. 練
 [練](https://jisho.org/search/練%23kanjii) [練](https://jisho.org/search/*練*)
-#763. 描
+# 763. 描
 [描](https://jisho.org/search/描%23kanjii) [描](https://jisho.org/search/*描*)
-#764. 妻
+# 764. 妻
 [妻](https://jisho.org/search/妻%23kanjii) [妻](https://jisho.org/search/*妻*)
-#765. 輪
+# 765. 輪
 [輪](https://jisho.org/search/輪%23kanjii) [輪](https://jisho.org/search/*輪*)
-#766. 劇
+# 766. 劇
 [劇](https://jisho.org/search/劇%23kanjii) [劇](https://jisho.org/search/*劇*)
-#767. 浜
+# 767. 浜
 [浜](https://jisho.org/search/浜%23kanjii) [浜](https://jisho.org/search/*浜*)
-#768. 植
+# 768. 植
 [植](https://jisho.org/search/植%23kanjii) [植](https://jisho.org/search/*植*)
-#769. 善
+# 769. 善
 [善](https://jisho.org/search/善%23kanjii) [善](https://jisho.org/search/*善*)
-#770. 詳
+# 770. 詳
 [詳](https://jisho.org/search/詳%23kanjii) [詳](https://jisho.org/search/*詳*)
-#771. 欲
+# 771. 欲
 [欲](https://jisho.org/search/欲%23kanjii) [欲](https://jisho.org/search/*欲*)
-#772. 掛
+# 772. 掛
 [掛](https://jisho.org/search/掛%23kanjii) [掛](https://jisho.org/search/*掛*)
-#773. 承
+# 773. 承
 [承](https://jisho.org/search/承%23kanjii) [承](https://jisho.org/search/*承*)
-#774. 迎
+# 774. 迎
 [迎](https://jisho.org/search/迎%23kanjii) [迎](https://jisho.org/search/*迎*)
-#775. 築
+# 775. 築
 [築](https://jisho.org/search/築%23kanjii) [築](https://jisho.org/search/*築*)
-#776. 痛
+# 776. 痛
 [痛](https://jisho.org/search/痛%23kanjii) [痛](https://jisho.org/search/*痛*)
-#777. 催
+# 777. 催
 [催](https://jisho.org/search/催%23kanjii) [催](https://jisho.org/search/*催*)
-#778. 爆
+# 778. 爆
 [爆](https://jisho.org/search/爆%23kanjii) [爆](https://jisho.org/search/*爆*)
-#779. 房
+# 779. 房
 [房](https://jisho.org/search/房%23kanjii) [房](https://jisho.org/search/*房*)
-#780. 撮
+# 780. 撮
 [撮](https://jisho.org/search/撮%23kanjii) [撮](https://jisho.org/search/*撮*)
-#781. 恐
+# 781. 恐
 [恐](https://jisho.org/search/恐%23kanjii) [恐](https://jisho.org/search/*恐*)
-#782. 罪
+# 782. 罪
 [罪](https://jisho.org/search/罪%23kanjii) [罪](https://jisho.org/search/*罪*)
-#783. 尾
+# 783. 尾
 [尾](https://jisho.org/search/尾%23kanjii) [尾](https://jisho.org/search/*尾*)
-#784. 誌
+# 784. 誌
 [誌](https://jisho.org/search/誌%23kanjii) [誌](https://jisho.org/search/*誌*)
-#785. 忘
+# 785. 忘
 [忘](https://jisho.org/search/忘%23kanjii) [忘](https://jisho.org/search/*忘*)
-#786. 闘
+# 786. 闘
 [闘](https://jisho.org/search/闘%23kanjii) [闘](https://jisho.org/search/*闘*)
-#787. 諸
+# 787. 諸
 [諸](https://jisho.org/search/諸%23kanjii) [諸](https://jisho.org/search/*諸*)
-#788. 亡
+# 788. 亡
 [亡](https://jisho.org/search/亡%23kanjii) [亡](https://jisho.org/search/*亡*)
-#789. 創
+# 789. 創
 [創](https://jisho.org/search/創%23kanjii) [創](https://jisho.org/search/*創*)
-#790. 奥
+# 790. 奥
 [奥](https://jisho.org/search/奥%23kanjii) [奥](https://jisho.org/search/*奥*)
-#791. 典
+# 791. 典
 [典](https://jisho.org/search/典%23kanjii) [典](https://jisho.org/search/*典*)
-#792. 候
+# 792. 候
 [候](https://jisho.org/search/候%23kanjii) [候](https://jisho.org/search/*候*)
-#793. 旧
+# 793. 旧
 [旧](https://jisho.org/search/旧%23kanjii) [旧](https://jisho.org/search/*旧*)
-#794. 聴
+# 794. 聴
 [聴](https://jisho.org/search/聴%23kanjii) [聴](https://jisho.org/search/*聴*)
-#795. 徒
+# 795. 徒
 [徒](https://jisho.org/search/徒%23kanjii) [徒](https://jisho.org/search/*徒*)
-#796. 衆
+# 796. 衆
 [衆](https://jisho.org/search/衆%23kanjii) [衆](https://jisho.org/search/*衆*)
-#797. 敵
+# 797. 敵
 [敵](https://jisho.org/search/敵%23kanjii) [敵](https://jisho.org/search/*敵*)
-#798. 寝
+# 798. 寝
 [寝](https://jisho.org/search/寝%23kanjii) [寝](https://jisho.org/search/*寝*)
-#799. 弾
+# 799. 弾
 [弾](https://jisho.org/search/弾%23kanjii) [弾](https://jisho.org/search/*弾*)
-#800. 浮
+# 800. 浮
 [浮](https://jisho.org/search/浮%23kanjii) [浮](https://jisho.org/search/*浮*)
-#801. 里
+# 801. 里
 [里](https://jisho.org/search/里%23kanjii) [里](https://jisho.org/search/*里*)
-#802. 陽
+# 802. 陽
 [陽](https://jisho.org/search/陽%23kanjii) [陽](https://jisho.org/search/*陽*)
-#803. 逃
+# 803. 逃
 [逃](https://jisho.org/search/逃%23kanjii) [逃](https://jisho.org/search/*逃*)
-#804. 禁
+# 804. 禁
 [禁](https://jisho.org/search/禁%23kanjii) [禁](https://jisho.org/search/*禁*)
-#805. 納
+# 805. 納
 [納](https://jisho.org/search/納%23kanjii) [納](https://jisho.org/search/*納*)
-#806. 池
+# 806. 池
 [池](https://jisho.org/search/池%23kanjii) [池](https://jisho.org/search/*池*)
-#807. 永
+# 807. 永
 [永](https://jisho.org/search/永%23kanjii) [永](https://jisho.org/search/*永*)
-#808. 貴
+# 808. 貴
 [貴](https://jisho.org/search/貴%23kanjii) [貴](https://jisho.org/search/*貴*)
-#809. 就
+# 809. 就
 [就](https://jisho.org/search/就%23kanjii) [就](https://jisho.org/search/*就*)
-#810. 徳
+# 810. 徳
 [徳](https://jisho.org/search/徳%23kanjii) [徳](https://jisho.org/search/*徳*)
-#811. 掲
+# 811. 掲
 [掲](https://jisho.org/search/掲%23kanjii) [掲](https://jisho.org/search/*掲*)
-#812. 携
+# 812. 携
 [携](https://jisho.org/search/携%23kanjii) [携](https://jisho.org/search/*携*)
-#813. 傷
+# 813. 傷
 [傷](https://jisho.org/search/傷%23kanjii) [傷](https://jisho.org/search/*傷*)
-#814. 昭
+# 814. 昭
 [昭](https://jisho.org/search/昭%23kanjii) [昭](https://jisho.org/search/*昭*)
-#815. 犯
+# 815. 犯
 [犯](https://jisho.org/search/犯%23kanjii) [犯](https://jisho.org/search/*犯*)
-#816. 秘
+# 816. 秘
 [秘](https://jisho.org/search/秘%23kanjii) [秘](https://jisho.org/search/*秘*)
-#817. 震
+# 817. 震
 [震](https://jisho.org/search/震%23kanjii) [震](https://jisho.org/search/*震*)
-#818. 乱
+# 818. 乱
 [乱](https://jisho.org/search/乱%23kanjii) [乱](https://jisho.org/search/*乱*)
-#819. 油
+# 819. 油
 [油](https://jisho.org/search/油%23kanjii) [油](https://jisho.org/search/*油*)
-#820. 札
+# 820. 札
 [札](https://jisho.org/search/札%23kanjii) [札](https://jisho.org/search/*札*)
-#821. 坂
+# 821. 坂
 [坂](https://jisho.org/search/坂%23kanjii) [坂](https://jisho.org/search/*坂*)
-#822. 討
+# 822. 討
 [討](https://jisho.org/search/討%23kanjii) [討](https://jisho.org/search/*討*)
-#823. 枚
+# 823. 枚
 [枚](https://jisho.org/search/枚%23kanjii) [枚](https://jisho.org/search/*枚*)
-#824. 宇
+# 824. 宇
 [宇](https://jisho.org/search/宇%23kanjii) [宇](https://jisho.org/search/*宇*)
-#825. 困
+# 825. 困
 [困](https://jisho.org/search/困%23kanjii) [困](https://jisho.org/search/*困*)
-#826. 項
+# 826. 項
 [項](https://jisho.org/search/項%23kanjii) [項](https://jisho.org/search/*項*)
-#827. 航
+# 827. 航
 [航](https://jisho.org/search/航%23kanjii) [航](https://jisho.org/search/*航*)
-#828. 簡
+# 828. 簡
 [簡](https://jisho.org/search/簡%23kanjii) [簡](https://jisho.org/search/*簡*)
-#829. 片
+# 829. 片
 [片](https://jisho.org/search/片%23kanjii) [片](https://jisho.org/search/*片*)
-#830. 索
+# 830. 索
 [索](https://jisho.org/search/索%23kanjii) [索](https://jisho.org/search/*索*)
-#831. 採
+# 831. 採
 [採](https://jisho.org/search/採%23kanjii) [採](https://jisho.org/search/*採*)
-#832. 厳
+# 832. 厳
 [厳](https://jisho.org/search/厳%23kanjii) [厳](https://jisho.org/search/*厳*)
-#833. 固
+# 833. 固
 [固](https://jisho.org/search/固%23kanjii) [固](https://jisho.org/search/*固*)
-#834. 依
+# 834. 依
 [依](https://jisho.org/search/依%23kanjii) [依](https://jisho.org/search/*依*)
-#835. 削
+# 835. 削
 [削](https://jisho.org/search/削%23kanjii) [削](https://jisho.org/search/*削*)
-#836. 令
+# 836. 令
 [令](https://jisho.org/search/令%23kanjii) [令](https://jisho.org/search/*令*)
-#837. 羽
+# 837. 羽
 [羽](https://jisho.org/search/羽%23kanjii) [羽](https://jisho.org/search/*羽*)
-#838. 筋
+# 838. 筋
 [筋](https://jisho.org/search/筋%23kanjii) [筋](https://jisho.org/search/*筋*)
-#839. 捕
+# 839. 捕
 [捕](https://jisho.org/search/捕%23kanjii) [捕](https://jisho.org/search/*捕*)
-#840. 幕
+# 840. 幕
 [幕](https://jisho.org/search/幕%23kanjii) [幕](https://jisho.org/search/*幕*)
-#841. 娘
+# 841. 娘
 [娘](https://jisho.org/search/娘%23kanjii) [娘](https://jisho.org/search/*娘*)
-#842. 岸
+# 842. 岸
 [岸](https://jisho.org/search/岸%23kanjii) [岸](https://jisho.org/search/*岸*)
-#843. 華
+# 843. 華
 [華](https://jisho.org/search/華%23kanjii) [華](https://jisho.org/search/*華*)
-#844. 暮
+# 844. 暮
 [暮](https://jisho.org/search/暮%23kanjii) [暮](https://jisho.org/search/*暮*)
-#845. 脱
+# 845. 脱
 [脱](https://jisho.org/search/脱%23kanjii) [脱](https://jisho.org/search/*脱*)
-#846. 勤
+# 846. 勤
 [勤](https://jisho.org/search/勤%23kanjii) [勤](https://jisho.org/search/*勤*)
-#847. 遅
+# 847. 遅
 [遅](https://jisho.org/search/遅%23kanjii) [遅](https://jisho.org/search/*遅*)
-#848. 奈
+# 848. 奈
 [奈](https://jisho.org/search/奈%23kanjii) [奈](https://jisho.org/search/*奈*)
-#849. 針
+# 849. 針
 [針](https://jisho.org/search/針%23kanjii) [針](https://jisho.org/search/*針*)
-#850. 幹
+# 850. 幹
 [幹](https://jisho.org/search/幹%23kanjii) [幹](https://jisho.org/search/*幹*)
-#851. 請
+# 851. 請
 [請](https://jisho.org/search/請%23kanjii) [請](https://jisho.org/search/*請*)
-#852. 頃
+# 852. 頃
 [頃](https://jisho.org/search/頃%23kanjii) [頃](https://jisho.org/search/*頃*)
-#853. 抗
+# 853. 抗
 [抗](https://jisho.org/search/抗%23kanjii) [抗](https://jisho.org/search/*抗*)
-#854. 宗
+# 854. 宗
 [宗](https://jisho.org/search/宗%23kanjii) [宗](https://jisho.org/search/*宗*)
-#855. 測
+# 855. 測
 [測](https://jisho.org/search/測%23kanjii) [測](https://jisho.org/search/*測*)
-#856. 快
+# 856. 快
 [快](https://jisho.org/search/快%23kanjii) [快](https://jisho.org/search/*快*)
-#857. 夕
+# 857. 夕
 [夕](https://jisho.org/search/夕%23kanjii) [夕](https://jisho.org/search/*夕*)
-#858. 絡
+# 858. 絡
 [絡](https://jisho.org/search/絡%23kanjii) [絡](https://jisho.org/search/*絡*)
-#859. 底
+# 859. 底
 [底](https://jisho.org/search/底%23kanjii) [底](https://jisho.org/search/*底*)
-#860. 恋
+# 860. 恋
 [恋](https://jisho.org/search/恋%23kanjii) [恋](https://jisho.org/search/*恋*)
-#861. 惑
+# 861. 惑
 [惑](https://jisho.org/search/惑%23kanjii) [惑](https://jisho.org/search/*惑*)
-#862. 倍
+# 862. 倍
 [倍](https://jisho.org/search/倍%23kanjii) [倍](https://jisho.org/search/*倍*)
-#863. 跡
+# 863. 跡
 [跡](https://jisho.org/search/跡%23kanjii) [跡](https://jisho.org/search/*跡*)
-#864. 辞
+# 864. 辞
 [辞](https://jisho.org/search/辞%23kanjii) [辞](https://jisho.org/search/*辞*)
-#865. 毛
+# 865. 毛
 [毛](https://jisho.org/search/毛%23kanjii) [毛](https://jisho.org/search/*毛*)
-#866. 染
+# 866. 染
 [染](https://jisho.org/search/染%23kanjii) [染](https://jisho.org/search/*染*)
-#867. 祭
+# 867. 祭
 [祭](https://jisho.org/search/祭%23kanjii) [祭](https://jisho.org/search/*祭*)
-#868. 抱
+# 868. 抱
 [抱](https://jisho.org/search/抱%23kanjii) [抱](https://jisho.org/search/*抱*)
-#869. 希
+# 869. 希
 [希](https://jisho.org/search/希%23kanjii) [希](https://jisho.org/search/*希*)
-#870. 折
+# 870. 折
 [折](https://jisho.org/search/折%23kanjii) [折](https://jisho.org/search/*折*)
-#871. 否
+# 871. 否
 [否](https://jisho.org/search/否%23kanjii) [否](https://jisho.org/search/*否*)
-#872. 恵
+# 872. 恵
 [恵](https://jisho.org/search/恵%23kanjii) [恵](https://jisho.org/search/*恵*)
-#873. 秀
+# 873. 秀
 [秀](https://jisho.org/search/秀%23kanjii) [秀](https://jisho.org/search/*秀*)
-#874. 複
+# 874. 複
 [複](https://jisho.org/search/複%23kanjii) [複](https://jisho.org/search/*複*)
-#875. 審
+# 875. 審
 [審](https://jisho.org/search/審%23kanjii) [審](https://jisho.org/search/*審*)
-#876. 雄
+# 876. 雄
 [雄](https://jisho.org/search/雄%23kanjii) [雄](https://jisho.org/search/*雄*)
-#877. 倉
+# 877. 倉
 [倉](https://jisho.org/search/倉%23kanjii) [倉](https://jisho.org/search/*倉*)
-#878. 隠
+# 878. 隠
 [隠](https://jisho.org/search/隠%23kanjii) [隠](https://jisho.org/search/*隠*)
-#879. 避
+# 879. 避
 [避](https://jisho.org/search/避%23kanjii) [避](https://jisho.org/search/*避*)
-#880. 閉
+# 880. 閉
 [閉](https://jisho.org/search/閉%23kanjii) [閉](https://jisho.org/search/*閉*)
-#881. 則
+# 881. 則
 [則](https://jisho.org/search/則%23kanjii) [則](https://jisho.org/search/*則*)
-#882. 晴
+# 882. 晴
 [晴](https://jisho.org/search/晴%23kanjii) [晴](https://jisho.org/search/*晴*)
-#883. 壊
+# 883. 壊
 [壊](https://jisho.org/search/壊%23kanjii) [壊](https://jisho.org/search/*壊*)
-#884. 伸
+# 884. 伸
 [伸](https://jisho.org/search/伸%23kanjii) [伸](https://jisho.org/search/*伸*)
-#885. 群
+# 885. 群
 [群](https://jisho.org/search/群%23kanjii) [群](https://jisho.org/search/*群*)
-#886. 筆
+# 886. 筆
 [筆](https://jisho.org/search/筆%23kanjii) [筆](https://jisho.org/search/*筆*)
-#887. 益
+# 887. 益
 [益](https://jisho.org/search/益%23kanjii) [益](https://jisho.org/search/*益*)
-#888. 雪
+# 888. 雪
 [雪](https://jisho.org/search/雪%23kanjii) [雪](https://jisho.org/search/*雪*)
-#889. 季
+# 889. 季
 [季](https://jisho.org/search/季%23kanjii) [季](https://jisho.org/search/*季*)
-#890. 暴
+# 890. 暴
 [暴](https://jisho.org/search/暴%23kanjii) [暴](https://jisho.org/search/*暴*)
-#891. 混
+# 891. 混
 [混](https://jisho.org/search/混%23kanjii) [混](https://jisho.org/search/*混*)
-#892. 停
+# 892. 停
 [停](https://jisho.org/search/停%23kanjii) [停](https://jisho.org/search/*停*)
-#893. 暗
+# 893. 暗
 [暗](https://jisho.org/search/暗%23kanjii) [暗](https://jisho.org/search/*暗*)
-#894. 延
+# 894. 延
 [延](https://jisho.org/search/延%23kanjii) [延](https://jisho.org/search/*延*)
-#895. 兄
+# 895. 兄
 [兄](https://jisho.org/search/兄%23kanjii) [兄](https://jisho.org/search/*兄*)
-#896. 功
+# 896. 功
 [功](https://jisho.org/search/功%23kanjii) [功](https://jisho.org/search/*功*)
-#897. 嫌
+# 897. 嫌
 [嫌](https://jisho.org/search/嫌%23kanjii) [嫌](https://jisho.org/search/*嫌*)
-#898. 届
+# 898. 届
 [届](https://jisho.org/search/届%23kanjii) [届](https://jisho.org/search/*届*)
-#899. 樹
+# 899. 樹
 [樹](https://jisho.org/search/樹%23kanjii) [樹](https://jisho.org/search/*樹*)
-#900. 輸
+# 900. 輸
 [輸](https://jisho.org/search/輸%23kanjii) [輸](https://jisho.org/search/*輸*)
-#901. 己
+# 901. 己
 [己](https://jisho.org/search/己%23kanjii) [己](https://jisho.org/search/*己*)
-#902. 刊
+# 902. 刊
 [刊](https://jisho.org/search/刊%23kanjii) [刊](https://jisho.org/search/*刊*)
-#903. 拠
+# 903. 拠
 [拠](https://jisho.org/search/拠%23kanjii) [拠](https://jisho.org/search/*拠*)
-#904. 射
+# 904. 射
 [射](https://jisho.org/search/射%23kanjii) [射](https://jisho.org/search/*射*)
-#905. 脳
+# 905. 脳
 [脳](https://jisho.org/search/脳%23kanjii) [脳](https://jisho.org/search/*脳*)
-#906. 竹
+# 906. 竹
 [竹](https://jisho.org/search/竹%23kanjii) [竹](https://jisho.org/search/*竹*)
-#907. 賀
+# 907. 賀
 [賀](https://jisho.org/search/賀%23kanjii) [賀](https://jisho.org/search/*賀*)
-#908. 触
+# 908. 触
 [触](https://jisho.org/search/触%23kanjii) [触](https://jisho.org/search/*触*)
-#909. 弱
+# 909. 弱
 [弱](https://jisho.org/search/弱%23kanjii) [弱](https://jisho.org/search/*弱*)
-#910. 礼
+# 910. 礼
 [礼](https://jisho.org/search/礼%23kanjii) [礼](https://jisho.org/search/*礼*)
-#911. 廃
+# 911. 廃
 [廃](https://jisho.org/search/廃%23kanjii) [廃](https://jisho.org/search/*廃*)
-#912. 充
+# 912. 充
 [充](https://jisho.org/search/充%23kanjii) [充](https://jisho.org/search/*充*)
-#913. 易
+# 913. 易
 [易](https://jisho.org/search/易%23kanjii) [易](https://jisho.org/search/*易*)
-#914. 遣
+# 914. 遣
 [遣](https://jisho.org/search/遣%23kanjii) [遣](https://jisho.org/search/*遣*)
-#915. 弟
+# 915. 弟
 [弟](https://jisho.org/search/弟%23kanjii) [弟](https://jisho.org/search/*弟*)
-#916. 純
+# 916. 純
 [純](https://jisho.org/search/純%23kanjii) [純](https://jisho.org/search/*純*)
-#917. 齢
+# 917. 齢
 [齢](https://jisho.org/search/齢%23kanjii) [齢](https://jisho.org/search/*齢*)
-#918. 稿
+# 918. 稿
 [稿](https://jisho.org/search/稿%23kanjii) [稿](https://jisho.org/search/*稿*)
-#919. 占
+# 919. 占
 [占](https://jisho.org/search/占%23kanjii) [占](https://jisho.org/search/*占*)
-#920. 覧
+# 920. 覧
 [覧](https://jisho.org/search/覧%23kanjii) [覧](https://jisho.org/search/*覧*)
-#921. 露
+# 921. 露
 [露](https://jisho.org/search/露%23kanjii) [露](https://jisho.org/search/*露*)
-#922. 融
+# 922. 融
 [融](https://jisho.org/search/融%23kanjii) [融](https://jisho.org/search/*融*)
-#923. 魚
+# 923. 魚
 [魚](https://jisho.org/search/魚%23kanjii) [魚](https://jisho.org/search/*魚*)
-#924. 之
+# 924. 之
 [之](https://jisho.org/search/之%23kanjii) [之](https://jisho.org/search/*之*)
-#925. 厚
+# 925. 厚
 [厚](https://jisho.org/search/厚%23kanjii) [厚](https://jisho.org/search/*厚*)
-#926. 票
+# 926. 票
 [票](https://jisho.org/search/票%23kanjii) [票](https://jisho.org/search/*票*)
-#927. 層
+# 927. 層
 [層](https://jisho.org/search/層%23kanjii) [層](https://jisho.org/search/*層*)
-#928. 敷
+# 928. 敷
 [敷](https://jisho.org/search/敷%23kanjii) [敷](https://jisho.org/search/*敷*)
-#929. 扱
+# 929. 扱
 [扱](https://jisho.org/search/扱%23kanjii) [扱](https://jisho.org/search/*扱*)
-#930. 皆
+# 930. 皆
 [皆](https://jisho.org/search/皆%23kanjii) [皆](https://jisho.org/search/*皆*)
-#931. 骨
+# 931. 骨
 [骨](https://jisho.org/search/骨%23kanjii) [骨](https://jisho.org/search/*骨*)
-#932. 飯
+# 932. 飯
 [飯](https://jisho.org/search/飯%23kanjii) [飯](https://jisho.org/search/*飯*)
-#933. 丁
+# 933. 丁
 [丁](https://jisho.org/search/丁%23kanjii) [丁](https://jisho.org/search/*丁*)
-#934. 徴
+# 934. 徴
 [徴](https://jisho.org/search/徴%23kanjii) [徴](https://jisho.org/search/*徴*)
-#935. 犬
+# 935. 犬
 [犬](https://jisho.org/search/犬%23kanjii) [犬](https://jisho.org/search/*犬*)
-#936. 欠
+# 936. 欠
 [欠](https://jisho.org/search/欠%23kanjii) [欠](https://jisho.org/search/*欠*)
-#937. 栄
+# 937. 栄
 [栄](https://jisho.org/search/栄%23kanjii) [栄](https://jisho.org/search/*栄*)
-#938. 互
+# 938. 互
 [互](https://jisho.org/search/互%23kanjii) [互](https://jisho.org/search/*互*)
-#939. 聖
+# 939. 聖
 [聖](https://jisho.org/search/聖%23kanjii) [聖](https://jisho.org/search/*聖*)
-#940. 頂
+# 940. 頂
 [頂](https://jisho.org/search/頂%23kanjii) [頂](https://jisho.org/search/*頂*)
-#941. 卒
+# 941. 卒
 [卒](https://jisho.org/search/卒%23kanjii) [卒](https://jisho.org/search/*卒*)
-#942. 仮
+# 942. 仮
 [仮](https://jisho.org/search/仮%23kanjii) [仮](https://jisho.org/search/*仮*)
-#943. 踏
+# 943. 踏
 [踏](https://jisho.org/search/踏%23kanjii) [踏](https://jisho.org/search/*踏*)
-#944. 操
+# 944. 操
 [操](https://jisho.org/search/操%23kanjii) [操](https://jisho.org/search/*操*)
-#945. 韓
+# 945. 韓
 [韓](https://jisho.org/search/韓%23kanjii) [韓](https://jisho.org/search/*韓*)
-#946. 仏
+# 946. 仏
 [仏](https://jisho.org/search/仏%23kanjii) [仏](https://jisho.org/search/*仏*)
-#947. 隣
+# 947. 隣
 [隣](https://jisho.org/search/隣%23kanjii) [隣](https://jisho.org/search/*隣*)
-#948. 腹
+# 948. 腹
 [腹](https://jisho.org/search/腹%23kanjii) [腹](https://jisho.org/search/*腹*)
-#949. 症
+# 949. 症
 [症](https://jisho.org/search/症%23kanjii) [症](https://jisho.org/search/*症*)
-#950. 救
+# 950. 救
 [救](https://jisho.org/search/救%23kanjii) [救](https://jisho.org/search/*救*)
-#951. 訴
+# 951. 訴
 [訴](https://jisho.org/search/訴%23kanjii) [訴](https://jisho.org/search/*訴*)
-#952. 億
+# 952. 億
 [億](https://jisho.org/search/億%23kanjii) [億](https://jisho.org/search/*億*)
-#953. 鹿
+# 953. 鹿
 [鹿](https://jisho.org/search/鹿%23kanjii) [鹿](https://jisho.org/search/*鹿*)
-#954. 庁
+# 954. 庁
 [庁](https://jisho.org/search/庁%23kanjii) [庁](https://jisho.org/search/*庁*)
-#955. 刑
+# 955. 刑
 [刑](https://jisho.org/search/刑%23kanjii) [刑](https://jisho.org/search/*刑*)
-#956. 迷
+# 956. 迷
 [迷](https://jisho.org/search/迷%23kanjii) [迷](https://jisho.org/search/*迷*)
-#957. 沖
+# 957. 沖
 [沖](https://jisho.org/search/沖%23kanjii) [沖](https://jisho.org/search/*沖*)
-#958. 択
+# 958. 択
 [択](https://jisho.org/search/択%23kanjii) [択](https://jisho.org/search/*択*)
-#959. 宣
+# 959. 宣
 [宣](https://jisho.org/search/宣%23kanjii) [宣](https://jisho.org/search/*宣*)
-#960. 幅
+# 960. 幅
 [幅](https://jisho.org/search/幅%23kanjii) [幅](https://jisho.org/search/*幅*)
-#961. 魔
+# 961. 魔
 [魔](https://jisho.org/search/魔%23kanjii) [魔](https://jisho.org/search/*魔*)
-#962. 締
+# 962. 締
 [締](https://jisho.org/search/締%23kanjii) [締](https://jisho.org/search/*締*)
-#963. 吹
+# 963. 吹
 [吹](https://jisho.org/search/吹%23kanjii) [吹](https://jisho.org/search/*吹*)
-#964. 束
+# 964. 束
 [束](https://jisho.org/search/束%23kanjii) [束](https://jisho.org/search/*束*)
-#965. 執
+# 965. 執
 [執](https://jisho.org/search/執%23kanjii) [執](https://jisho.org/search/*執*)
-#966. 券
+# 966. 券
 [券](https://jisho.org/search/券%23kanjii) [券](https://jisho.org/search/*券*)
-#967. 宝
+# 967. 宝
 [宝](https://jisho.org/search/宝%23kanjii) [宝](https://jisho.org/search/*宝*)
-#968. 甲
+# 968. 甲
 [甲](https://jisho.org/search/甲%23kanjii) [甲](https://jisho.org/search/*甲*)
-#969. 湯
+# 969. 湯
 [湯](https://jisho.org/search/湯%23kanjii) [湯](https://jisho.org/search/*湯*)
-#970. 吸
+# 970. 吸
 [吸](https://jisho.org/search/吸%23kanjii) [吸](https://jisho.org/search/*吸*)
-#971. 律
+# 971. 律
 [律](https://jisho.org/search/律%23kanjii) [律](https://jisho.org/search/*律*)
-#972. 刺
+# 972. 刺
 [刺](https://jisho.org/search/刺%23kanjii) [刺](https://jisho.org/search/*刺*)
-#973. 績
+# 973. 績
 [績](https://jisho.org/search/績%23kanjii) [績](https://jisho.org/search/*績*)
-#974. 荷
+# 974. 荷
 [荷](https://jisho.org/search/荷%23kanjii) [荷](https://jisho.org/search/*荷*)
-#975. 閣
+# 975. 閣
 [閣](https://jisho.org/search/閣%23kanjii) [閣](https://jisho.org/search/*閣*)
-#976. 柄
+# 976. 柄
 [柄](https://jisho.org/search/柄%23kanjii) [柄](https://jisho.org/search/*柄*)
-#977. 昇
+# 977. 昇
 [昇](https://jisho.org/search/昇%23kanjii) [昇](https://jisho.org/search/*昇*)
-#978. 冬
+# 978. 冬
 [冬](https://jisho.org/search/冬%23kanjii) [冬](https://jisho.org/search/*冬*)
-#979. 批
+# 979. 批
 [批](https://jisho.org/search/批%23kanjii) [批](https://jisho.org/search/*批*)
-#980. 悲
+# 980. 悲
 [悲](https://jisho.org/search/悲%23kanjii) [悲](https://jisho.org/search/*悲*)
-#981. 籍
+# 981. 籍
 [籍](https://jisho.org/search/籍%23kanjii) [籍](https://jisho.org/search/*籍*)
-#982. 巨
+# 982. 巨
 [巨](https://jisho.org/search/巨%23kanjii) [巨](https://jisho.org/search/*巨*)
-#983. 盤
+# 983. 盤
 [盤](https://jisho.org/search/盤%23kanjii) [盤](https://jisho.org/search/*盤*)
-#984. 壁
+# 984. 壁
 [壁](https://jisho.org/search/壁%23kanjii) [壁](https://jisho.org/search/*壁*)
-#985. 歯
+# 985. 歯
 [歯](https://jisho.org/search/歯%23kanjii) [歯](https://jisho.org/search/*歯*)
-#986. 荒
+# 986. 荒
 [荒](https://jisho.org/search/荒%23kanjii) [荒](https://jisho.org/search/*荒*)
-#987. 洗
+# 987. 洗
 [洗](https://jisho.org/search/洗%23kanjii) [洗](https://jisho.org/search/*洗*)
-#988. 腕
+# 988. 腕
 [腕](https://jisho.org/search/腕%23kanjii) [腕](https://jisho.org/search/*腕*)
-#989. 眼
+# 989. 眼
 [眼](https://jisho.org/search/眼%23kanjii) [眼](https://jisho.org/search/*眼*)
-#990. 謝
+# 990. 謝
 [謝](https://jisho.org/search/謝%23kanjii) [謝](https://jisho.org/search/*謝*)
-#991. 衣
+# 991. 衣
 [衣](https://jisho.org/search/衣%23kanjii) [衣](https://jisho.org/search/*衣*)
-#992. 郷
+# 992. 郷
 [郷](https://jisho.org/search/郷%23kanjii) [郷](https://jisho.org/search/*郷*)
-#993. 損
+# 993. 損
 [損](https://jisho.org/search/損%23kanjii) [損](https://jisho.org/search/*損*)
-#994. 借
+# 994. 借
 [借](https://jisho.org/search/借%23kanjii) [借](https://jisho.org/search/*借*)
-#995. 繰
+# 995. 繰
 [繰](https://jisho.org/search/繰%23kanjii) [繰](https://jisho.org/search/*繰*)
-#996. 憲
+# 996. 憲
 [憲](https://jisho.org/search/憲%23kanjii) [憲](https://jisho.org/search/*憲*)
-#997. 妙
+# 997. 妙
 [妙](https://jisho.org/search/妙%23kanjii) [妙](https://jisho.org/search/*妙*)
-#998. 躍
+# 998. 躍
 [躍](https://jisho.org/search/躍%23kanjii) [躍](https://jisho.org/search/*躍*)
-#999. 災
+# 999. 災
 [災](https://jisho.org/search/災%23kanjii) [災](https://jisho.org/search/*災*)
-#1000. 陣
+# 1000. 陣
 [陣](https://jisho.org/search/陣%23kanjii) [陣](https://jisho.org/search/*陣*)
-#1001. 副
+# 1001. 副
 [副](https://jisho.org/search/副%23kanjii) [副](https://jisho.org/search/*副*)
-#1002. 昼
+# 1002. 昼
 [昼](https://jisho.org/search/昼%23kanjii) [昼](https://jisho.org/search/*昼*)
-#1003. 駆
+# 1003. 駆
 [駆](https://jisho.org/search/駆%23kanjii) [駆](https://jisho.org/search/*駆*)
-#1004. 誘
+# 1004. 誘
 [誘](https://jisho.org/search/誘%23kanjii) [誘](https://jisho.org/search/*誘*)
-#1005. 包
+# 1005. 包
 [包](https://jisho.org/search/包%23kanjii) [包](https://jisho.org/search/*包*)
-#1006. 貨
+# 1006. 貨
 [貨](https://jisho.org/search/貨%23kanjii) [貨](https://jisho.org/search/*貨*)
-#1007. 麻
+# 1007. 麻
 [麻](https://jisho.org/search/麻%23kanjii) [麻](https://jisho.org/search/*麻*)
-#1008. 迫
+# 1008. 迫
 [迫](https://jisho.org/search/迫%23kanjii) [迫](https://jisho.org/search/*迫*)
-#1009. 維
+# 1009. 維
 [維](https://jisho.org/search/維%23kanjii) [維](https://jisho.org/search/*維*)
-#1010. 微
+# 1010. 微
 [微](https://jisho.org/search/微%23kanjii) [微](https://jisho.org/search/*微*)
-#1011. 窓
+# 1011. 窓
 [窓](https://jisho.org/search/窓%23kanjii) [窓](https://jisho.org/search/*窓*)
-#1012. 至
+# 1012. 至
 [至](https://jisho.org/search/至%23kanjii) [至](https://jisho.org/search/*至*)
-#1013. 鳴
+# 1013. 鳴
 [鳴](https://jisho.org/search/鳴%23kanjii) [鳴](https://jisho.org/search/*鳴*)
-#1014. 摘
+# 1014. 摘
 [摘](https://jisho.org/search/摘%23kanjii) [摘](https://jisho.org/search/*摘*)
-#1015. 眠
+# 1015. 眠
 [眠](https://jisho.org/search/眠%23kanjii) [眠](https://jisho.org/search/*眠*)
-#1016. 杯
+# 1016. 杯
 [杯](https://jisho.org/search/杯%23kanjii) [杯](https://jisho.org/search/*杯*)
-#1017. 臣
+# 1017. 臣
 [臣](https://jisho.org/search/臣%23kanjii) [臣](https://jisho.org/search/*臣*)
-#1018. 薄
+# 1018. 薄
 [薄](https://jisho.org/search/薄%23kanjii) [薄](https://jisho.org/search/*薄*)
-#1019. 免
+# 1019. 免
 [免](https://jisho.org/search/免%23kanjii) [免](https://jisho.org/search/*免*)
-#1020. 黄
+# 1020. 黄
 [黄](https://jisho.org/search/黄%23kanjii) [黄](https://jisho.org/search/*黄*)
-#1021. 到
+# 1021. 到
 [到](https://jisho.org/search/到%23kanjii) [到](https://jisho.org/search/*到*)
-#1022. 菜
+# 1022. 菜
 [菜](https://jisho.org/search/菜%23kanjii) [菜](https://jisho.org/search/*菜*)
-#1023. 牛
+# 1023. 牛
 [牛](https://jisho.org/search/牛%23kanjii) [牛](https://jisho.org/search/*牛*)
-#1024. 昔
+# 1024. 昔
 [昔](https://jisho.org/search/昔%23kanjii) [昔](https://jisho.org/search/*昔*)
-#1025. 胸
+# 1025. 胸
 [胸](https://jisho.org/search/胸%23kanjii) [胸](https://jisho.org/search/*胸*)
-#1026. 翌
+# 1026. 翌
 [翌](https://jisho.org/search/翌%23kanjii) [翌](https://jisho.org/search/*翌*)
-#1027. 緊
+# 1027. 緊
 [緊](https://jisho.org/search/緊%23kanjii) [緊](https://jisho.org/search/*緊*)
-#1028. 怒
+# 1028. 怒
 [怒](https://jisho.org/search/怒%23kanjii) [怒](https://jisho.org/search/*怒*)
-#1029. 泊
+# 1029. 泊
 [泊](https://jisho.org/search/泊%23kanjii) [泊](https://jisho.org/search/*泊*)
-#1030. 署
+# 1030. 署
 [署](https://jisho.org/search/署%23kanjii) [署](https://jisho.org/search/*署*)
-#1031. 均
+# 1031. 均
 [均](https://jisho.org/search/均%23kanjii) [均](https://jisho.org/search/*均*)
-#1032. 砂
+# 1032. 砂
 [砂](https://jisho.org/search/砂%23kanjii) [砂](https://jisho.org/search/*砂*)
-#1033. 舎
+# 1033. 舎
 [舎](https://jisho.org/search/舎%23kanjii) [舎](https://jisho.org/search/*舎*)
-#1034. 盟
+# 1034. 盟
 [盟](https://jisho.org/search/盟%23kanjii) [盟](https://jisho.org/search/*盟*)
-#1035. 瀬
+# 1035. 瀬
 [瀬](https://jisho.org/search/瀬%23kanjii) [瀬](https://jisho.org/search/*瀬*)
-#1036. 詰
+# 1036. 詰
 [詰](https://jisho.org/search/詰%23kanjii) [詰](https://jisho.org/search/*詰*)
-#1037. 郵
+# 1037. 郵
 [郵](https://jisho.org/search/郵%23kanjii) [郵](https://jisho.org/search/*郵*)
-#1038. 概
+# 1038. 概
 [概](https://jisho.org/search/概%23kanjii) [概](https://jisho.org/search/*概*)
-#1039. 殿
+# 1039. 殿
 [殿](https://jisho.org/search/殿%23kanjii) [殿](https://jisho.org/search/*殿*)
-#1040. 献
+# 1040. 献
 [献](https://jisho.org/search/献%23kanjii) [献](https://jisho.org/search/*献*)
-#1041. 燃
+# 1041. 燃
 [燃](https://jisho.org/search/燃%23kanjii) [燃](https://jisho.org/search/*燃*)
-#1042. 乳
+# 1042. 乳
 [乳](https://jisho.org/search/乳%23kanjii) [乳](https://jisho.org/search/*乳*)
-#1043. 耳
+# 1043. 耳
 [耳](https://jisho.org/search/耳%23kanjii) [耳](https://jisho.org/search/*耳*)
-#1044. 驚
+# 1044. 驚
 [驚](https://jisho.org/search/驚%23kanjii) [驚](https://jisho.org/search/*驚*)
-#1045. 縄
+# 1045. 縄
 [縄](https://jisho.org/search/縄%23kanjii) [縄](https://jisho.org/search/*縄*)
-#1046. 濃
+# 1046. 濃
 [濃](https://jisho.org/search/濃%23kanjii) [濃](https://jisho.org/search/*濃*)
-#1047. 縮
+# 1047. 縮
 [縮](https://jisho.org/search/縮%23kanjii) [縮](https://jisho.org/search/*縮*)
-#1048. 募
+# 1048. 募
 [募](https://jisho.org/search/募%23kanjii) [募](https://jisho.org/search/*募*)
-#1049. 浦
+# 1049. 浦
 [浦](https://jisho.org/search/浦%23kanjii) [浦](https://jisho.org/search/*浦*)
-#1050. 雲
+# 1050. 雲
 [雲](https://jisho.org/search/雲%23kanjii) [雲](https://jisho.org/search/*雲*)
-#1051. 範
+# 1051. 範
 [範](https://jisho.org/search/範%23kanjii) [範](https://jisho.org/search/*範*)
-#1052. 幼
+# 1052. 幼
 [幼](https://jisho.org/search/幼%23kanjii) [幼](https://jisho.org/search/*幼*)
-#1053. 袋
+# 1053. 袋
 [袋](https://jisho.org/search/袋%23kanjii) [袋](https://jisho.org/search/*袋*)
-#1054. 髪
+# 1054. 髪
 [髪](https://jisho.org/search/髪%23kanjii) [髪](https://jisho.org/search/*髪*)
-#1055. 診
+# 1055. 診
 [診](https://jisho.org/search/診%23kanjii) [診](https://jisho.org/search/*診*)
-#1056. 貸
+# 1056. 貸
 [貸](https://jisho.org/search/貸%23kanjii) [貸](https://jisho.org/search/*貸*)
-#1057. 裕
+# 1057. 裕
 [裕](https://jisho.org/search/裕%23kanjii) [裕](https://jisho.org/search/*裕*)
-#1058. 瞬
+# 1058. 瞬
 [瞬](https://jisho.org/search/瞬%23kanjii) [瞬](https://jisho.org/search/*瞬*)
-#1059. 即
+# 1059. 即
 [即](https://jisho.org/search/即%23kanjii) [即](https://jisho.org/search/*即*)
-#1060. 滅
+# 1060. 滅
 [滅](https://jisho.org/search/滅%23kanjii) [滅](https://jisho.org/search/*滅*)
-#1061. 丈
+# 1061. 丈
 [丈](https://jisho.org/search/丈%23kanjii) [丈](https://jisho.org/search/*丈*)
-#1062. 俺
+# 1062. 俺
 [俺](https://jisho.org/search/俺%23kanjii) [俺](https://jisho.org/search/*俺*)
-#1063. 湾
+# 1063. 湾
 [湾](https://jisho.org/search/湾%23kanjii) [湾](https://jisho.org/search/*湾*)
-#1064. 床
+# 1064. 床
 [床](https://jisho.org/search/床%23kanjii) [床](https://jisho.org/search/*床*)
-#1065. 梅
+# 1065. 梅
 [梅](https://jisho.org/search/梅%23kanjii) [梅](https://jisho.org/search/*梅*)
-#1066. 皮
+# 1066. 皮
 [皮](https://jisho.org/search/皮%23kanjii) [皮](https://jisho.org/search/*皮*)
-#1067. 童
+# 1067. 童
 [童](https://jisho.org/search/童%23kanjii) [童](https://jisho.org/search/*童*)
-#1068. 甘
+# 1068. 甘
 [甘](https://jisho.org/search/甘%23kanjii) [甘](https://jisho.org/search/*甘*)
-#1069. 郡
+# 1069. 郡
 [郡](https://jisho.org/search/郡%23kanjii) [郡](https://jisho.org/search/*郡*)
-#1070. 儀
+# 1070. 儀
 [儀](https://jisho.org/search/儀%23kanjii) [儀](https://jisho.org/search/*儀*)
-#1071. 崩
+# 1071. 崩
 [崩](https://jisho.org/search/崩%23kanjii) [崩](https://jisho.org/search/*崩*)
-#1072. 脚
+# 1072. 脚
 [脚](https://jisho.org/search/脚%23kanjii) [脚](https://jisho.org/search/*脚*)
-#1073. 核
+# 1073. 核
 [核](https://jisho.org/search/核%23kanjii) [核](https://jisho.org/search/*核*)
-#1074. 傾
+# 1074. 傾
 [傾](https://jisho.org/search/傾%23kanjii) [傾](https://jisho.org/search/*傾*)
-#1075. 酸
+# 1075. 酸
 [酸](https://jisho.org/search/酸%23kanjii) [酸](https://jisho.org/search/*酸*)
-#1076. 慮
+# 1076. 慮
 [慮](https://jisho.org/search/慮%23kanjii) [慮](https://jisho.org/search/*慮*)
-#1077. 購
+# 1077. 購
 [購](https://jisho.org/search/購%23kanjii) [購](https://jisho.org/search/*購*)
-#1078. 箱
+# 1078. 箱
 [箱](https://jisho.org/search/箱%23kanjii) [箱](https://jisho.org/search/*箱*)
-#1079. 誤
+# 1079. 誤
 [誤](https://jisho.org/search/誤%23kanjii) [誤](https://jisho.org/search/*誤*)
-#1080. 誕
+# 1080. 誕
 [誕](https://jisho.org/search/誕%23kanjii) [誕](https://jisho.org/search/*誕*)
-#1081. 剣
+# 1081. 剣
 [剣](https://jisho.org/search/剣%23kanjii) [剣](https://jisho.org/search/*剣*)
-#1082. 姉
+# 1082. 姉
 [姉](https://jisho.org/search/姉%23kanjii) [姉](https://jisho.org/search/*姉*)
-#1083. 奏
+# 1083. 奏
 [奏](https://jisho.org/search/奏%23kanjii) [奏](https://jisho.org/search/*奏*)
-#1084. 臨
+# 1084. 臨
 [臨](https://jisho.org/search/臨%23kanjii) [臨](https://jisho.org/search/*臨*)
-#1085. 帝
+# 1085. 帝
 [帝](https://jisho.org/search/帝%23kanjii) [帝](https://jisho.org/search/*帝*)
-#1086. 契
+# 1086. 契
 [契](https://jisho.org/search/契%23kanjii) [契](https://jisho.org/search/*契*)
-#1087. 伴
+# 1087. 伴
 [伴](https://jisho.org/search/伴%23kanjii) [伴](https://jisho.org/search/*伴*)
-#1088. 既
+# 1088. 既
 [既](https://jisho.org/search/既%23kanjii) [既](https://jisho.org/search/*既*)
-#1089. 患
+# 1089. 患
 [患](https://jisho.org/search/患%23kanjii) [患](https://jisho.org/search/*患*)
-#1090. 距
+# 1090. 距
 [距](https://jisho.org/search/距%23kanjii) [距](https://jisho.org/search/*距*)
-#1091. 怖
+# 1091. 怖
 [怖](https://jisho.org/search/怖%23kanjii) [怖](https://jisho.org/search/*怖*)
-#1092. 塩
+# 1092. 塩
 [塩](https://jisho.org/search/塩%23kanjii) [塩](https://jisho.org/search/*塩*)
-#1093. 較
+# 1093. 較
 [較](https://jisho.org/search/較%23kanjii) [較](https://jisho.org/search/*較*)
-#1094. 奇
+# 1094. 奇
 [奇](https://jisho.org/search/奇%23kanjii) [奇](https://jisho.org/search/*奇*)
-#1095. 握
+# 1095. 握
 [握](https://jisho.org/search/握%23kanjii) [握](https://jisho.org/search/*握*)
-#1096. 矢
+# 1096. 矢
 [矢](https://jisho.org/search/矢%23kanjii) [矢](https://jisho.org/search/*矢*)
-#1097. 憶
+# 1097. 憶
 [憶](https://jisho.org/search/憶%23kanjii) [憶](https://jisho.org/search/*憶*)
-#1098. 浅
+# 1098. 浅
 [浅](https://jisho.org/search/浅%23kanjii) [浅](https://jisho.org/search/*浅*)
-#1099. 捜
+# 1099. 捜
 [捜](https://jisho.org/search/捜%23kanjii) [捜](https://jisho.org/search/*捜*)
-#1100. 悩
+# 1100. 悩
 [悩](https://jisho.org/search/悩%23kanjii) [悩](https://jisho.org/search/*悩*)
-#1101. 勉
+# 1101. 勉
 [勉](https://jisho.org/search/勉%23kanjii) [勉](https://jisho.org/search/*勉*)
-#1102. 縁
+# 1102. 縁
 [縁](https://jisho.org/search/縁%23kanjii) [縁](https://jisho.org/search/*縁*)
-#1103. 泣
+# 1103. 泣
 [泣](https://jisho.org/search/泣%23kanjii) [泣](https://jisho.org/search/*泣*)
-#1104. 捨
+# 1104. 捨
 [捨](https://jisho.org/search/捨%23kanjii) [捨](https://jisho.org/search/*捨*)
-#1105. 那
+# 1105. 那
 [那](https://jisho.org/search/那%23kanjii) [那](https://jisho.org/search/*那*)
-#1106. 詩
+# 1106. 詩
 [詩](https://jisho.org/search/詩%23kanjii) [詩](https://jisho.org/search/*詩*)
-#1107. 祖
+# 1107. 祖
 [祖](https://jisho.org/search/祖%23kanjii) [祖](https://jisho.org/search/*祖*)
-#1108. 宙
+# 1108. 宙
 [宙](https://jisho.org/search/宙%23kanjii) [宙](https://jisho.org/search/*宙*)
-#1109. 沿
+# 1109. 沿
 [沿](https://jisho.org/search/沿%23kanjii) [沿](https://jisho.org/search/*沿*)
-#1110. 句
+# 1110. 句
 [句](https://jisho.org/search/句%23kanjii) [句](https://jisho.org/search/*句*)
-#1111. 襲
+# 1111. 襲
 [襲](https://jisho.org/search/襲%23kanjii) [襲](https://jisho.org/search/*襲*)
-#1112. 液
+# 1112. 液
 [液](https://jisho.org/search/液%23kanjii) [液](https://jisho.org/search/*液*)
-#1113. 浴
+# 1113. 浴
 [浴](https://jisho.org/search/浴%23kanjii) [浴](https://jisho.org/search/*浴*)
-#1114. 熊
+# 1114. 熊
 [熊](https://jisho.org/search/熊%23kanjii) [熊](https://jisho.org/search/*熊*)
-#1115. 塚
+# 1115. 塚
 [塚](https://jisho.org/search/塚%23kanjii) [塚](https://jisho.org/search/*塚*)
-#1116. 寿
+# 1116. 寿
 [寿](https://jisho.org/search/寿%23kanjii) [寿](https://jisho.org/search/*寿*)
-#1117. 豪
+# 1117. 豪
 [豪](https://jisho.org/search/豪%23kanjii) [豪](https://jisho.org/search/*豪*)
-#1118. 獲
+# 1118. 獲
 [獲](https://jisho.org/search/獲%23kanjii) [獲](https://jisho.org/search/*獲*)
-#1119. 豆
+# 1119. 豆
 [豆](https://jisho.org/search/豆%23kanjii) [豆](https://jisho.org/search/*豆*)
-#1120. 是
+# 1120. 是
 [是](https://jisho.org/search/是%23kanjii) [是](https://jisho.org/search/*是*)
-#1121. 艦
+# 1121. 艦
 [艦](https://jisho.org/search/艦%23kanjii) [艦](https://jisho.org/search/*艦*)
-#1122. 徹
+# 1122. 徹
 [徹](https://jisho.org/search/徹%23kanjii) [徹](https://jisho.org/search/*徹*)
-#1123. 巡
+# 1123. 巡
 [巡](https://jisho.org/search/巡%23kanjii) [巡](https://jisho.org/search/*巡*)
-#1124. 桜
+# 1124. 桜
 [桜](https://jisho.org/search/桜%23kanjii) [桜](https://jisho.org/search/*桜*)
-#1125. 努
+# 1125. 努
 [努](https://jisho.org/search/努%23kanjii) [努](https://jisho.org/search/*努*)
-#1126. 慣
+# 1126. 慣
 [慣](https://jisho.org/search/慣%23kanjii) [慣](https://jisho.org/search/*慣*)
-#1127. 阿
+# 1127. 阿
 [阿](https://jisho.org/search/阿%23kanjii) [阿](https://jisho.org/search/*阿*)
-#1128. 汚
+# 1128. 汚
 [汚](https://jisho.org/search/汚%23kanjii) [汚](https://jisho.org/search/*汚*)
-#1129. 渉
+# 1129. 渉
 [渉](https://jisho.org/search/渉%23kanjii) [渉](https://jisho.org/search/*渉*)
-#1130. 虫
+# 1130. 虫
 [虫](https://jisho.org/search/虫%23kanjii) [虫](https://jisho.org/search/*虫*)
-#1131. 肩
+# 1131. 肩
 [肩](https://jisho.org/search/肩%23kanjii) [肩](https://jisho.org/search/*肩*)
-#1132. 盗
+# 1132. 盗
 [盗](https://jisho.org/search/盗%23kanjii) [盗](https://jisho.org/search/*盗*)
-#1133. 併
+# 1133. 併
 [併](https://jisho.org/search/併%23kanjii) [併](https://jisho.org/search/*併*)
-#1134. 奪
+# 1134. 奪
 [奪](https://jisho.org/search/奪%23kanjii) [奪](https://jisho.org/search/*奪*)
-#1135. 看
+# 1135. 看
 [看](https://jisho.org/search/看%23kanjii) [看](https://jisho.org/search/*看*)
-#1136. 寒
+# 1136. 寒
 [寒](https://jisho.org/search/寒%23kanjii) [寒](https://jisho.org/search/*寒*)
-#1137. 招
+# 1137. 招
 [招](https://jisho.org/search/招%23kanjii) [招](https://jisho.org/search/*招*)
-#1138. 敬
+# 1138. 敬
 [敬](https://jisho.org/search/敬%23kanjii) [敬](https://jisho.org/search/*敬*)
-#1139. 漢
+# 1139. 漢
 [漢](https://jisho.org/search/漢%23kanjii) [漢](https://jisho.org/search/*漢*)
-#1140. 煙
+# 1140. 煙
 [煙](https://jisho.org/search/煙%23kanjii) [煙](https://jisho.org/search/*煙*)
-#1141. 緑
+# 1141. 緑
 [緑](https://jisho.org/search/緑%23kanjii) [緑](https://jisho.org/search/*緑*)
-#1142. 腰
+# 1142. 腰
 [腰](https://jisho.org/search/腰%23kanjii) [腰](https://jisho.org/search/*腰*)
-#1143. 柳
+# 1143. 柳
 [柳](https://jisho.org/search/柳%23kanjii) [柳](https://jisho.org/search/*柳*)
-#1144. 趣
+# 1144. 趣
 [趣](https://jisho.org/search/趣%23kanjii) [趣](https://jisho.org/search/*趣*)
-#1145. 欧
+# 1145. 欧
 [欧](https://jisho.org/search/欧%23kanjii) [欧](https://jisho.org/search/*欧*)
-#1146. 狙
+# 1146. 狙
 [狙](https://jisho.org/search/狙%23kanjii) [狙](https://jisho.org/search/*狙*)
-#1147. 祝
+# 1147. 祝
 [祝](https://jisho.org/search/祝%23kanjii) [祝](https://jisho.org/search/*祝*)
-#1148. 疲
+# 1148. 疲
 [疲](https://jisho.org/search/疲%23kanjii) [疲](https://jisho.org/search/*疲*)
-#1149. 妹
+# 1149. 妹
 [妹](https://jisho.org/search/妹%23kanjii) [妹](https://jisho.org/search/*妹*)
-#1150. 忠
+# 1150. 忠
 [忠](https://jisho.org/search/忠%23kanjii) [忠](https://jisho.org/search/*忠*)
-#1151. 釈
+# 1151. 釈
 [釈](https://jisho.org/search/釈%23kanjii) [釈](https://jisho.org/search/*釈*)
-#1152. 騒
+# 1152. 騒
 [騒](https://jisho.org/search/騒%23kanjii) [騒](https://jisho.org/search/*騒*)
-#1153. 玄
+# 1153. 玄
 [玄](https://jisho.org/search/玄%23kanjii) [玄](https://jisho.org/search/*玄*)
-#1154. 懸
+# 1154. 懸
 [懸](https://jisho.org/search/懸%23kanjii) [懸](https://jisho.org/search/*懸*)
-#1155. 怪
+# 1155. 怪
 [怪](https://jisho.org/search/怪%23kanjii) [怪](https://jisho.org/search/*怪*)
-#1156. 衝
+# 1156. 衝
 [衝](https://jisho.org/search/衝%23kanjii) [衝](https://jisho.org/search/*衝*)
-#1157. 紅
+# 1157. 紅
 [紅](https://jisho.org/search/紅%23kanjii) [紅](https://jisho.org/search/*紅*)
-#1158. 輝
+# 1158. 輝
 [輝](https://jisho.org/search/輝%23kanjii) [輝](https://jisho.org/search/*輝*)
-#1159. 仙
+# 1159. 仙
 [仙](https://jisho.org/search/仙%23kanjii) [仙](https://jisho.org/search/*仙*)
-#1160. 賛
+# 1160. 賛
 [賛](https://jisho.org/search/賛%23kanjii) [賛](https://jisho.org/search/*賛*)
-#1161. 鈴
+# 1161. 鈴
 [鈴](https://jisho.org/search/鈴%23kanjii) [鈴](https://jisho.org/search/*鈴*)
-#1162. 尊
+# 1162. 尊
 [尊](https://jisho.org/search/尊%23kanjii) [尊](https://jisho.org/search/*尊*)
-#1163. 析
+# 1163. 析
 [析](https://jisho.org/search/析%23kanjii) [析](https://jisho.org/search/*析*)
-#1164. 邦
+# 1164. 邦
 [邦](https://jisho.org/search/邦%23kanjii) [邦](https://jisho.org/search/*邦*)
-#1165. 抑
+# 1165. 抑
 [抑](https://jisho.org/search/抑%23kanjii) [抑](https://jisho.org/search/*抑*)
-#1166. 秒
+# 1166. 秒
 [秒](https://jisho.org/search/秒%23kanjii) [秒](https://jisho.org/search/*秒*)
-#1167. 揮
+# 1167. 揮
 [揮](https://jisho.org/search/揮%23kanjii) [揮](https://jisho.org/search/*揮*)
-#1168. 霊
+# 1168. 霊
 [霊](https://jisho.org/search/霊%23kanjii) [霊](https://jisho.org/search/*霊*)
-#1169. 彦
+# 1169. 彦
 [彦](https://jisho.org/search/彦%23kanjii) [彦](https://jisho.org/search/*彦*)
-#1170. 竜
+# 1170. 竜
 [竜](https://jisho.org/search/竜%23kanjii) [竜](https://jisho.org/search/*竜*)
-#1171. 飾
+# 1171. 飾
 [飾](https://jisho.org/search/飾%23kanjii) [飾](https://jisho.org/search/*飾*)
-#1172. 勇
+# 1172. 勇
 [勇](https://jisho.org/search/勇%23kanjii) [勇](https://jisho.org/search/*勇*)
-#1173. 杉
+# 1173. 杉
 [杉](https://jisho.org/search/杉%23kanjii) [杉](https://jisho.org/search/*杉*)
-#1174. 才
+# 1174. 才
 [才](https://jisho.org/search/才%23kanjii) [才](https://jisho.org/search/*才*)
-#1175. 猫
+# 1175. 猫
 [猫](https://jisho.org/search/猫%23kanjii) [猫](https://jisho.org/search/*猫*)
-#1176. 勧
+# 1176. 勧
 [勧](https://jisho.org/search/勧%23kanjii) [勧](https://jisho.org/search/*勧*)
-#1177. 賃
+# 1177. 賃
 [賃](https://jisho.org/search/賃%23kanjii) [賃](https://jisho.org/search/*賃*)
-#1178. 湖
+# 1178. 湖
 [湖](https://jisho.org/search/湖%23kanjii) [湖](https://jisho.org/search/*湖*)
-#1179. 陰
+# 1179. 陰
 [陰](https://jisho.org/search/陰%23kanjii) [陰](https://jisho.org/search/*陰*)
-#1180. 干
+# 1180. 干
 [干](https://jisho.org/search/干%23kanjii) [干](https://jisho.org/search/*干*)
-#1181. 哲
+# 1181. 哲
 [哲](https://jisho.org/search/哲%23kanjii) [哲](https://jisho.org/search/*哲*)
-#1182. 駐
+# 1182. 駐
 [駐](https://jisho.org/search/駐%23kanjii) [駐](https://jisho.org/search/*駐*)
-#1183. 穴
+# 1183. 穴
 [穴](https://jisho.org/search/穴%23kanjii) [穴](https://jisho.org/search/*穴*)
-#1184. 彩
+# 1184. 彩
 [彩](https://jisho.org/search/彩%23kanjii) [彩](https://jisho.org/search/*彩*)
-#1185. 剤
+# 1185. 剤
 [剤](https://jisho.org/search/剤%23kanjii) [剤](https://jisho.org/search/*剤*)
-#1186. 毒
+# 1186. 毒
 [毒](https://jisho.org/search/毒%23kanjii) [毒](https://jisho.org/search/*毒*)
-#1187. 鏡
+# 1187. 鏡
 [鏡](https://jisho.org/search/鏡%23kanjii) [鏡](https://jisho.org/search/*鏡*)
-#1188. 還
+# 1188. 還
 [還](https://jisho.org/search/還%23kanjii) [還](https://jisho.org/search/*還*)
-#1189. 智
+# 1189. 智
 [智](https://jisho.org/search/智%23kanjii) [智](https://jisho.org/search/*智*)
-#1190. 帳
+# 1190. 帳
 [帳](https://jisho.org/search/帳%23kanjii) [帳](https://jisho.org/search/*帳*)
-#1191. 双
+# 1191. 双
 [双](https://jisho.org/search/双%23kanjii) [双](https://jisho.org/search/*双*)
-#1192. 挑
+# 1192. 挑
 [挑](https://jisho.org/search/挑%23kanjii) [挑](https://jisho.org/search/*挑*)
-#1193. 排
+# 1193. 排
 [排](https://jisho.org/search/排%23kanjii) [排](https://jisho.org/search/*排*)
-#1194. 潮
+# 1194. 潮
 [潮](https://jisho.org/search/潮%23kanjii) [潮](https://jisho.org/search/*潮*)
-#1195. 訓
+# 1195. 訓
 [訓](https://jisho.org/search/訓%23kanjii) [訓](https://jisho.org/search/*訓*)
-#1196. 威
+# 1196. 威
 [威](https://jisho.org/search/威%23kanjii) [威](https://jisho.org/search/*威*)
-#1197. 鬼
+# 1197. 鬼
 [鬼](https://jisho.org/search/鬼%23kanjii) [鬼](https://jisho.org/search/*鬼*)
-#1198. 兼
+# 1198. 兼
 [兼](https://jisho.org/search/兼%23kanjii) [兼](https://jisho.org/search/*兼*)
-#1199. 埋
+# 1199. 埋
 [埋](https://jisho.org/search/埋%23kanjii) [埋](https://jisho.org/search/*埋*)
-#1200. 封
+# 1200. 封
 [封](https://jisho.org/search/封%23kanjii) [封](https://jisho.org/search/*封*)
-#1201. 銭
+# 1201. 銭
 [銭](https://jisho.org/search/銭%23kanjii) [銭](https://jisho.org/search/*銭*)
-#1202. 棄
+# 1202. 棄
 [棄](https://jisho.org/search/棄%23kanjii) [棄](https://jisho.org/search/*棄*)
-#1203. 稲
+# 1203. 稲
 [稲](https://jisho.org/search/稲%23kanjii) [稲](https://jisho.org/search/*稲*)
-#1204. 炎
+# 1204. 炎
 [炎](https://jisho.org/search/炎%23kanjii) [炎](https://jisho.org/search/*炎*)
-#1205. 侵
+# 1205. 侵
 [侵](https://jisho.org/search/侵%23kanjii) [侵](https://jisho.org/search/*侵*)
-#1206. 涙
+# 1206. 涙
 [涙](https://jisho.org/search/涙%23kanjii) [涙](https://jisho.org/search/*涙*)
-#1207. 詞
+# 1207. 詞
 [詞](https://jisho.org/search/詞%23kanjii) [詞](https://jisho.org/search/*詞*)
-#1208. 繁
+# 1208. 繁
 [繁](https://jisho.org/search/繁%23kanjii) [繁](https://jisho.org/search/*繁*)
-#1209. 仁
+# 1209. 仁
 [仁](https://jisho.org/search/仁%23kanjii) [仁](https://jisho.org/search/*仁*)
-#1210. 頑
+# 1210. 頑
 [頑](https://jisho.org/search/頑%23kanjii) [頑](https://jisho.org/search/*頑*)
-#1211. 漫
+# 1211. 漫
 [漫](https://jisho.org/search/漫%23kanjii) [漫](https://jisho.org/search/*漫*)
-#1212. 須
+# 1212. 須
 [須](https://jisho.org/search/須%23kanjii) [須](https://jisho.org/search/*須*)
-#1213. 沈
+# 1213. 沈
 [沈](https://jisho.org/search/沈%23kanjii) [沈](https://jisho.org/search/*沈*)
-#1214. 渋
+# 1214. 渋
 [渋](https://jisho.org/search/渋%23kanjii) [渋](https://jisho.org/search/*渋*)
-#1215. 堀
+# 1215. 堀
 [堀](https://jisho.org/search/堀%23kanjii) [堀](https://jisho.org/search/*堀*)
-#1216. 輩
+# 1216. 輩
 [輩](https://jisho.org/search/輩%23kanjii) [輩](https://jisho.org/search/*輩*)
-#1217. 芝
+# 1217. 芝
 [芝](https://jisho.org/search/芝%23kanjii) [芝](https://jisho.org/search/*芝*)
-#1218. 履
+# 1218. 履
 [履](https://jisho.org/search/履%23kanjii) [履](https://jisho.org/search/*履*)
-#1219. 又
+# 1219. 又
 [又](https://jisho.org/search/又%23kanjii) [又](https://jisho.org/search/*又*)
-#1220. 却
+# 1220. 却
 [却](https://jisho.org/search/却%23kanjii) [却](https://jisho.org/search/*却*)
-#1221. 透
+# 1221. 透
 [透](https://jisho.org/search/透%23kanjii) [透](https://jisho.org/search/*透*)
-#1222. 焦
+# 1222. 焦
 [焦](https://jisho.org/search/焦%23kanjii) [焦](https://jisho.org/search/*焦*)
-#1223. 釣
+# 1223. 釣
 [釣](https://jisho.org/search/釣%23kanjii) [釣](https://jisho.org/search/*釣*)
-#1224. 譲
+# 1224. 譲
 [譲](https://jisho.org/search/譲%23kanjii) [譲](https://jisho.org/search/*譲*)
-#1225. 旗
+# 1225. 旗
 [旗](https://jisho.org/search/旗%23kanjii) [旗](https://jisho.org/search/*旗*)
-#1226. 枝
+# 1226. 枝
 [枝](https://jisho.org/search/枝%23kanjii) [枝](https://jisho.org/search/*枝*)
-#1227. 晩
+# 1227. 晩
 [晩](https://jisho.org/search/晩%23kanjii) [晩](https://jisho.org/search/*晩*)
-#1228. 添
+# 1228. 添
 [添](https://jisho.org/search/添%23kanjii) [添](https://jisho.org/search/*添*)
-#1229. 駄
+# 1229. 駄
 [駄](https://jisho.org/search/駄%23kanjii) [駄](https://jisho.org/search/*駄*)
-#1230. 柔
+# 1230. 柔
 [柔](https://jisho.org/search/柔%23kanjii) [柔](https://jisho.org/search/*柔*)
-#1231. 坊
+# 1231. 坊
 [坊](https://jisho.org/search/坊%23kanjii) [坊](https://jisho.org/search/*坊*)
-#1232. 呂
+# 1232. 呂
 [呂](https://jisho.org/search/呂%23kanjii) [呂](https://jisho.org/search/*呂*)
-#1233. 誠
+# 1233. 誠
 [誠](https://jisho.org/search/誠%23kanjii) [誠](https://jisho.org/search/*誠*)
-#1234. 銃
+# 1234. 銃
 [銃](https://jisho.org/search/銃%23kanjii) [銃](https://jisho.org/search/*銃*)
-#1235. 慢
+# 1235. 慢
 [慢](https://jisho.org/search/慢%23kanjii) [慢](https://jisho.org/search/*慢*)
-#1236. 孫
+# 1236. 孫
 [孫](https://jisho.org/search/孫%23kanjii) [孫](https://jisho.org/search/*孫*)
-#1237. 姫
+# 1237. 姫
 [姫](https://jisho.org/search/姫%23kanjii) [姫](https://jisho.org/search/*姫*)
-#1238. 黙
+# 1238. 黙
 [黙](https://jisho.org/search/黙%23kanjii) [黙](https://jisho.org/search/*黙*)
-#1239. 揚
+# 1239. 揚
 [揚](https://jisho.org/search/揚%23kanjii) [揚](https://jisho.org/search/*揚*)
-#1240. 潜
+# 1240. 潜
 [潜](https://jisho.org/search/潜%23kanjii) [潜](https://jisho.org/search/*潜*)
-#1241. 揺
+# 1241. 揺
 [揺](https://jisho.org/search/揺%23kanjii) [揺](https://jisho.org/search/*揺*)
-#1242. 債
+# 1242. 債
 [債](https://jisho.org/search/債%23kanjii) [債](https://jisho.org/search/*債*)
-#1243. 拝
+# 1243. 拝
 [拝](https://jisho.org/search/拝%23kanjii) [拝](https://jisho.org/search/*拝*)
-#1244. 也
+# 1244. 也
 [也](https://jisho.org/search/也%23kanjii) [也](https://jisho.org/search/*也*)
-#1245. 貧
+# 1245. 貧
 [貧](https://jisho.org/search/貧%23kanjii) [貧](https://jisho.org/search/*貧*)
-#1246. 礎
+# 1246. 礎
 [礎](https://jisho.org/search/礎%23kanjii) [礎](https://jisho.org/search/*礎*)
-#1247. 僚
+# 1247. 僚
 [僚](https://jisho.org/search/僚%23kanjii) [僚](https://jisho.org/search/*僚*)
-#1248. 没
+# 1248. 没
 [没](https://jisho.org/search/没%23kanjii) [没](https://jisho.org/search/*没*)
-#1249. 控
+# 1249. 控
 [控](https://jisho.org/search/控%23kanjii) [控](https://jisho.org/search/*控*)
-#1250. 摩
+# 1250. 摩
 [摩](https://jisho.org/search/摩%23kanjii) [摩](https://jisho.org/search/*摩*)
-#1251. 唱
+# 1251. 唱
 [唱](https://jisho.org/search/唱%23kanjii) [唱](https://jisho.org/search/*唱*)
-#1252. 辛
+# 1252. 辛
 [辛](https://jisho.org/search/辛%23kanjii) [辛](https://jisho.org/search/*辛*)
-#1253. 魅
+# 1253. 魅
 [魅](https://jisho.org/search/魅%23kanjii) [魅](https://jisho.org/search/*魅*)
-#1254. 亀
+# 1254. 亀
 [亀](https://jisho.org/search/亀%23kanjii) [亀](https://jisho.org/search/*亀*)
-#1255. 畑
+# 1255. 畑
 [畑](https://jisho.org/search/畑%23kanjii) [畑](https://jisho.org/search/*畑*)
-#1256. 珍
+# 1256. 珍
 [珍](https://jisho.org/search/珍%23kanjii) [珍](https://jisho.org/search/*珍*)
-#1257. 灯
+# 1257. 灯
 [灯](https://jisho.org/search/灯%23kanjii) [灯](https://jisho.org/search/*灯*)
-#1258. 漁
+# 1258. 漁
 [漁](https://jisho.org/search/漁%23kanjii) [漁](https://jisho.org/search/*漁*)
-#1259. 臓
+# 1259. 臓
 [臓](https://jisho.org/search/臓%23kanjii) [臓](https://jisho.org/search/*臓*)
-#1260. 狭
+# 1260. 狭
 [狭](https://jisho.org/search/狭%23kanjii) [狭](https://jisho.org/search/*狭*)
-#1261. 沼
+# 1261. 沼
 [沼](https://jisho.org/search/沼%23kanjii) [沼](https://jisho.org/search/*沼*)
-#1262. 咲
+# 1262. 咲
 [咲](https://jisho.org/search/咲%23kanjii) [咲](https://jisho.org/search/*咲*)
-#1263. 滑
+# 1263. 滑
 [滑](https://jisho.org/search/滑%23kanjii) [滑](https://jisho.org/search/*滑*)
-#1264. 刀
+# 1264. 刀
 [刀](https://jisho.org/search/刀%23kanjii) [刀](https://jisho.org/search/*刀*)
-#1265. 柱
+# 1265. 柱
 [柱](https://jisho.org/search/柱%23kanjii) [柱](https://jisho.org/search/*柱*)
-#1266. 枠
+# 1266. 枠
 [枠](https://jisho.org/search/枠%23kanjii) [枠](https://jisho.org/search/*枠*)
-#1267. 鼻
+# 1267. 鼻
 [鼻](https://jisho.org/search/鼻%23kanjii) [鼻](https://jisho.org/search/*鼻*)
-#1268. 絞
+# 1268. 絞
 [絞](https://jisho.org/search/絞%23kanjii) [絞](https://jisho.org/search/*絞*)
-#1269. 炭
+# 1269. 炭
 [炭](https://jisho.org/search/炭%23kanjii) [炭](https://jisho.org/search/*炭*)
-#1270. 網
+# 1270. 網
 [網](https://jisho.org/search/網%23kanjii) [網](https://jisho.org/search/*網*)
-#1271. 俳
+# 1271. 俳
 [俳](https://jisho.org/search/俳%23kanjii) [俳](https://jisho.org/search/*俳*)
-#1272. 耐
+# 1272. 耐
 [耐](https://jisho.org/search/耐%23kanjii) [耐](https://jisho.org/search/*耐*)
-#1273. 尽
+# 1273. 尽
 [尽](https://jisho.org/search/尽%23kanjii) [尽](https://jisho.org/search/*尽*)
-#1274. 岐
+# 1274. 岐
 [岐](https://jisho.org/search/岐%23kanjii) [岐](https://jisho.org/search/*岐*)
-#1275. 鶴
+# 1275. 鶴
 [鶴](https://jisho.org/search/鶴%23kanjii) [鶴](https://jisho.org/search/*鶴*)
-#1276. 龍
+# 1276. 龍
 [龍](https://jisho.org/search/龍%23kanjii) [龍](https://jisho.org/search/*龍*)
-#1277. 稼
+# 1277. 稼
 [稼](https://jisho.org/search/稼%23kanjii) [稼](https://jisho.org/search/*稼*)
-#1278. 旨
+# 1278. 旨
 [旨](https://jisho.org/search/旨%23kanjii) [旨](https://jisho.org/search/*旨*)
-#1279. 邪
+# 1279. 邪
 [邪](https://jisho.org/search/邪%23kanjii) [邪](https://jisho.org/search/*邪*)
-#1280. 綱
+# 1280. 綱
 [綱](https://jisho.org/search/綱%23kanjii) [綱](https://jisho.org/search/*綱*)
-#1281. 茂
+# 1281. 茂
 [茂](https://jisho.org/search/茂%23kanjii) [茂](https://jisho.org/search/*茂*)
-#1282. 償
+# 1282. 償
 [償](https://jisho.org/search/償%23kanjii) [償](https://jisho.org/search/*償*)
-#1283. 圏
+# 1283. 圏
 [圏](https://jisho.org/search/圏%23kanjii) [圏](https://jisho.org/search/*圏*)
-#1284. 麗
+# 1284. 麗
 [麗](https://jisho.org/search/麗%23kanjii) [麗](https://jisho.org/search/*麗*)
-#1285. 雇
+# 1285. 雇
 [雇](https://jisho.org/search/雇%23kanjii) [雇](https://jisho.org/search/*雇*)
-#1286. 貫
+# 1286. 貫
 [貫](https://jisho.org/search/貫%23kanjii) [貫](https://jisho.org/search/*貫*)
-#1287. 隆
+# 1287. 隆
 [隆](https://jisho.org/search/隆%23kanjii) [隆](https://jisho.org/search/*隆*)
-#1288. 踊
+# 1288. 踊
 [踊](https://jisho.org/search/踊%23kanjii) [踊](https://jisho.org/search/*踊*)
-#1289. 雅
+# 1289. 雅
 [雅](https://jisho.org/search/雅%23kanjii) [雅](https://jisho.org/search/*雅*)
-#1290. 牧
+# 1290. 牧
 [牧](https://jisho.org/search/牧%23kanjii) [牧](https://jisho.org/search/*牧*)
-#1291. 狂
+# 1291. 狂
 [狂](https://jisho.org/search/狂%23kanjii) [狂](https://jisho.org/search/*狂*)
-#1292. 如
+# 1292. 如
 [如](https://jisho.org/search/如%23kanjii) [如](https://jisho.org/search/*如*)
-#1293. 乾
+# 1293. 乾
 [乾](https://jisho.org/search/乾%23kanjii) [乾](https://jisho.org/search/*乾*)
-#1294. 飼
+# 1294. 飼
 [飼](https://jisho.org/search/飼%23kanjii) [飼](https://jisho.org/search/*飼*)
-#1295. 託
+# 1295. 託
 [託](https://jisho.org/search/託%23kanjii) [託](https://jisho.org/search/*託*)
-#1296. 偽
+# 1296. 偽
 [偽](https://jisho.org/search/偽%23kanjii) [偽](https://jisho.org/search/*偽*)
-#1297. 鑑
+# 1297. 鑑
 [鑑](https://jisho.org/search/鑑%23kanjii) [鑑](https://jisho.org/search/*鑑*)
-#1298. 唯
+# 1298. 唯
 [唯](https://jisho.org/search/唯%23kanjii) [唯](https://jisho.org/search/*唯*)
-#1299. 舗
+# 1299. 舗
 [舗](https://jisho.org/search/舗%23kanjii) [舗](https://jisho.org/search/*舗*)
-#1300. 預
+# 1300. 預
 [預](https://jisho.org/search/預%23kanjii) [預](https://jisho.org/search/*預*)
-#1301. 伏
+# 1301. 伏
 [伏](https://jisho.org/search/伏%23kanjii) [伏](https://jisho.org/search/*伏*)
-#1302. 砲
+# 1302. 砲
 [砲](https://jisho.org/search/砲%23kanjii) [砲](https://jisho.org/search/*砲*)
-#1303. 懐
+# 1303. 懐
 [懐](https://jisho.org/search/懐%23kanjii) [懐](https://jisho.org/search/*懐*)
-#1304. 促
+# 1304. 促
 [促](https://jisho.org/search/促%23kanjii) [促](https://jisho.org/search/*促*)
-#1305. 裂
+# 1305. 裂
 [裂](https://jisho.org/search/裂%23kanjii) [裂](https://jisho.org/search/*裂*)
-#1306. 俊
+# 1306. 俊
 [俊](https://jisho.org/search/俊%23kanjii) [俊](https://jisho.org/search/*俊*)
-#1307. 暖
+# 1307. 暖
 [暖](https://jisho.org/search/暖%23kanjii) [暖](https://jisho.org/search/*暖*)
-#1308. 歓
+# 1308. 歓
 [歓](https://jisho.org/search/歓%23kanjii) [歓](https://jisho.org/search/*歓*)
-#1309. 屈
+# 1309. 屈
 [屈](https://jisho.org/search/屈%23kanjii) [屈](https://jisho.org/search/*屈*)
-#1310. 卓
+# 1310. 卓
 [卓](https://jisho.org/search/卓%23kanjii) [卓](https://jisho.org/search/*卓*)
-#1311. 棒
+# 1311. 棒
 [棒](https://jisho.org/search/棒%23kanjii) [棒](https://jisho.org/search/*棒*)
-#1312. 斎
+# 1312. 斎
 [斎](https://jisho.org/search/斎%23kanjii) [斎](https://jisho.org/search/*斎*)
-#1313. 粉
+# 1313. 粉
 [粉](https://jisho.org/search/粉%23kanjii) [粉](https://jisho.org/search/*粉*)
-#1314. 勘
+# 1314. 勘
 [勘](https://jisho.org/search/勘%23kanjii) [勘](https://jisho.org/search/*勘*)
-#1315. 奴
+# 1315. 奴
 [奴](https://jisho.org/search/奴%23kanjii) [奴](https://jisho.org/search/*奴*)
-#1316. 顧
+# 1316. 顧
 [顧](https://jisho.org/search/顧%23kanjii) [顧](https://jisho.org/search/*顧*)
-#1317. 冊
+# 1317. 冊
 [冊](https://jisho.org/search/冊%23kanjii) [冊](https://jisho.org/search/*冊*)
-#1318. 滞
+# 1318. 滞
 [滞](https://jisho.org/search/滞%23kanjii) [滞](https://jisho.org/search/*滞*)
-#1319. 往
+# 1319. 往
 [往](https://jisho.org/search/往%23kanjii) [往](https://jisho.org/search/*往*)
-#1320. 丘
+# 1320. 丘
 [丘](https://jisho.org/search/丘%23kanjii) [丘](https://jisho.org/search/*丘*)
-#1321. 塗
+# 1321. 塗
 [塗](https://jisho.org/search/塗%23kanjii) [塗](https://jisho.org/search/*塗*)
-#1322. 旬
+# 1322. 旬
 [旬](https://jisho.org/search/旬%23kanjii) [旬](https://jisho.org/search/*旬*)
-#1323. 氷
+# 1323. 氷
 [氷](https://jisho.org/search/氷%23kanjii) [氷](https://jisho.org/search/*氷*)
-#1324. 括
+# 1324. 括
 [括](https://jisho.org/search/括%23kanjii) [括](https://jisho.org/search/*括*)
-#1325. 殊
+# 1325. 殊
 [殊](https://jisho.org/search/殊%23kanjii) [殊](https://jisho.org/search/*殊*)
-#1326. 葬
+# 1326. 葬
 [葬](https://jisho.org/search/葬%23kanjii) [葬](https://jisho.org/search/*葬*)
-#1327. 叫
+# 1327. 叫
 [叫](https://jisho.org/search/叫%23kanjii) [叫](https://jisho.org/search/*叫*)
-#1328. 丹
+# 1328. 丹
 [丹](https://jisho.org/search/丹%23kanjii) [丹](https://jisho.org/search/*丹*)
-#1329. 亜
+# 1329. 亜
 [亜](https://jisho.org/search/亜%23kanjii) [亜](https://jisho.org/search/*亜*)
-#1330. 垣
+# 1330. 垣
 [垣](https://jisho.org/search/垣%23kanjii) [垣](https://jisho.org/search/*垣*)
-#1331. 掘
+# 1331. 掘
 [掘](https://jisho.org/search/掘%23kanjii) [掘](https://jisho.org/search/*掘*)
-#1332. 序
+# 1332. 序
 [序](https://jisho.org/search/序%23kanjii) [序](https://jisho.org/search/*序*)
-#1333. 慶
+# 1333. 慶
 [慶](https://jisho.org/search/慶%23kanjii) [慶](https://jisho.org/search/*慶*)
-#1334. 抵
+# 1334. 抵
 [抵](https://jisho.org/search/抵%23kanjii) [抵](https://jisho.org/search/*抵*)
-#1335. 械
+# 1335. 械
 [械](https://jisho.org/search/械%23kanjii) [械](https://jisho.org/search/*械*)
-#1336. 弘
+# 1336. 弘
 [弘](https://jisho.org/search/弘%23kanjii) [弘](https://jisho.org/search/*弘*)
-#1337. 贈
+# 1337. 贈
 [贈](https://jisho.org/search/贈%23kanjii) [贈](https://jisho.org/search/*贈*)
-#1338. 仰
+# 1338. 仰
 [仰](https://jisho.org/search/仰%23kanjii) [仰](https://jisho.org/search/*仰*)
-#1339. 肌
+# 1339. 肌
 [肌](https://jisho.org/search/肌%23kanjii) [肌](https://jisho.org/search/*肌*)
-#1340. 浪
+# 1340. 浪
 [浪](https://jisho.org/search/浪%23kanjii) [浪](https://jisho.org/search/*浪*)
-#1341. 刷
+# 1341. 刷
 [刷](https://jisho.org/search/刷%23kanjii) [刷](https://jisho.org/search/*刷*)
-#1342. 糸
+# 1342. 糸
 [糸](https://jisho.org/search/糸%23kanjii) [糸](https://jisho.org/search/*糸*)
-#1343. 弥
+# 1343. 弥
 [弥](https://jisho.org/search/弥%23kanjii) [弥](https://jisho.org/search/*弥*)
-#1344. 掃
+# 1344. 掃
 [掃](https://jisho.org/search/掃%23kanjii) [掃](https://jisho.org/search/*掃*)
-#1345. 敏
+# 1345. 敏
 [敏](https://jisho.org/search/敏%23kanjii) [敏](https://jisho.org/search/*敏*)
-#1346. 孝
+# 1346. 孝
 [孝](https://jisho.org/search/孝%23kanjii) [孝](https://jisho.org/search/*孝*)
-#1347. 翼
+# 1347. 翼
 [翼](https://jisho.org/search/翼%23kanjii) [翼](https://jisho.org/search/*翼*)
-#1348. 拒
+# 1348. 拒
 [拒](https://jisho.org/search/拒%23kanjii) [拒](https://jisho.org/search/*拒*)
-#1349. 悟
+# 1349. 悟
 [悟](https://jisho.org/search/悟%23kanjii) [悟](https://jisho.org/search/*悟*)
-#1350. 硬
+# 1350. 硬
 [硬](https://jisho.org/search/硬%23kanjii) [硬](https://jisho.org/search/*硬*)
-#1351. 慎
+# 1351. 慎
 [慎](https://jisho.org/search/慎%23kanjii) [慎](https://jisho.org/search/*慎*)
-#1352. 戒
+# 1352. 戒
 [戒](https://jisho.org/search/戒%23kanjii) [戒](https://jisho.org/search/*戒*)
-#1353. 熟
+# 1353. 熟
 [熟](https://jisho.org/search/熟%23kanjii) [熟](https://jisho.org/search/*熟*)
-#1354. 羅
+# 1354. 羅
 [羅](https://jisho.org/search/羅%23kanjii) [羅](https://jisho.org/search/*羅*)
-#1355. 卵
+# 1355. 卵
 [卵](https://jisho.org/search/卵%23kanjii) [卵](https://jisho.org/search/*卵*)
-#1356. 墓
+# 1356. 墓
 [墓](https://jisho.org/search/墓%23kanjii) [墓](https://jisho.org/search/*墓*)
-#1357. 潟
+# 1357. 潟
 [潟](https://jisho.org/search/潟%23kanjii) [潟](https://jisho.org/search/*潟*)
-#1358. 尋
+# 1358. 尋
 [尋](https://jisho.org/search/尋%23kanjii) [尋](https://jisho.org/search/*尋*)
-#1359. 磨
+# 1359. 磨
 [磨](https://jisho.org/search/磨%23kanjii) [磨](https://jisho.org/search/*磨*)
-#1360. 胞
+# 1360. 胞
 [胞](https://jisho.org/search/胞%23kanjii) [胞](https://jisho.org/search/*胞*)
-#1361. 菊
+# 1361. 菊
 [菊](https://jisho.org/search/菊%23kanjii) [菊](https://jisho.org/search/*菊*)
-#1362. 誇
+# 1362. 誇
 [誇](https://jisho.org/search/誇%23kanjii) [誇](https://jisho.org/search/*誇*)
-#1363. 貯
+# 1363. 貯
 [貯](https://jisho.org/search/貯%23kanjii) [貯](https://jisho.org/search/*貯*)
-#1364. 酔
+# 1364. 酔
 [酔](https://jisho.org/search/酔%23kanjii) [酔](https://jisho.org/search/*酔*)
-#1365. 腐
+# 1365. 腐
 [腐](https://jisho.org/search/腐%23kanjii) [腐](https://jisho.org/search/*腐*)
-#1366. 紫
+# 1366. 紫
 [紫](https://jisho.org/search/紫%23kanjii) [紫](https://jisho.org/search/*紫*)
-#1367. 唐
+# 1367. 唐
 [唐](https://jisho.org/search/唐%23kanjii) [唐](https://jisho.org/search/*唐*)
-#1368. 尚
+# 1368. 尚
 [尚](https://jisho.org/search/尚%23kanjii) [尚](https://jisho.org/search/*尚*)
-#1369. 随
+# 1369. 随
 [随](https://jisho.org/search/随%23kanjii) [随](https://jisho.org/search/*随*)
-#1370. 冒
+# 1370. 冒
 [冒](https://jisho.org/search/冒%23kanjii) [冒](https://jisho.org/search/*冒*)
-#1371. 脇
+# 1371. 脇
 [脇](https://jisho.org/search/脇%23kanjii) [脇](https://jisho.org/search/*脇*)
-#1372. 緩
+# 1372. 緩
 [緩](https://jisho.org/search/緩%23kanjii) [緩](https://jisho.org/search/*緩*)
-#1373. 忍
+# 1373. 忍
 [忍](https://jisho.org/search/忍%23kanjii) [忍](https://jisho.org/search/*忍*)
-#1374. 軒
+# 1374. 軒
 [軒](https://jisho.org/search/軒%23kanjii) [軒](https://jisho.org/search/*軒*)
-#1375. 泳
+# 1375. 泳
 [泳](https://jisho.org/search/泳%23kanjii) [泳](https://jisho.org/search/*泳*)
-#1376. 喫
+# 1376. 喫
 [喫](https://jisho.org/search/喫%23kanjii) [喫](https://jisho.org/search/*喫*)
-#1377. 汗
+# 1377. 汗
 [汗](https://jisho.org/search/汗%23kanjii) [汗](https://jisho.org/search/*汗*)
-#1378. 賢
+# 1378. 賢
 [賢](https://jisho.org/search/賢%23kanjii) [賢](https://jisho.org/search/*賢*)
-#1379. 遂
+# 1379. 遂
 [遂](https://jisho.org/search/遂%23kanjii) [遂](https://jisho.org/search/*遂*)
-#1380. 恥
+# 1380. 恥
 [恥](https://jisho.org/search/恥%23kanjii) [恥](https://jisho.org/search/*恥*)
-#1381. 縦
+# 1381. 縦
 [縦](https://jisho.org/search/縦%23kanjii) [縦](https://jisho.org/search/*縦*)
-#1382. 遇
+# 1382. 遇
 [遇](https://jisho.org/search/遇%23kanjii) [遇](https://jisho.org/search/*遇*)
-#1383. 尻
+# 1383. 尻
 [尻](https://jisho.org/search/尻%23kanjii) [尻](https://jisho.org/search/*尻*)
-#1384. 俗
+# 1384. 俗
 [俗](https://jisho.org/search/俗%23kanjii) [俗](https://jisho.org/search/*俗*)
-#1385. 肝
+# 1385. 肝
 [肝](https://jisho.org/search/肝%23kanjii) [肝](https://jisho.org/search/*肝*)
-#1386. 騎
+# 1386. 騎
 [騎](https://jisho.org/search/騎%23kanjii) [騎](https://jisho.org/search/*騎*)
-#1387. 弁
+# 1387. 弁
 [弁](https://jisho.org/search/弁%23kanjii) [弁](https://jisho.org/search/*弁*)
-#1388. 菓
+# 1388. 菓
 [菓](https://jisho.org/search/菓%23kanjii) [菓](https://jisho.org/search/*菓*)
-#1389. 臭
+# 1389. 臭
 [臭](https://jisho.org/search/臭%23kanjii) [臭](https://jisho.org/search/*臭*)
-#1390. 幻
+# 1390. 幻
 [幻](https://jisho.org/search/幻%23kanjii) [幻](https://jisho.org/search/*幻*)
-#1391. 堅
+# 1391. 堅
 [堅](https://jisho.org/search/堅%23kanjii) [堅](https://jisho.org/search/*堅*)
-#1392. 紛
+# 1392. 紛
 [紛](https://jisho.org/search/紛%23kanjii) [紛](https://jisho.org/search/*紛*)
-#1393. 麦
+# 1393. 麦
 [麦](https://jisho.org/search/麦%23kanjii) [麦](https://jisho.org/search/*麦*)
-#1394. 誉
+# 1394. 誉
 [誉](https://jisho.org/search/誉%23kanjii) [誉](https://jisho.org/search/*誉*)
-#1395. 暇
+# 1395. 暇
 [暇](https://jisho.org/search/暇%23kanjii) [暇](https://jisho.org/search/*暇*)
-#1396. 亭
+# 1396. 亭
 [亭](https://jisho.org/search/亭%23kanjii) [亭](https://jisho.org/search/*亭*)
-#1397. 祈
+# 1397. 祈
 [祈](https://jisho.org/search/祈%23kanjii) [祈](https://jisho.org/search/*祈*)
-#1398. 魂
+# 1398. 魂
 [魂](https://jisho.org/search/魂%23kanjii) [魂](https://jisho.org/search/*魂*)
-#1399. 暑
+# 1399. 暑
 [暑](https://jisho.org/search/暑%23kanjii) [暑](https://jisho.org/search/*暑*)
-#1400. 奉
+# 1400. 奉
 [奉](https://jisho.org/search/奉%23kanjii) [奉](https://jisho.org/search/*奉*)
-#1401. 吾
+# 1401. 吾
 [吾](https://jisho.org/search/吾%23kanjii) [吾](https://jisho.org/search/*吾*)
-#1402. 吐
+# 1402. 吐
 [吐](https://jisho.org/search/吐%23kanjii) [吐](https://jisho.org/search/*吐*)
-#1403. 脈
+# 1403. 脈
 [脈](https://jisho.org/search/脈%23kanjii) [脈](https://jisho.org/search/*脈*)
-#1404. 邸
+# 1404. 邸
 [邸](https://jisho.org/search/邸%23kanjii) [邸](https://jisho.org/search/*邸*)
-#1405. 貢
+# 1405. 貢
 [貢](https://jisho.org/search/貢%23kanjii) [貢](https://jisho.org/search/*貢*)
-#1406. 肥
+# 1406. 肥
 [肥](https://jisho.org/search/肥%23kanjii) [肥](https://jisho.org/search/*肥*)
-#1407. 沙
+# 1407. 沙
 [沙](https://jisho.org/search/沙%23kanjii) [沙](https://jisho.org/search/*沙*)
-#1408. 陥
+# 1408. 陥
 [陥](https://jisho.org/search/陥%23kanjii) [陥](https://jisho.org/search/*陥*)
-#1409. 岳
+# 1409. 岳
 [岳](https://jisho.org/search/岳%23kanjii) [岳](https://jisho.org/search/*岳*)
-#1410. 虚
+# 1410. 虚
 [虚](https://jisho.org/search/虚%23kanjii) [虚](https://jisho.org/search/*虚*)
-#1411. 雷
+# 1411. 雷
 [雷](https://jisho.org/search/雷%23kanjii) [雷](https://jisho.org/search/*雷*)
-#1412. 糖
+# 1412. 糖
 [糖](https://jisho.org/search/糖%23kanjii) [糖](https://jisho.org/search/*糖*)
-#1413. 銘
+# 1413. 銘
 [銘](https://jisho.org/search/銘%23kanjii) [銘](https://jisho.org/search/*銘*)
-#1414. 斉
+# 1414. 斉
 [斉](https://jisho.org/search/斉%23kanjii) [斉](https://jisho.org/search/*斉*)
-#1415. 鎖
+# 1415. 鎖
 [鎖](https://jisho.org/search/鎖%23kanjii) [鎖](https://jisho.org/search/*鎖*)
-#1416. 藩
+# 1416. 藩
 [藩](https://jisho.org/search/藩%23kanjii) [藩](https://jisho.org/search/*藩*)
-#1417. 烈
+# 1417. 烈
 [烈](https://jisho.org/search/烈%23kanjii) [烈](https://jisho.org/search/*烈*)
-#1418. 悔
+# 1418. 悔
 [悔](https://jisho.org/search/悔%23kanjii) [悔](https://jisho.org/search/*悔*)
-#1419. 嫁
+# 1419. 嫁
 [嫁](https://jisho.org/search/嫁%23kanjii) [嫁](https://jisho.org/search/*嫁*)
-#1420. 淡
+# 1420. 淡
 [淡](https://jisho.org/search/淡%23kanjii) [淡](https://jisho.org/search/*淡*)
-#1421. 梨
+# 1421. 梨
 [梨](https://jisho.org/search/梨%23kanjii) [梨](https://jisho.org/search/*梨*)
-#1422. 穂
+# 1422. 穂
 [穂](https://jisho.org/search/穂%23kanjii) [穂](https://jisho.org/search/*穂*)
-#1423. 罰
+# 1423. 罰
 [罰](https://jisho.org/search/罰%23kanjii) [罰](https://jisho.org/search/*罰*)
-#1424. 需
+# 1424. 需
 [需](https://jisho.org/search/需%23kanjii) [需](https://jisho.org/search/*需*)
-#1425. 荘
+# 1425. 荘
 [荘](https://jisho.org/search/荘%23kanjii) [荘](https://jisho.org/search/*荘*)
-#1426. 偶
+# 1426. 偶
 [偶](https://jisho.org/search/偶%23kanjii) [偶](https://jisho.org/search/*偶*)
-#1427. 奮
+# 1427. 奮
 [奮](https://jisho.org/search/奮%23kanjii) [奮](https://jisho.org/search/*奮*)
-#1428. 塁
+# 1428. 塁
 [塁](https://jisho.org/search/塁%23kanjii) [塁](https://jisho.org/search/*塁*)
-#1429. 謀
+# 1429. 謀
 [謀](https://jisho.org/search/謀%23kanjii) [謀](https://jisho.org/search/*謀*)
-#1430. 逮
+# 1430. 逮
 [逮](https://jisho.org/search/逮%23kanjii) [逮](https://jisho.org/search/*逮*)
-#1431. 匹
+# 1431. 匹
 [匹](https://jisho.org/search/匹%23kanjii) [匹](https://jisho.org/search/*匹*)
-#1432. 覆
+# 1432. 覆
 [覆](https://jisho.org/search/覆%23kanjii) [覆](https://jisho.org/search/*覆*)
-#1433. 寛
+# 1433. 寛
 [寛](https://jisho.org/search/寛%23kanjii) [寛](https://jisho.org/search/*寛*)
-#1434. 凍
+# 1434. 凍
 [凍](https://jisho.org/search/凍%23kanjii) [凍](https://jisho.org/search/*凍*)
-#1435. 溶
+# 1435. 溶
 [溶](https://jisho.org/search/溶%23kanjii) [溶](https://jisho.org/search/*溶*)
-#1436. 浄
+# 1436. 浄
 [浄](https://jisho.org/search/浄%23kanjii) [浄](https://jisho.org/search/*浄*)
-#1437. 虎
+# 1437. 虎
 [虎](https://jisho.org/search/虎%23kanjii) [虎](https://jisho.org/search/*虎*)
-#1438. 撲
+# 1438. 撲
 [撲](https://jisho.org/search/撲%23kanjii) [撲](https://jisho.org/search/*撲*)
-#1439. 脂
+# 1439. 脂
 [脂](https://jisho.org/search/脂%23kanjii) [脂](https://jisho.org/search/*脂*)
-#1440. 措
+# 1440. 措
 [措](https://jisho.org/search/措%23kanjii) [措](https://jisho.org/search/*措*)
-#1441. 靴
+# 1441. 靴
 [靴](https://jisho.org/search/靴%23kanjii) [靴](https://jisho.org/search/*靴*)
-#1442. 塾
+# 1442. 塾
 [塾](https://jisho.org/search/塾%23kanjii) [塾](https://jisho.org/search/*塾*)
-#1443. 朗
+# 1443. 朗
 [朗](https://jisho.org/search/朗%23kanjii) [朗](https://jisho.org/search/*朗*)
-#1444. 忙
+# 1444. 忙
 [忙](https://jisho.org/search/忙%23kanjii) [忙](https://jisho.org/search/*忙*)
-#1445. 獄
+# 1445. 獄
 [獄](https://jisho.org/search/獄%23kanjii) [獄](https://jisho.org/search/*獄*)
-#1446. 伯
+# 1446. 伯
 [伯](https://jisho.org/search/伯%23kanjii) [伯](https://jisho.org/search/*伯*)
-#1447. 漏
+# 1447. 漏
 [漏](https://jisho.org/search/漏%23kanjii) [漏](https://jisho.org/search/*漏*)
-#1448. 菌
+# 1448. 菌
 [菌](https://jisho.org/search/菌%23kanjii) [菌](https://jisho.org/search/*菌*)
-#1449. 猛
+# 1449. 猛
 [猛](https://jisho.org/search/猛%23kanjii) [猛](https://jisho.org/search/*猛*)
-#1450. 眺
+# 1450. 眺
 [眺](https://jisho.org/search/眺%23kanjii) [眺](https://jisho.org/search/*眺*)
-#1451. 幌
+# 1451. 幌
 [幌](https://jisho.org/search/幌%23kanjii) [幌](https://jisho.org/search/*幌*)
-#1452. 雰
+# 1452. 雰
 [雰](https://jisho.org/search/雰%23kanjii) [雰](https://jisho.org/search/*雰*)
-#1453. 駒
+# 1453. 駒
 [駒](https://jisho.org/search/駒%23kanjii) [駒](https://jisho.org/search/*駒*)
-#1454. 撤
+# 1454. 撤
 [撤](https://jisho.org/search/撤%23kanjii) [撤](https://jisho.org/search/*撤*)
-#1455. 寧
+# 1455. 寧
 [寧](https://jisho.org/search/寧%23kanjii) [寧](https://jisho.org/search/*寧*)
-#1456. 棚
+# 1456. 棚
 [棚](https://jisho.org/search/棚%23kanjii) [棚](https://jisho.org/search/*棚*)
-#1457. 垂
+# 1457. 垂
 [垂](https://jisho.org/search/垂%23kanjii) [垂](https://jisho.org/search/*垂*)
-#1458. 兆
+# 1458. 兆
 [兆](https://jisho.org/search/兆%23kanjii) [兆](https://jisho.org/search/*兆*)
-#1459. 恩
+# 1459. 恩
 [恩](https://jisho.org/search/恩%23kanjii) [恩](https://jisho.org/search/*恩*)
-#1460. 蒸
+# 1460. 蒸
 [蒸](https://jisho.org/search/蒸%23kanjii) [蒸](https://jisho.org/search/*蒸*)
-#1461. 塔
+# 1461. 塔
 [塔](https://jisho.org/search/塔%23kanjii) [塔](https://jisho.org/search/*塔*)
-#1462. 涼
+# 1462. 涼
 [涼](https://jisho.org/search/涼%23kanjii) [涼](https://jisho.org/search/*涼*)
-#1463. 稚
+# 1463. 稚
 [稚](https://jisho.org/search/稚%23kanjii) [稚](https://jisho.org/search/*稚*)
-#1464. 隔
+# 1464. 隔
 [隔](https://jisho.org/search/隔%23kanjii) [隔](https://jisho.org/search/*隔*)
-#1465. 滝
+# 1465. 滝
 [滝](https://jisho.org/search/滝%23kanjii) [滝](https://jisho.org/search/*滝*)
-#1466. 斜
+# 1466. 斜
 [斜](https://jisho.org/search/斜%23kanjii) [斜](https://jisho.org/search/*斜*)
-#1467. 獣
+# 1467. 獣
 [獣](https://jisho.org/search/獣%23kanjii) [獣](https://jisho.org/search/*獣*)
-#1468. 征
+# 1468. 征
 [征](https://jisho.org/search/征%23kanjii) [征](https://jisho.org/search/*征*)
-#1469. 孤
+# 1469. 孤
 [孤](https://jisho.org/search/孤%23kanjii) [孤](https://jisho.org/search/*孤*)
-#1470. 励
+# 1470. 励
 [励](https://jisho.org/search/励%23kanjii) [励](https://jisho.org/search/*励*)
-#1471. 煮
+# 1471. 煮
 [煮](https://jisho.org/search/煮%23kanjii) [煮](https://jisho.org/search/*煮*)
-#1472. 逸
+# 1472. 逸
 [逸](https://jisho.org/search/逸%23kanjii) [逸](https://jisho.org/search/*逸*)
-#1473. 祉
+# 1473. 祉
 [祉](https://jisho.org/search/祉%23kanjii) [祉](https://jisho.org/search/*祉*)
-#1474. 宜
+# 1474. 宜
 [宜](https://jisho.org/search/宜%23kanjii) [宜](https://jisho.org/search/*宜*)
-#1475. 桃
+# 1475. 桃
 [桃](https://jisho.org/search/桃%23kanjii) [桃](https://jisho.org/search/*桃*)
-#1476. 脅
+# 1476. 脅
 [脅](https://jisho.org/search/脅%23kanjii) [脅](https://jisho.org/search/*脅*)
-#1477. 翻
+# 1477. 翻
 [翻](https://jisho.org/search/翻%23kanjii) [翻](https://jisho.org/search/*翻*)
-#1478. 旦
+# 1478. 旦
 [旦](https://jisho.org/search/旦%23kanjii) [旦](https://jisho.org/search/*旦*)
-#1479. 覇
+# 1479. 覇
 [覇](https://jisho.org/search/覇%23kanjii) [覇](https://jisho.org/search/*覇*)
-#1480. 匠
+# 1480. 匠
 [匠](https://jisho.org/search/匠%23kanjii) [匠](https://jisho.org/search/*匠*)
-#1481. 僧
+# 1481. 僧
 [僧](https://jisho.org/search/僧%23kanjii) [僧](https://jisho.org/search/*僧*)
-#1482. 埼
+# 1482. 埼
 [埼](https://jisho.org/search/埼%23kanjii) [埼](https://jisho.org/search/*埼*)
-#1483. 晶
+# 1483. 晶
 [晶](https://jisho.org/search/晶%23kanjii) [晶](https://jisho.org/search/*晶*)
-#1484. 峰
+# 1484. 峰
 [峰](https://jisho.org/search/峰%23kanjii) [峰](https://jisho.org/search/*峰*)
-#1485. 幾
+# 1485. 幾
 [幾](https://jisho.org/search/幾%23kanjii) [幾](https://jisho.org/search/*幾*)
-#1486. 貿
+# 1486. 貿
 [貿](https://jisho.org/search/貿%23kanjii) [貿](https://jisho.org/search/*貿*)
-#1487. 倫
+# 1487. 倫
 [倫](https://jisho.org/search/倫%23kanjii) [倫](https://jisho.org/search/*倫*)
-#1488. 該
+# 1488. 該
 [該](https://jisho.org/search/該%23kanjii) [該](https://jisho.org/search/*該*)
-#1489. 酷
+# 1489. 酷
 [酷](https://jisho.org/search/酷%23kanjii) [酷](https://jisho.org/search/*酷*)
-#1490. 笠
+# 1490. 笠
 [笠](https://jisho.org/search/笠%23kanjii) [笠](https://jisho.org/search/*笠*)
-#1491. 噴
+# 1491. 噴
 [噴](https://jisho.org/search/噴%23kanjii) [噴](https://jisho.org/search/*噴*)
-#1492. 欄
+# 1492. 欄
 [欄](https://jisho.org/search/欄%23kanjii) [欄](https://jisho.org/search/*欄*)
-#1493. 軸
+# 1493. 軸
 [軸](https://jisho.org/search/軸%23kanjii) [軸](https://jisho.org/search/*軸*)
-#1494. 剛
+# 1494. 剛
 [剛](https://jisho.org/search/剛%23kanjii) [剛](https://jisho.org/search/*剛*)
-#1495. 粧
+# 1495. 粧
 [粧](https://jisho.org/search/粧%23kanjii) [粧](https://jisho.org/search/*粧*)
-#1496. 湿
+# 1496. 湿
 [湿](https://jisho.org/search/湿%23kanjii) [湿](https://jisho.org/search/*湿*)
-#1497. 抽
+# 1497. 抽
 [抽](https://jisho.org/search/抽%23kanjii) [抽](https://jisho.org/search/*抽*)
-#1498. 架
+# 1498. 架
 [架](https://jisho.org/search/架%23kanjii) [架](https://jisho.org/search/*架*)
-#1499. 鎌
+# 1499. 鎌
 [鎌](https://jisho.org/search/鎌%23kanjii) [鎌](https://jisho.org/search/*鎌*)
-#1500. 巣
+# 1500. 巣
 [巣](https://jisho.org/search/巣%23kanjii) [巣](https://jisho.org/search/*巣*)
-#1501. 拍
+# 1501. 拍
 [拍](https://jisho.org/search/拍%23kanjii) [拍](https://jisho.org/search/*拍*)
-#1502. 拾
+# 1502. 拾
 [拾](https://jisho.org/search/拾%23kanjii) [拾](https://jisho.org/search/*拾*)
-#1503. 寂
+# 1503. 寂
 [寂](https://jisho.org/search/寂%23kanjii) [寂](https://jisho.org/search/*寂*)
-#1504. 筒
+# 1504. 筒
 [筒](https://jisho.org/search/筒%23kanjii) [筒](https://jisho.org/search/*筒*)
-#1505. 鍋
+# 1505. 鍋
 [鍋](https://jisho.org/search/鍋%23kanjii) [鍋](https://jisho.org/search/*鍋*)
-#1506. 冠
+# 1506. 冠
 [冠](https://jisho.org/search/冠%23kanjii) [冠](https://jisho.org/search/*冠*)
-#1507. 栗
+# 1507. 栗
 [栗](https://jisho.org/search/栗%23kanjii) [栗](https://jisho.org/search/*栗*)
-#1508. 偏
+# 1508. 偏
 [偏](https://jisho.org/search/偏%23kanjii) [偏](https://jisho.org/search/*偏*)
-#1509. 紋
+# 1509. 紋
 [紋](https://jisho.org/search/紋%23kanjii) [紋](https://jisho.org/search/*紋*)
-#1510. 浸
+# 1510. 浸
 [浸](https://jisho.org/search/浸%23kanjii) [浸](https://jisho.org/search/*浸*)
-#1511. 鋭
+# 1511. 鋭
 [鋭](https://jisho.org/search/鋭%23kanjii) [鋭](https://jisho.org/search/*鋭*)
-#1512. 舌
+# 1512. 舌
 [舌](https://jisho.org/search/舌%23kanjii) [舌](https://jisho.org/search/*舌*)
-#1513. 克
+# 1513. 克
 [克](https://jisho.org/search/克%23kanjii) [克](https://jisho.org/search/*克*)
-#1514. 芳
+# 1514. 芳
 [芳](https://jisho.org/search/芳%23kanjii) [芳](https://jisho.org/search/*芳*)
-#1515. 隅
+# 1515. 隅
 [隅](https://jisho.org/search/隅%23kanjii) [隅](https://jisho.org/search/*隅*)
-#1516. 乃
+# 1516. 乃
 [乃](https://jisho.org/search/乃%23kanjii) [乃](https://jisho.org/search/*乃*)
-#1517. 殖
+# 1517. 殖
 [殖](https://jisho.org/search/殖%23kanjii) [殖](https://jisho.org/search/*殖*)
-#1518. 嬉
+# 1518. 嬉
 [嬉](https://jisho.org/search/嬉%23kanjii) [嬉](https://jisho.org/search/*嬉*)
-#1519. 啓
+# 1519. 啓
 [啓](https://jisho.org/search/啓%23kanjii) [啓](https://jisho.org/search/*啓*)
-#1520. 哀
+# 1520. 哀
 [哀](https://jisho.org/search/哀%23kanjii) [哀](https://jisho.org/search/*哀*)
-#1521. 姓
+# 1521. 姓
 [姓](https://jisho.org/search/姓%23kanjii) [姓](https://jisho.org/search/*姓*)
-#1522. 偉
+# 1522. 偉
 [偉](https://jisho.org/search/偉%23kanjii) [偉](https://jisho.org/search/*偉*)
-#1523. 浩
+# 1523. 浩
 [浩](https://jisho.org/search/浩%23kanjii) [浩](https://jisho.org/search/*浩*)
-#1524. 泥
+# 1524. 泥
 [泥](https://jisho.org/search/泥%23kanjii) [泥](https://jisho.org/search/*泥*)
-#1525. 虐
+# 1525. 虐
 [虐](https://jisho.org/search/虐%23kanjii) [虐](https://jisho.org/search/*虐*)
-#1526. 拓
+# 1526. 拓
 [拓](https://jisho.org/search/拓%23kanjii) [拓](https://jisho.org/search/*拓*)
-#1527. 泰
+# 1527. 泰
 [泰](https://jisho.org/search/泰%23kanjii) [泰](https://jisho.org/search/*泰*)
-#1528. 寸
+# 1528. 寸
 [寸](https://jisho.org/search/寸%23kanjii) [寸](https://jisho.org/search/*寸*)
-#1529. 愚
+# 1529. 愚
 [愚](https://jisho.org/search/愚%23kanjii) [愚](https://jisho.org/search/*愚*)
-#1530. 傍
+# 1530. 傍
 [傍](https://jisho.org/search/傍%23kanjii) [傍](https://jisho.org/search/*傍*)
-#1531. 涯
+# 1531. 涯
 [涯](https://jisho.org/search/涯%23kanjii) [涯](https://jisho.org/search/*涯*)
-#1532. 狩
+# 1532. 狩
 [狩](https://jisho.org/search/狩%23kanjii) [狩](https://jisho.org/search/*狩*)
-#1533. 膨
+# 1533. 膨
 [膨](https://jisho.org/search/膨%23kanjii) [膨](https://jisho.org/search/*膨*)
-#1534. 霧
+# 1534. 霧
 [霧](https://jisho.org/search/霧%23kanjii) [霧](https://jisho.org/search/*霧*)
-#1535. 慰
+# 1535. 慰
 [慰](https://jisho.org/search/慰%23kanjii) [慰](https://jisho.org/search/*慰*)
-#1536. 召
+# 1536. 召
 [召](https://jisho.org/search/召%23kanjii) [召](https://jisho.org/search/*召*)
-#1537. 貼
+# 1537. 貼
 [貼](https://jisho.org/search/貼%23kanjii) [貼](https://jisho.org/search/*貼*)
-#1538. 棟
+# 1538. 棟
 [棟](https://jisho.org/search/棟%23kanjii) [棟](https://jisho.org/search/*棟*)
-#1539. 貞
+# 1539. 貞
 [貞](https://jisho.org/search/貞%23kanjii) [貞](https://jisho.org/search/*貞*)
-#1540. 鍵
+# 1540. 鍵
 [鍵](https://jisho.org/search/鍵%23kanjii) [鍵](https://jisho.org/search/*鍵*)
-#1541. 佳
+# 1541. 佳
 [佳](https://jisho.org/search/佳%23kanjii) [佳](https://jisho.org/search/*佳*)
-#1542. 粒
+# 1542. 粒
 [粒](https://jisho.org/search/粒%23kanjii) [粒](https://jisho.org/search/*粒*)
-#1543. 癒
+# 1543. 癒
 [癒](https://jisho.org/search/癒%23kanjii) [癒](https://jisho.org/search/*癒*)
-#1544. 澤
+# 1544. 澤
 [澤](https://jisho.org/search/澤%23kanjii) [澤](https://jisho.org/search/*澤*)
-#1545. 祥
+# 1545. 祥
 [祥](https://jisho.org/search/祥%23kanjii) [祥](https://jisho.org/search/*祥*)
-#1546. 昌
+# 1546. 昌
 [昌](https://jisho.org/search/昌%23kanjii) [昌](https://jisho.org/search/*昌*)
-#1547. 傘
+# 1547. 傘
 [傘](https://jisho.org/search/傘%23kanjii) [傘](https://jisho.org/search/*傘*)
-#1548. 妊
+# 1548. 妊
 [妊](https://jisho.org/search/妊%23kanjii) [妊](https://jisho.org/search/*妊*)
-#1549. 謎
+# 1549. 謎
 [謎](https://jisho.org/search/謎%23kanjii) [謎](https://jisho.org/search/*謎*)
-#1550. 薦
+# 1550. 薦
 [薦](https://jisho.org/search/薦%23kanjii) [薦](https://jisho.org/search/*薦*)
-#1551. 汁
+# 1551. 汁
 [汁](https://jisho.org/search/汁%23kanjii) [汁](https://jisho.org/search/*汁*)
-#1552. 綿
+# 1552. 綿
 [綿](https://jisho.org/search/綿%23kanjii) [綿](https://jisho.org/search/*綿*)
-#1553. 劣
+# 1553. 劣
 [劣](https://jisho.org/search/劣%23kanjii) [劣](https://jisho.org/search/*劣*)
-#1554. 舟
+# 1554. 舟
 [舟](https://jisho.org/search/舟%23kanjii) [舟](https://jisho.org/search/*舟*)
-#1555. 緯
+# 1555. 緯
 [緯](https://jisho.org/search/緯%23kanjii) [緯](https://jisho.org/search/*緯*)
-#1556. 彫
+# 1556. 彫
 [彫](https://jisho.org/search/彫%23kanjii) [彫](https://jisho.org/search/*彫*)
-#1557. 顕
+# 1557. 顕
 [顕](https://jisho.org/search/顕%23kanjii) [顕](https://jisho.org/search/*顕*)
-#1558. 偵
+# 1558. 偵
 [偵](https://jisho.org/search/偵%23kanjii) [偵](https://jisho.org/search/*偵*)
-#1559. 洞
+# 1559. 洞
 [洞](https://jisho.org/search/洞%23kanjii) [洞](https://jisho.org/search/*洞*)
-#1560. 畳
+# 1560. 畳
 [畳](https://jisho.org/search/畳%23kanjii) [畳](https://jisho.org/search/*畳*)
-#1561. 遭
+# 1561. 遭
 [遭](https://jisho.org/search/遭%23kanjii) [遭](https://jisho.org/search/*遭*)
-#1562. 棋
+# 1562. 棋
 [棋](https://jisho.org/search/棋%23kanjii) [棋](https://jisho.org/search/*棋*)
-#1563. 疾
+# 1563. 疾
 [疾](https://jisho.org/search/疾%23kanjii) [疾](https://jisho.org/search/*疾*)
-#1564. 犠
+# 1564. 犠
 [犠](https://jisho.org/search/犠%23kanjii) [犠](https://jisho.org/search/*犠*)
-#1565. 葛
+# 1565. 葛
 [葛](https://jisho.org/search/葛%23kanjii) [葛](https://jisho.org/search/*葛*)
-#1566. 摂
+# 1566. 摂
 [摂](https://jisho.org/search/摂%23kanjii) [摂](https://jisho.org/search/*摂*)
-#1567. 恒
+# 1567. 恒
 [恒](https://jisho.org/search/恒%23kanjii) [恒](https://jisho.org/search/*恒*)
-#1568. 云
+# 1568. 云
 [云](https://jisho.org/search/云%23kanjii) [云](https://jisho.org/search/*云*)
-#1569. 蓄
+# 1569. 蓄
 [蓄](https://jisho.org/search/蓄%23kanjii) [蓄](https://jisho.org/search/*蓄*)
-#1570. 陳
+# 1570. 陳
 [陳](https://jisho.org/search/陳%23kanjii) [陳](https://jisho.org/search/*陳*)
-#1571. 訂
+# 1571. 訂
 [訂](https://jisho.org/search/訂%23kanjii) [訂](https://jisho.org/search/*訂*)
-#1572. 径
+# 1572. 径
 [径](https://jisho.org/search/径%23kanjii) [径](https://jisho.org/search/*径*)
-#1573. 斬
+# 1573. 斬
 [斬](https://jisho.org/search/斬%23kanjii) [斬](https://jisho.org/search/*斬*)
-#1574. 壇
+# 1574. 壇
 [壇](https://jisho.org/search/壇%23kanjii) [壇](https://jisho.org/search/*壇*)
-#1575. 簿
+# 1575. 簿
 [簿](https://jisho.org/search/簿%23kanjii) [簿](https://jisho.org/search/*簿*)
-#1576. 銅
+# 1576. 銅
 [銅](https://jisho.org/search/銅%23kanjii) [銅](https://jisho.org/search/*銅*)
-#1577. 柴
+# 1577. 柴
 [柴](https://jisho.org/search/柴%23kanjii) [柴](https://jisho.org/search/*柴*)
-#1578. 奨
+# 1578. 奨
 [奨](https://jisho.org/search/奨%23kanjii) [奨](https://jisho.org/search/*奨*)
-#1579. 帽
+# 1579. 帽
 [帽](https://jisho.org/search/帽%23kanjii) [帽](https://jisho.org/search/*帽*)
-#1580. 裸
+# 1580. 裸
 [裸](https://jisho.org/search/裸%23kanjii) [裸](https://jisho.org/search/*裸*)
-#1581. 潤
+# 1581. 潤
 [潤](https://jisho.org/search/潤%23kanjii) [潤](https://jisho.org/search/*潤*)
-#1582. 鎮
+# 1582. 鎮
 [鎮](https://jisho.org/search/鎮%23kanjii) [鎮](https://jisho.org/search/*鎮*)
-#1583. 廊
+# 1583. 廊
 [廊](https://jisho.org/search/廊%23kanjii) [廊](https://jisho.org/search/*廊*)
-#1584. 拘
+# 1584. 拘
 [拘](https://jisho.org/search/拘%23kanjii) [拘](https://jisho.org/search/*拘*)
-#1585. 灰
+# 1585. 灰
 [灰](https://jisho.org/search/灰%23kanjii) [灰](https://jisho.org/search/*灰*)
-#1586. 乏
+# 1586. 乏
 [乏](https://jisho.org/search/乏%23kanjii) [乏](https://jisho.org/search/*乏*)
-#1587. 澄
+# 1587. 澄
 [澄](https://jisho.org/search/澄%23kanjii) [澄](https://jisho.org/search/*澄*)
-#1588. 扉
+# 1588. 扉
 [扉](https://jisho.org/search/扉%23kanjii) [扉](https://jisho.org/search/*扉*)
-#1589. 披
+# 1589. 披
 [披](https://jisho.org/search/披%23kanjii) [披](https://jisho.org/search/*披*)
-#1590. 把
+# 1590. 把
 [把](https://jisho.org/search/把%23kanjii) [把](https://jisho.org/search/*把*)
-#1591. 庄
+# 1591. 庄
 [庄](https://jisho.org/search/庄%23kanjii) [庄](https://jisho.org/search/*庄*)
-#1592. 宴
+# 1592. 宴
 [宴](https://jisho.org/search/宴%23kanjii) [宴](https://jisho.org/search/*宴*)
-#1593. 惨
+# 1593. 惨
 [惨](https://jisho.org/search/惨%23kanjii) [惨](https://jisho.org/search/*惨*)
-#1594. 軟
+# 1594. 軟
 [軟](https://jisho.org/search/軟%23kanjii) [軟](https://jisho.org/search/*軟*)
-#1595. 廷
+# 1595. 廷
 [廷](https://jisho.org/search/廷%23kanjii) [廷](https://jisho.org/search/*廷*)
-#1596. 磁
+# 1596. 磁
 [磁](https://jisho.org/search/磁%23kanjii) [磁](https://jisho.org/search/*磁*)
-#1597. 鉱
+# 1597. 鉱
 [鉱](https://jisho.org/search/鉱%23kanjii) [鉱](https://jisho.org/search/*鉱*)
-#1598. 琴
+# 1598. 琴
 [琴](https://jisho.org/search/琴%23kanjii) [琴](https://jisho.org/search/*琴*)
-#1599. 頻
+# 1599. 頻
 [頻](https://jisho.org/search/頻%23kanjii) [頻](https://jisho.org/search/*頻*)
-#1600. 鶏
+# 1600. 鶏
 [鶏](https://jisho.org/search/鶏%23kanjii) [鶏](https://jisho.org/search/*鶏*)
-#1601. 嵐
+# 1601. 嵐
 [嵐](https://jisho.org/search/嵐%23kanjii) [嵐](https://jisho.org/search/*嵐*)
-#1602. 李
+# 1602. 李
 [李](https://jisho.org/search/李%23kanjii) [李](https://jisho.org/search/*李*)
-#1603. 皿
+# 1603. 皿
 [皿](https://jisho.org/search/皿%23kanjii) [皿](https://jisho.org/search/*皿*)
-#1604. 暦
+# 1604. 暦
 [暦](https://jisho.org/search/暦%23kanjii) [暦](https://jisho.org/search/*暦*)
-#1605. 盾
+# 1605. 盾
 [盾](https://jisho.org/search/盾%23kanjii) [盾](https://jisho.org/search/*盾*)
-#1606. 椅
+# 1606. 椅
 [椅](https://jisho.org/search/椅%23kanjii) [椅](https://jisho.org/search/*椅*)
-#1607. 叩
+# 1607. 叩
 [叩](https://jisho.org/search/叩%23kanjii) [叩](https://jisho.org/search/*叩*)
-#1608. 徐
+# 1608. 徐
 [徐](https://jisho.org/search/徐%23kanjii) [徐](https://jisho.org/search/*徐*)
-#1609. 粋
+# 1609. 粋
 [粋](https://jisho.org/search/粋%23kanjii) [粋](https://jisho.org/search/*粋*)
-#1610. 錦
+# 1610. 錦
 [錦](https://jisho.org/search/錦%23kanjii) [錦](https://jisho.org/search/*錦*)
-#1611. 培
+# 1611. 培
 [培](https://jisho.org/search/培%23kanjii) [培](https://jisho.org/search/*培*)
-#1612. 炉
+# 1612. 炉
 [炉](https://jisho.org/search/炉%23kanjii) [炉](https://jisho.org/search/*炉*)
-#1613. 嘉
+# 1613. 嘉
 [嘉](https://jisho.org/search/嘉%23kanjii) [嘉](https://jisho.org/search/*嘉*)
-#1614. 郊
+# 1614. 郊
 [郊](https://jisho.org/search/郊%23kanjii) [郊](https://jisho.org/search/*郊*)
-#1615. 珠
+# 1615. 珠
 [珠](https://jisho.org/search/珠%23kanjii) [珠](https://jisho.org/search/*珠*)
-#1616. 凄
+# 1616. 凄
 [凄](https://jisho.org/search/凄%23kanjii) [凄](https://jisho.org/search/*凄*)
-#1617. 豚
+# 1617. 豚
 [豚](https://jisho.org/search/豚%23kanjii) [豚](https://jisho.org/search/*豚*)
-#1618. 漂
+# 1618. 漂
 [漂](https://jisho.org/search/漂%23kanjii) [漂](https://jisho.org/search/*漂*)
-#1619. 牲
+# 1619. 牲
 [牲](https://jisho.org/search/牲%23kanjii) [牲](https://jisho.org/search/*牲*)
-#1620. 芽
+# 1620. 芽
 [芽](https://jisho.org/search/芽%23kanjii) [芽](https://jisho.org/search/*芽*)
-#1621. 壮
+# 1621. 壮
 [壮](https://jisho.org/search/壮%23kanjii) [壮](https://jisho.org/search/*壮*)
-#1622. 戯
+# 1622. 戯
 [戯](https://jisho.org/search/戯%23kanjii) [戯](https://jisho.org/search/*戯*)
-#1623. 揃
+# 1623. 揃
 [揃](https://jisho.org/search/揃%23kanjii) [揃](https://jisho.org/search/*揃*)
-#1624. 凡
+# 1624. 凡
 [凡](https://jisho.org/search/凡%23kanjii) [凡](https://jisho.org/search/*凡*)
-#1625. 訟
+# 1625. 訟
 [訟](https://jisho.org/search/訟%23kanjii) [訟](https://jisho.org/search/*訟*)
-#1626. 軌
+# 1626. 軌
 [軌](https://jisho.org/search/軌%23kanjii) [軌](https://jisho.org/search/*軌*)
-#1627. 粘
+# 1627. 粘
 [粘](https://jisho.org/search/粘%23kanjii) [粘](https://jisho.org/search/*粘*)
-#1628. 呉
+# 1628. 呉
 [呉](https://jisho.org/search/呉%23kanjii) [呉](https://jisho.org/search/*呉*)
-#1629. 陶
+# 1629. 陶
 [陶](https://jisho.org/search/陶%23kanjii) [陶](https://jisho.org/search/*陶*)
-#1630. 衰
+# 1630. 衰
 [衰](https://jisho.org/search/衰%23kanjii) [衰](https://jisho.org/search/*衰*)
-#1631. 乙
+# 1631. 乙
 [乙](https://jisho.org/search/乙%23kanjii) [乙](https://jisho.org/search/*乙*)
-#1632. 茨
+# 1632. 茨
 [茨](https://jisho.org/search/茨%23kanjii) [茨](https://jisho.org/search/*茨*)
-#1633. 拳
+# 1633. 拳
 [拳](https://jisho.org/search/拳%23kanjii) [拳](https://jisho.org/search/*拳*)
-#1634. 闇
+# 1634. 闇
 [闇](https://jisho.org/search/闇%23kanjii) [闇](https://jisho.org/search/*闇*)
-#1635. 曹
+# 1635. 曹
 [曹](https://jisho.org/search/曹%23kanjii) [曹](https://jisho.org/search/*曹*)
-#1636. 睡
+# 1636. 睡
 [睡](https://jisho.org/search/睡%23kanjii) [睡](https://jisho.org/search/*睡*)
-#1637. 瓶
+# 1637. 瓶
 [瓶](https://jisho.org/search/瓶%23kanjii) [瓶](https://jisho.org/search/*瓶*)
-#1638. 暫
+# 1638. 暫
 [暫](https://jisho.org/search/暫%23kanjii) [暫](https://jisho.org/search/*暫*)
-#1639. 穏
+# 1639. 穏
 [穏](https://jisho.org/search/穏%23kanjii) [穏](https://jisho.org/search/*穏*)
-#1640. 袖
+# 1640. 袖
 [袖](https://jisho.org/search/袖%23kanjii) [袖](https://jisho.org/search/*袖*)
-#1641. 秩
+# 1641. 秩
 [秩](https://jisho.org/search/秩%23kanjii) [秩](https://jisho.org/search/*秩*)
-#1642. 潔
+# 1642. 潔
 [潔](https://jisho.org/search/潔%23kanjii) [潔](https://jisho.org/search/*潔*)
-#1643. 腸
+# 1643. 腸
 [腸](https://jisho.org/search/腸%23kanjii) [腸](https://jisho.org/search/*腸*)
-#1644. 跳
+# 1644. 跳
 [跳](https://jisho.org/search/跳%23kanjii) [跳](https://jisho.org/search/*跳*)
-#1645. 搭
+# 1645. 搭
 [搭](https://jisho.org/search/搭%23kanjii) [搭](https://jisho.org/search/*搭*)
-#1646. 惜
+# 1646. 惜
 [惜](https://jisho.org/search/惜%23kanjii) [惜](https://jisho.org/search/*惜*)
-#1647. 憂
+# 1647. 憂
 [憂](https://jisho.org/search/憂%23kanjii) [憂](https://jisho.org/search/*憂*)
-#1648. 蘭
+# 1648. 蘭
 [蘭](https://jisho.org/search/蘭%23kanjii) [蘭](https://jisho.org/search/*蘭*)
-#1649. 耕
+# 1649. 耕
 [耕](https://jisho.org/search/耕%23kanjii) [耕](https://jisho.org/search/*耕*)
-#1650. 胆
+# 1650. 胆
 [胆](https://jisho.org/search/胆%23kanjii) [胆](https://jisho.org/search/*胆*)
-#1651. 幡
+# 1651. 幡
 [幡](https://jisho.org/search/幡%23kanjii) [幡](https://jisho.org/search/*幡*)
-#1652. 符
+# 1652. 符
 [符](https://jisho.org/search/符%23kanjii) [符](https://jisho.org/search/*符*)
-#1653. 鼓
+# 1653. 鼓
 [鼓](https://jisho.org/search/鼓%23kanjii) [鼓](https://jisho.org/search/*鼓*)
-#1654. 彰
+# 1654. 彰
 [彰](https://jisho.org/search/彰%23kanjii) [彰](https://jisho.org/search/*彰*)
-#1655. 譜
+# 1655. 譜
 [譜](https://jisho.org/search/譜%23kanjii) [譜](https://jisho.org/search/*譜*)
-#1656. 嶋
+# 1656. 嶋
 [嶋](https://jisho.org/search/嶋%23kanjii) [嶋](https://jisho.org/search/*嶋*)
-#1657. 胃
+# 1657. 胃
 [胃](https://jisho.org/search/胃%23kanjii) [胃](https://jisho.org/search/*胃*)
-#1658. 貝
+# 1658. 貝
 [貝](https://jisho.org/search/貝%23kanjii) [貝](https://jisho.org/search/*貝*)
-#1659. 悠
+# 1659. 悠
 [悠](https://jisho.org/search/悠%23kanjii) [悠](https://jisho.org/search/*悠*)
-#1660. 阜
+# 1660. 阜
 [阜](https://jisho.org/search/阜%23kanjii) [阜](https://jisho.org/search/*阜*)
-#1661. 猿
+# 1661. 猿
 [猿](https://jisho.org/search/猿%23kanjii) [猿](https://jisho.org/search/*猿*)
-#1662. 巧
+# 1662. 巧
 [巧](https://jisho.org/search/巧%23kanjii) [巧](https://jisho.org/search/*巧*)
-#1663. 閲
+# 1663. 閲
 [閲](https://jisho.org/search/閲%23kanjii) [閲](https://jisho.org/search/*閲*)
-#1664. 挨
+# 1664. 挨
 [挨](https://jisho.org/search/挨%23kanjii) [挨](https://jisho.org/search/*挨*)
-#1665. 弓
+# 1665. 弓
 [弓](https://jisho.org/search/弓%23kanjii) [弓](https://jisho.org/search/*弓*)
-#1666. 妖
+# 1666. 妖
 [妖](https://jisho.org/search/妖%23kanjii) [妖](https://jisho.org/search/*妖*)
-#1667. 尿
+# 1667. 尿
 [尿](https://jisho.org/search/尿%23kanjii) [尿](https://jisho.org/search/*尿*)
-#1668. 盆
+# 1668. 盆
 [盆](https://jisho.org/search/盆%23kanjii) [盆](https://jisho.org/search/*盆*)
-#1669. 刃
+# 1669. 刃
 [刃](https://jisho.org/search/刃%23kanjii) [刃](https://jisho.org/search/*刃*)
-#1670. 賊
+# 1670. 賊
 [賊](https://jisho.org/search/賊%23kanjii) [賊](https://jisho.org/search/*賊*)
-#1671. 膝
+# 1671. 膝
 [膝](https://jisho.org/search/膝%23kanjii) [膝](https://jisho.org/search/*膝*)
-#1672. 蓮
+# 1672. 蓮
 [蓮](https://jisho.org/search/蓮%23kanjii) [蓮](https://jisho.org/search/*蓮*)
-#1673. 妥
+# 1673. 妥
 [妥](https://jisho.org/search/妥%23kanjii) [妥](https://jisho.org/search/*妥*)
-#1674. 桂
+# 1674. 桂
 [桂](https://jisho.org/search/桂%23kanjii) [桂](https://jisho.org/search/*桂*)
-#1675. 凝
+# 1675. 凝
 [凝](https://jisho.org/search/凝%23kanjii) [凝](https://jisho.org/search/*凝*)
-#1676. 蛇
+# 1676. 蛇
 [蛇](https://jisho.org/search/蛇%23kanjii) [蛇](https://jisho.org/search/*蛇*)
-#1677. 綾
+# 1677. 綾
 [綾](https://jisho.org/search/綾%23kanjii) [綾](https://jisho.org/search/*綾*)
-#1678. 菱
+# 1678. 菱
 [菱](https://jisho.org/search/菱%23kanjii) [菱](https://jisho.org/search/*菱*)
-#1679. 斗
+# 1679. 斗
 [斗](https://jisho.org/search/斗%23kanjii) [斗](https://jisho.org/search/*斗*)
-#1680. 苗
+# 1680. 苗
 [苗](https://jisho.org/search/苗%23kanjii) [苗](https://jisho.org/search/*苗*)
-#1681. 癖
+# 1681. 癖
 [癖](https://jisho.org/search/癖%23kanjii) [癖](https://jisho.org/search/*癖*)
-#1682. 侍
+# 1682. 侍
 [侍](https://jisho.org/search/侍%23kanjii) [侍](https://jisho.org/search/*侍*)
-#1683. 鷹
+# 1683. 鷹
 [鷹](https://jisho.org/search/鷹%23kanjii) [鷹](https://jisho.org/search/*鷹*)
-#1684. 践
+# 1684. 践
 [践](https://jisho.org/search/践%23kanjii) [践](https://jisho.org/search/*践*)
-#1685. 肺
+# 1685. 肺
 [肺](https://jisho.org/search/肺%23kanjii) [肺](https://jisho.org/search/*肺*)
-#1686. 喪
+# 1686. 喪
 [喪](https://jisho.org/search/喪%23kanjii) [喪](https://jisho.org/search/*喪*)
-#1687. 憎
+# 1687. 憎
 [憎](https://jisho.org/search/憎%23kanjii) [憎](https://jisho.org/search/*憎*)
-#1688. 繊
+# 1688. 繊
 [繊](https://jisho.org/search/繊%23kanjii) [繊](https://jisho.org/search/*繊*)
-#1689. 鍛
+# 1689. 鍛
 [鍛](https://jisho.org/search/鍛%23kanjii) [鍛](https://jisho.org/search/*鍛*)
-#1690. 拶
+# 1690. 拶
 [拶](https://jisho.org/search/拶%23kanjii) [拶](https://jisho.org/search/*拶*)
-#1691. 羊
+# 1691. 羊
 [羊](https://jisho.org/search/羊%23kanjii) [羊](https://jisho.org/search/*羊*)
-#1692. 鋼
+# 1692. 鋼
 [鋼](https://jisho.org/search/鋼%23kanjii) [鋼](https://jisho.org/search/*鋼*)
-#1693. 誓
+# 1693. 誓
 [誓](https://jisho.org/search/誓%23kanjii) [誓](https://jisho.org/search/*誓*)
-#1694. 滋
+# 1694. 滋
 [滋](https://jisho.org/search/滋%23kanjii) [滋](https://jisho.org/search/*滋*)
-#1695. 曇
+# 1695. 曇
 [曇](https://jisho.org/search/曇%23kanjii) [曇](https://jisho.org/search/*曇*)
-#1696. 欺
+# 1696. 欺
 [欺](https://jisho.org/search/欺%23kanjii) [欺](https://jisho.org/search/*欺*)
-#1697. 膚
+# 1697. 膚
 [膚](https://jisho.org/search/膚%23kanjii) [膚](https://jisho.org/search/*膚*)
-#1698. 挿
+# 1698. 挿
 [挿](https://jisho.org/search/挿%23kanjii) [挿](https://jisho.org/search/*挿*)
-#1699. 謙
+# 1699. 謙
 [謙](https://jisho.org/search/謙%23kanjii) [謙](https://jisho.org/search/*謙*)
-#1700. 膜
+# 1700. 膜
 [膜](https://jisho.org/search/膜%23kanjii) [膜](https://jisho.org/search/*膜*)
-#1701. 班
+# 1701. 班
 [班](https://jisho.org/search/班%23kanjii) [班](https://jisho.org/search/*班*)
-#1702. 缶
+# 1702. 缶
 [缶](https://jisho.org/search/缶%23kanjii) [缶](https://jisho.org/search/*缶*)
-#1703. 筑
+# 1703. 筑
 [筑](https://jisho.org/search/筑%23kanjii) [筑](https://jisho.org/search/*筑*)
-#1704. 噂
+# 1704. 噂
 [噂](https://jisho.org/search/噂%23kanjii) [噂](https://jisho.org/search/*噂*)
-#1705. 縛
+# 1705. 縛
 [縛](https://jisho.org/search/縛%23kanjii) [縛](https://jisho.org/search/*縛*)
-#1706. 溝
+# 1706. 溝
 [溝](https://jisho.org/search/溝%23kanjii) [溝](https://jisho.org/search/*溝*)
-#1707. 蘇
+# 1707. 蘇
 [蘇](https://jisho.org/search/蘇%23kanjii) [蘇](https://jisho.org/search/*蘇*)
-#1708. 飽
+# 1708. 飽
 [飽](https://jisho.org/search/飽%23kanjii) [飽](https://jisho.org/search/*飽*)
-#1709. 畜
+# 1709. 畜
 [畜](https://jisho.org/search/畜%23kanjii) [畜](https://jisho.org/search/*畜*)
-#1710. 朱
+# 1710. 朱
 [朱](https://jisho.org/search/朱%23kanjii) [朱](https://jisho.org/search/*朱*)
-#1711. 蹴
+# 1711. 蹴
 [蹴](https://jisho.org/search/蹴%23kanjii) [蹴](https://jisho.org/search/*蹴*)
-#1712. 栽
+# 1712. 栽
 [栽](https://jisho.org/search/栽%23kanjii) [栽](https://jisho.org/search/*栽*)
-#1713. 掌
+# 1713. 掌
 [掌](https://jisho.org/search/掌%23kanjii) [掌](https://jisho.org/search/*掌*)
-#1714. 嬢
+# 1714. 嬢
 [嬢](https://jisho.org/search/嬢%23kanjii) [嬢](https://jisho.org/search/*嬢*)
-#1715. 痴
+# 1715. 痴
 [痴](https://jisho.org/search/痴%23kanjii) [痴](https://jisho.org/search/*痴*)
-#1716. 桐
+# 1716. 桐
 [桐](https://jisho.org/search/桐%23kanjii) [桐](https://jisho.org/search/*桐*)
-#1717. 殴
+# 1717. 殴
 [殴](https://jisho.org/search/殴%23kanjii) [殴](https://jisho.org/search/*殴*)
-#1718. 漬
+# 1718. 漬
 [漬](https://jisho.org/search/漬%23kanjii) [漬](https://jisho.org/search/*漬*)
-#1719. 菅
+# 1719. 菅
 [菅](https://jisho.org/search/菅%23kanjii) [菅](https://jisho.org/search/*菅*)
-#1720. 弦
+# 1720. 弦
 [弦](https://jisho.org/search/弦%23kanjii) [弦](https://jisho.org/search/*弦*)
-#1721. 桑
+# 1721. 桑
 [桑](https://jisho.org/search/桑%23kanjii) [桑](https://jisho.org/search/*桑*)
-#1722. 辻
+# 1722. 辻
 [辻](https://jisho.org/search/辻%23kanjii) [辻](https://jisho.org/search/*辻*)
-#1723. 鉢
+# 1723. 鉢
 [鉢](https://jisho.org/search/鉢%23kanjii) [鉢](https://jisho.org/search/*鉢*)
-#1724. 錯
+# 1724. 錯
 [錯](https://jisho.org/search/錯%23kanjii) [錯](https://jisho.org/search/*錯*)
-#1725. 阻
+# 1725. 阻
 [阻](https://jisho.org/search/阻%23kanjii) [阻](https://jisho.org/search/*阻*)
-#1726. 孔
+# 1726. 孔
 [孔](https://jisho.org/search/孔%23kanjii) [孔](https://jisho.org/search/*孔*)
-#1727. 机
+# 1727. 机
 [机](https://jisho.org/search/机%23kanjii) [机](https://jisho.org/search/*机*)
-#1728. 懲
+# 1728. 懲
 [懲](https://jisho.org/search/懲%23kanjii) [懲](https://jisho.org/search/*懲*)
-#1729. 昧
+# 1729. 昧
 [昧](https://jisho.org/search/昧%23kanjii) [昧](https://jisho.org/search/*昧*)
-#1730. 墨
+# 1730. 墨
 [墨](https://jisho.org/search/墨%23kanjii) [墨](https://jisho.org/search/*墨*)
-#1731. 附
+# 1731. 附
 [附](https://jisho.org/search/附%23kanjii) [附](https://jisho.org/search/*附*)
-#1732. 旋
+# 1732. 旋
 [旋](https://jisho.org/search/旋%23kanjii) [旋](https://jisho.org/search/*旋*)
-#1733. 扇
+# 1733. 扇
 [扇](https://jisho.org/search/扇%23kanjii) [扇](https://jisho.org/search/*扇*)
-#1734. 塞
+# 1734. 塞
 [塞](https://jisho.org/search/塞%23kanjii) [塞](https://jisho.org/search/*塞*)
-#1735. 唇
+# 1735. 唇
 [唇](https://jisho.org/search/唇%23kanjii) [唇](https://jisho.org/search/*唇*)
-#1736. 嘆
+# 1736. 嘆
 [嘆](https://jisho.org/search/嘆%23kanjii) [嘆](https://jisho.org/search/*嘆*)
-#1737. 匂
+# 1737. 匂
 [匂](https://jisho.org/search/匂%23kanjii) [匂](https://jisho.org/search/*匂*)
-#1738. 矛
+# 1738. 矛
 [矛](https://jisho.org/search/矛%23kanjii) [矛](https://jisho.org/search/*矛*)
-#1739. 据
+# 1739. 据
 [据](https://jisho.org/search/据%23kanjii) [据](https://jisho.org/search/*据*)
-#1740. 崇
+# 1740. 崇
 [崇](https://jisho.org/search/崇%23kanjii) [崇](https://jisho.org/search/*崇*)
-#1741. 燥
+# 1741. 燥
 [燥](https://jisho.org/search/燥%23kanjii) [燥](https://jisho.org/search/*燥*)
-#1742. 挟
+# 1742. 挟
 [挟](https://jisho.org/search/挟%23kanjii) [挟](https://jisho.org/search/*挟*)
-#1743. 酬
+# 1743. 酬
 [酬](https://jisho.org/search/酬%23kanjii) [酬](https://jisho.org/search/*酬*)
-#1744. 擁
+# 1744. 擁
 [擁](https://jisho.org/search/擁%23kanjii) [擁](https://jisho.org/search/*擁*)
-#1745. 釜
+# 1745. 釜
 [釜](https://jisho.org/search/釜%23kanjii) [釜](https://jisho.org/search/*釜*)
-#1746. 箇
+# 1746. 箇
 [箇](https://jisho.org/search/箇%23kanjii) [箇](https://jisho.org/search/*箇*)
-#1747. 宰
+# 1747. 宰
 [宰](https://jisho.org/search/宰%23kanjii) [宰](https://jisho.org/search/*宰*)
-#1748. 粗
+# 1748. 粗
 [粗](https://jisho.org/search/粗%23kanjii) [粗](https://jisho.org/search/*粗*)
-#1749. 堤
+# 1749. 堤
 [堤](https://jisho.org/search/堤%23kanjii) [堤](https://jisho.org/search/*堤*)
-#1750. 栃
+# 1750. 栃
 [栃](https://jisho.org/search/栃%23kanjii) [栃](https://jisho.org/search/*栃*)
-#1751. 辰
+# 1751. 辰
 [辰](https://jisho.org/search/辰%23kanjii) [辰](https://jisho.org/search/*辰*)
-#1752. 諾
+# 1752. 諾
 [諾](https://jisho.org/search/諾%23kanjii) [諾](https://jisho.org/search/*諾*)
-#1753. 妨
+# 1753. 妨
 [妨](https://jisho.org/search/妨%23kanjii) [妨](https://jisho.org/search/*妨*)
-#1754. 疎
+# 1754. 疎
 [疎](https://jisho.org/search/疎%23kanjii) [疎](https://jisho.org/search/*疎*)
-#1755. 刈
+# 1755. 刈
 [刈](https://jisho.org/search/刈%23kanjii) [刈](https://jisho.org/search/*刈*)
-#1756. 枕
+# 1756. 枕
 [枕](https://jisho.org/search/枕%23kanjii) [枕](https://jisho.org/search/*枕*)
-#1757. 篠
+# 1757. 篠
 [篠](https://jisho.org/search/篠%23kanjii) [篠](https://jisho.org/search/*篠*)
-#1758. 剰
+# 1758. 剰
 [剰](https://jisho.org/search/剰%23kanjii) [剰](https://jisho.org/search/*剰*)
-#1759. 其
+# 1759. 其
 [其](https://jisho.org/search/其%23kanjii) [其](https://jisho.org/search/*其*)
-#1760. 漠
+# 1760. 漠
 [漠](https://jisho.org/search/漠%23kanjii) [漠](https://jisho.org/search/*漠*)
-#1761. 禅
+# 1761. 禅
 [禅](https://jisho.org/search/禅%23kanjii) [禅](https://jisho.org/search/*禅*)
-#1762. 峠
+# 1762. 峠
 [峠](https://jisho.org/search/峠%23kanjii) [峠](https://jisho.org/search/*峠*)
-#1763. 淳
+# 1763. 淳
 [淳](https://jisho.org/search/淳%23kanjii) [淳](https://jisho.org/search/*淳*)
-#1764. 尺
+# 1764. 尺
 [尺](https://jisho.org/search/尺%23kanjii) [尺](https://jisho.org/search/*尺*)
-#1765. 爵
+# 1765. 爵
 [爵](https://jisho.org/search/爵%23kanjii) [爵](https://jisho.org/search/*爵*)
-#1766. 逢
+# 1766. 逢
 [逢](https://jisho.org/search/逢%23kanjii) [逢](https://jisho.org/search/*逢*)
-#1767. 謡
+# 1767. 謡
 [謡](https://jisho.org/search/謡%23kanjii) [謡](https://jisho.org/search/*謡*)
-#1768. 庵
+# 1768. 庵
 [庵](https://jisho.org/search/庵%23kanjii) [庵](https://jisho.org/search/*庵*)
-#1769. 靖
+# 1769. 靖
 [靖](https://jisho.org/search/靖%23kanjii) [靖](https://jisho.org/search/*靖*)
-#1770. 娠
+# 1770. 娠
 [娠](https://jisho.org/search/娠%23kanjii) [娠](https://jisho.org/search/*娠*)
-#1771. 懇
+# 1771. 懇
 [懇](https://jisho.org/search/懇%23kanjii) [懇](https://jisho.org/search/*懇*)
-#1772. 朴
+# 1772. 朴
 [朴](https://jisho.org/search/朴%23kanjii) [朴](https://jisho.org/search/*朴*)
-#1773. 塊
+# 1773. 塊
 [塊](https://jisho.org/search/塊%23kanjii) [塊](https://jisho.org/search/*塊*)
-#1774. 詐
+# 1774. 詐
 [詐](https://jisho.org/search/詐%23kanjii) [詐](https://jisho.org/search/*詐*)
-#1775. 泡
+# 1775. 泡
 [泡](https://jisho.org/search/泡%23kanjii) [泡](https://jisho.org/search/*泡*)
-#1776. 湧
+# 1776. 湧
 [湧](https://jisho.org/search/湧%23kanjii) [湧](https://jisho.org/search/*湧*)
-#1777. 糧
+# 1777. 糧
 [糧](https://jisho.org/search/糧%23kanjii) [糧](https://jisho.org/search/*糧*)
-#1778. 腫
+# 1778. 腫
 [腫](https://jisho.org/search/腫%23kanjii) [腫](https://jisho.org/search/*腫*)
-#1779. 胡
+# 1779. 胡
 [胡](https://jisho.org/search/胡%23kanjii) [胡](https://jisho.org/search/*胡*)
-#1780. 帆
+# 1780. 帆
 [帆](https://jisho.org/search/帆%23kanjii) [帆](https://jisho.org/search/*帆*)
-#1781. 溜
+# 1781. 溜
 [溜](https://jisho.org/search/溜%23kanjii) [溜](https://jisho.org/search/*溜*)
-#1782. 縫
+# 1782. 縫
 [縫](https://jisho.org/search/縫%23kanjii) [縫](https://jisho.org/search/*縫*)
-#1783. 陵
+# 1783. 陵
 [陵](https://jisho.org/search/陵%23kanjii) [陵](https://jisho.org/search/*陵*)
-#1784. 磯
+# 1784. 磯
 [磯](https://jisho.org/search/磯%23kanjii) [磯](https://jisho.org/search/*磯*)
-#1785. 枯
+# 1785. 枯
 [枯](https://jisho.org/search/枯%23kanjii) [枯](https://jisho.org/search/*枯*)
-#1786. 擦
+# 1786. 擦
 [擦](https://jisho.org/search/擦%23kanjii) [擦](https://jisho.org/search/*擦*)
-#1787. 疫
+# 1787. 疫
 [疫](https://jisho.org/search/疫%23kanjii) [疫](https://jisho.org/search/*疫*)
-#1788. 呪
+# 1788. 呪
 [呪](https://jisho.org/search/呪%23kanjii) [呪](https://jisho.org/search/*呪*)
-#1789. 捉
+# 1789. 捉
 [捉](https://jisho.org/search/捉%23kanjii) [捉](https://jisho.org/search/*捉*)
-#1790. 寮
+# 1790. 寮
 [寮](https://jisho.org/search/寮%23kanjii) [寮](https://jisho.org/search/*寮*)
-#1791. 曽
+# 1791. 曽
 [曽](https://jisho.org/search/曽%23kanjii) [曽](https://jisho.org/search/*曽*)
-#1792. 喚
+# 1792. 喚
 [喚](https://jisho.org/search/喚%23kanjii) [喚](https://jisho.org/search/*喚*)
-#1793. 媒
+# 1793. 媒
 [媒](https://jisho.org/search/媒%23kanjii) [媒](https://jisho.org/search/*媒*)
-#1794. 鴨
+# 1794. 鴨
 [鴨](https://jisho.org/search/鴨%23kanjii) [鴨](https://jisho.org/search/*鴨*)
-#1795. 濯
+# 1795. 濯
 [濯](https://jisho.org/search/濯%23kanjii) [濯](https://jisho.org/search/*濯*)
-#1796. 冗
+# 1796. 冗
 [冗](https://jisho.org/search/冗%23kanjii) [冗](https://jisho.org/search/*冗*)
-#1797. 慌
+# 1797. 慌
 [慌](https://jisho.org/search/慌%23kanjii) [慌](https://jisho.org/search/*慌*)
-#1798. 爪
+# 1798. 爪
 [爪](https://jisho.org/search/爪%23kanjii) [爪](https://jisho.org/search/*爪*)
-#1799. 艇
+# 1799. 艇
 [艇](https://jisho.org/search/艇%23kanjii) [艇](https://jisho.org/search/*艇*)
-#1800. 股
+# 1800. 股
 [股](https://jisho.org/search/股%23kanjii) [股](https://jisho.org/search/*股*)
-#1801. 潰
+# 1801. 潰
 [潰](https://jisho.org/search/潰%23kanjii) [潰](https://jisho.org/search/*潰*)
-#1802. 砕
+# 1802. 砕
 [砕](https://jisho.org/search/砕%23kanjii) [砕](https://jisho.org/search/*砕*)
-#1803. 唄
+# 1803. 唄
 [唄](https://jisho.org/search/唄%23kanjii) [唄](https://jisho.org/search/*唄*)
-#1804. 綺
+# 1804. 綺
 [綺](https://jisho.org/search/綺%23kanjii) [綺](https://jisho.org/search/*綺*)
-#1805. 淵
+# 1805. 淵
 [淵](https://jisho.org/search/淵%23kanjii) [淵](https://jisho.org/search/*淵*)
-#1806. 坪
+# 1806. 坪
 [坪](https://jisho.org/search/坪%23kanjii) [坪](https://jisho.org/search/*坪*)
-#1807. 敢
+# 1807. 敢
 [敢](https://jisho.org/search/敢%23kanjii) [敢](https://jisho.org/search/*敢*)
-#1808. 叔
+# 1808. 叔
 [叔](https://jisho.org/search/叔%23kanjii) [叔](https://jisho.org/search/*叔*)
-#1809. 廻
+# 1809. 廻
 [廻](https://jisho.org/search/廻%23kanjii) [廻](https://jisho.org/search/*廻*)
-#1810. 循
+# 1810. 循
 [循](https://jisho.org/search/循%23kanjii) [循](https://jisho.org/search/*循*)
-#1811. 昆
+# 1811. 昆
 [昆](https://jisho.org/search/昆%23kanjii) [昆](https://jisho.org/search/*昆*)
-#1812. 呈
+# 1812. 呈
 [呈](https://jisho.org/search/呈%23kanjii) [呈](https://jisho.org/search/*呈*)
-#1813. 鐘
+# 1813. 鐘
 [鐘](https://jisho.org/search/鐘%23kanjii) [鐘](https://jisho.org/search/*鐘*)
-#1814. 慈
+# 1814. 慈
 [慈](https://jisho.org/search/慈%23kanjii) [慈](https://jisho.org/search/*慈*)
-#1815. 碁
+# 1815. 碁
 [碁](https://jisho.org/search/碁%23kanjii) [碁](https://jisho.org/search/*碁*)
-#1816. 堪
+# 1816. 堪
 [堪](https://jisho.org/search/堪%23kanjii) [堪](https://jisho.org/search/*堪*)
-#1817. 稽
+# 1817. 稽
 [稽](https://jisho.org/search/稽%23kanjii) [稽](https://jisho.org/search/*稽*)
-#1818. 洪
+# 1818. 洪
 [洪](https://jisho.org/search/洪%23kanjii) [洪](https://jisho.org/search/*洪*)
-#1819. 猪
+# 1819. 猪
 [猪](https://jisho.org/search/猪%23kanjii) [猪](https://jisho.org/search/*猪*)
-#1820. 幽
+# 1820. 幽
 [幽](https://jisho.org/search/幽%23kanjii) [幽](https://jisho.org/search/*幽*)
-#1821. 此
+# 1821. 此
 [此](https://jisho.org/search/此%23kanjii) [此](https://jisho.org/search/*此*)
-#1822. 峡
+# 1822. 峡
 [峡](https://jisho.org/search/峡%23kanjii) [峡](https://jisho.org/search/*峡*)
-#1823. 恨
+# 1823. 恨
 [恨](https://jisho.org/search/恨%23kanjii) [恨](https://jisho.org/search/*恨*)
-#1824. 於
+# 1824. 於
 [於](https://jisho.org/search/於%23kanjii) [於](https://jisho.org/search/*於*)
-#1825. 蓋
+# 1825. 蓋
 [蓋](https://jisho.org/search/蓋%23kanjii) [蓋](https://jisho.org/search/*蓋*)
-#1826. 甚
+# 1826. 甚
 [甚](https://jisho.org/search/甚%23kanjii) [甚](https://jisho.org/search/*甚*)
-#1827. 諭
+# 1827. 諭
 [諭](https://jisho.org/search/諭%23kanjii) [諭](https://jisho.org/search/*諭*)
-#1828. 某
+# 1828. 某
 [某](https://jisho.org/search/某%23kanjii) [某](https://jisho.org/search/*某*)
-#1829. 斐
+# 1829. 斐
 [斐](https://jisho.org/search/斐%23kanjii) [斐](https://jisho.org/search/*斐*)
-#1830. 零
+# 1830. 零
 [零](https://jisho.org/search/零%23kanjii) [零](https://jisho.org/search/*零*)
-#1831. 狼
+# 1831. 狼
 [狼](https://jisho.org/search/狼%23kanjii) [狼](https://jisho.org/search/*狼*)
-#1832. 喧
+# 1832. 喧
 [喧](https://jisho.org/search/喧%23kanjii) [喧](https://jisho.org/search/*喧*)
-#1833. 椎
+# 1833. 椎
 [椎](https://jisho.org/search/椎%23kanjii) [椎](https://jisho.org/search/*椎*)
-#1834. 炊
+# 1834. 炊
 [炊](https://jisho.org/search/炊%23kanjii) [炊](https://jisho.org/search/*炊*)
-#1835. 賠
+# 1835. 賠
 [賠](https://jisho.org/search/賠%23kanjii) [賠](https://jisho.org/search/*賠*)
-#1836. 喉
+# 1836. 喉
 [喉](https://jisho.org/search/喉%23kanjii) [喉](https://jisho.org/search/*喉*)
-#1837. 沸
+# 1837. 沸
 [沸](https://jisho.org/search/沸%23kanjii) [沸](https://jisho.org/search/*沸*)
-#1838. 笛
+# 1838. 笛
 [笛](https://jisho.org/search/笛%23kanjii) [笛](https://jisho.org/search/*笛*)
-#1839. 餅
+# 1839. 餅
 [餅](https://jisho.org/search/餅%23kanjii) [餅](https://jisho.org/search/*餅*)
-#1840. 鉛
+# 1840. 鉛
 [鉛](https://jisho.org/search/鉛%23kanjii) [鉛](https://jisho.org/search/*鉛*)
-#1841. 凶
+# 1841. 凶
 [凶](https://jisho.org/search/凶%23kanjii) [凶](https://jisho.org/search/*凶*)
-#1842. 藍
+# 1842. 藍
 [藍](https://jisho.org/search/藍%23kanjii) [藍](https://jisho.org/search/*藍*)
-#1843. 褒
+# 1843. 褒
 [褒](https://jisho.org/search/褒%23kanjii) [褒](https://jisho.org/search/*褒*)
-#1844. 庶
+# 1844. 庶
 [庶](https://jisho.org/search/庶%23kanjii) [庶](https://jisho.org/search/*庶*)
-#1845. 肢
+# 1845. 肢
 [肢](https://jisho.org/search/肢%23kanjii) [肢](https://jisho.org/search/*肢*)
-#1846. 傑
+# 1846. 傑
 [傑](https://jisho.org/search/傑%23kanjii) [傑](https://jisho.org/search/*傑*)
-#1847. 殻
+# 1847. 殻
 [殻](https://jisho.org/search/殻%23kanjii) [殻](https://jisho.org/search/*殻*)
-#1848. 碑
+# 1848. 碑
 [碑](https://jisho.org/search/碑%23kanjii) [碑](https://jisho.org/search/*碑*)
-#1849. 怠
+# 1849. 怠
 [怠](https://jisho.org/search/怠%23kanjii) [怠](https://jisho.org/search/*怠*)
-#1850. 婆
+# 1850. 婆
 [婆](https://jisho.org/search/婆%23kanjii) [婆](https://jisho.org/search/*婆*)
-#1851. 駿
+# 1851. 駿
 [駿](https://jisho.org/search/駿%23kanjii) [駿](https://jisho.org/search/*駿*)
-#1852. 賭
+# 1852. 賭
 [賭](https://jisho.org/search/賭%23kanjii) [賭](https://jisho.org/search/*賭*)
-#1853. 后
+# 1853. 后
 [后](https://jisho.org/search/后%23kanjii) [后](https://jisho.org/search/*后*)
-#1854. 伺
+# 1854. 伺
 [伺](https://jisho.org/search/伺%23kanjii) [伺](https://jisho.org/search/*伺*)
-#1855. 鬱
+# 1855. 鬱
 [鬱](https://jisho.org/search/鬱%23kanjii) [鬱](https://jisho.org/search/*鬱*)
-#1856. 肪
+# 1856. 肪
 [肪](https://jisho.org/search/肪%23kanjii) [肪](https://jisho.org/search/*肪*)
-#1857. 恭
+# 1857. 恭
 [恭](https://jisho.org/search/恭%23kanjii) [恭](https://jisho.org/search/*恭*)
-#1858. 尼
+# 1858. 尼
 [尼](https://jisho.org/search/尼%23kanjii) [尼](https://jisho.org/search/*尼*)
-#1859. 悦
+# 1859. 悦
 [悦](https://jisho.org/search/悦%23kanjii) [悦](https://jisho.org/search/*悦*)
-#1860. 妃
+# 1860. 妃
 [妃](https://jisho.org/search/妃%23kanjii) [妃](https://jisho.org/search/*妃*)
-#1861. 紳
+# 1861. 紳
 [紳](https://jisho.org/search/紳%23kanjii) [紳](https://jisho.org/search/*紳*)
-#1862. 遍
+# 1862. 遍
 [遍](https://jisho.org/search/遍%23kanjii) [遍](https://jisho.org/search/*遍*)
-#1863. 拭
+# 1863. 拭
 [拭](https://jisho.org/search/拭%23kanjii) [拭](https://jisho.org/search/*拭*)
-#1864. 蝶
+# 1864. 蝶
 [蝶](https://jisho.org/search/蝶%23kanjii) [蝶](https://jisho.org/search/*蝶*)
-#1865. 酵
+# 1865. 酵
 [酵](https://jisho.org/search/酵%23kanjii) [酵](https://jisho.org/search/*酵*)
-#1866. 愉
+# 1866. 愉
 [愉](https://jisho.org/search/愉%23kanjii) [愉](https://jisho.org/search/*愉*)
-#1867. 眉
+# 1867. 眉
 [眉](https://jisho.org/search/眉%23kanjii) [眉](https://jisho.org/search/*眉*)
-#1868. 瞳
+# 1868. 瞳
 [瞳](https://jisho.org/search/瞳%23kanjii) [瞳](https://jisho.org/search/*瞳*)
-#1869. 鈍
+# 1869. 鈍
 [鈍](https://jisho.org/search/鈍%23kanjii) [鈍](https://jisho.org/search/*鈍*)
-#1870. 篇
+# 1870. 篇
 [篇](https://jisho.org/search/篇%23kanjii) [篇](https://jisho.org/search/*篇*)
-#1871. 卑
+# 1871. 卑
 [卑](https://jisho.org/search/卑%23kanjii) [卑](https://jisho.org/search/*卑*)
-#1872. 瓦
+# 1872. 瓦
 [瓦](https://jisho.org/search/瓦%23kanjii) [瓦](https://jisho.org/search/*瓦*)
-#1873. 辱
+# 1873. 辱
 [辱](https://jisho.org/search/辱%23kanjii) [辱](https://jisho.org/search/*辱*)
-#1874. 匿
+# 1874. 匿
 [匿](https://jisho.org/search/匿%23kanjii) [匿](https://jisho.org/search/*匿*)
-#1875. 拉
+# 1875. 拉
 [拉](https://jisho.org/search/拉%23kanjii) [拉](https://jisho.org/search/*拉*)
-#1876. 憩
+# 1876. 憩
 [憩](https://jisho.org/search/憩%23kanjii) [憩](https://jisho.org/search/*憩*)
-#1877. 貌
+# 1877. 貌
 [貌](https://jisho.org/search/貌%23kanjii) [貌](https://jisho.org/search/*貌*)
-#1878. 笹
+# 1878. 笹
 [笹](https://jisho.org/search/笹%23kanjii) [笹](https://jisho.org/search/*笹*)
-#1879. 濡
+# 1879. 濡
 [濡](https://jisho.org/search/濡%23kanjii) [濡](https://jisho.org/search/*濡*)
-#1880. 樽
+# 1880. 樽
 [樽](https://jisho.org/search/樽%23kanjii) [樽](https://jisho.org/search/*樽*)
-#1881. 籠
+# 1881. 籠
 [籠](https://jisho.org/search/籠%23kanjii) [籠](https://jisho.org/search/*籠*)
-#1882. 弊
+# 1882. 弊
 [弊](https://jisho.org/search/弊%23kanjii) [弊](https://jisho.org/search/*弊*)
-#1883. 伐
+# 1883. 伐
 [伐](https://jisho.org/search/伐%23kanjii) [伐](https://jisho.org/search/*伐*)
-#1884. 騰
+# 1884. 騰
 [騰](https://jisho.org/search/騰%23kanjii) [騰](https://jisho.org/search/*騰*)
-#1885. 郭
+# 1885. 郭
 [郭](https://jisho.org/search/郭%23kanjii) [郭](https://jisho.org/search/*郭*)
-#1886. 頁
+# 1886. 頁
 [頁](https://jisho.org/search/頁%23kanjii) [頁](https://jisho.org/search/*頁*)
-#1887. 閥
+# 1887. 閥
 [閥](https://jisho.org/search/閥%23kanjii) [閥](https://jisho.org/search/*閥*)
-#1888. 但
+# 1888. 但
 [但](https://jisho.org/search/但%23kanjii) [但](https://jisho.org/search/*但*)
-#1889. 搬
+# 1889. 搬
 [搬](https://jisho.org/search/搬%23kanjii) [搬](https://jisho.org/search/*搬*)
-#1890. 膳
+# 1890. 膳
 [膳](https://jisho.org/search/膳%23kanjii) [膳](https://jisho.org/search/*膳*)
-#1891. 畿
+# 1891. 畿
 [畿](https://jisho.org/search/畿%23kanjii) [畿](https://jisho.org/search/*畿*)
-#1892. 迅
+# 1892. 迅
 [迅](https://jisho.org/search/迅%23kanjii) [迅](https://jisho.org/search/*迅*)
-#1893. 呆
+# 1893. 呆
 [呆](https://jisho.org/search/呆%23kanjii) [呆](https://jisho.org/search/*呆*)
-#1894. 勲
+# 1894. 勲
 [勲](https://jisho.org/search/勲%23kanjii) [勲](https://jisho.org/search/*勲*)
-#1895. 憧
+# 1895. 憧
 [憧](https://jisho.org/search/憧%23kanjii) [憧](https://jisho.org/search/*憧*)
-#1896. 芋
+# 1896. 芋
 [芋](https://jisho.org/search/芋%23kanjii) [芋](https://jisho.org/search/*芋*)
-#1897. 柿
+# 1897. 柿
 [柿](https://jisho.org/search/柿%23kanjii) [柿](https://jisho.org/search/*柿*)
-#1898. 宛
+# 1898. 宛
 [宛](https://jisho.org/search/宛%23kanjii) [宛](https://jisho.org/search/*宛*)
-#1899. 濁
+# 1899. 濁
 [濁](https://jisho.org/search/濁%23kanjii) [濁](https://jisho.org/search/*濁*)
-#1900. 曖
+# 1900. 曖
 [曖](https://jisho.org/search/曖%23kanjii) [曖](https://jisho.org/search/*曖*)
-#1901. 幣
+# 1901. 幣
 [幣](https://jisho.org/search/幣%23kanjii) [幣](https://jisho.org/search/*幣*)
-#1902. 窮
+# 1902. 窮
 [窮](https://jisho.org/search/窮%23kanjii) [窮](https://jisho.org/search/*窮*)
-#1903. 渓
+# 1903. 渓
 [渓](https://jisho.org/search/渓%23kanjii) [渓](https://jisho.org/search/*渓*)
-#1904. 隻
+# 1904. 隻
 [隻](https://jisho.org/search/隻%23kanjii) [隻](https://jisho.org/search/*隻*)
-#1905. 忌
+# 1905. 忌
 [忌](https://jisho.org/search/忌%23kanjii) [忌](https://jisho.org/search/*忌*)
-#1906. 覗
+# 1906. 覗
 [覗](https://jisho.org/search/覗%23kanjii) [覗](https://jisho.org/search/*覗*)
-#1907. 墜
+# 1907. 墜
 [墜](https://jisho.org/search/墜%23kanjii) [墜](https://jisho.org/search/*墜*)
-#1908. 尉
+# 1908. 尉
 [尉](https://jisho.org/search/尉%23kanjii) [尉](https://jisho.org/search/*尉*)
-#1909. 暁
+# 1909. 暁
 [暁](https://jisho.org/search/暁%23kanjii) [暁](https://jisho.org/search/*暁*)
-#1910. 卸
+# 1910. 卸
 [卸](https://jisho.org/search/卸%23kanjii) [卸](https://jisho.org/search/*卸*)
-#1911. 萌
+# 1911. 萌
 [萌](https://jisho.org/search/萌%23kanjii) [萌](https://jisho.org/search/*萌*)
-#1912. 槽
+# 1912. 槽
 [槽](https://jisho.org/search/槽%23kanjii) [槽](https://jisho.org/search/*槽*)
-#1913. 酢
+# 1913. 酢
 [酢](https://jisho.org/search/酢%23kanjii) [酢](https://jisho.org/search/*酢*)
-#1914. 霞
+# 1914. 霞
 [霞](https://jisho.org/search/霞%23kanjii) [霞](https://jisho.org/search/*霞*)
-#1915. 汰
+# 1915. 汰
 [汰](https://jisho.org/search/汰%23kanjii) [汰](https://jisho.org/search/*汰*)
-#1916. 穫
+# 1916. 穫
 [穫](https://jisho.org/search/穫%23kanjii) [穫](https://jisho.org/search/*穫*)
-#1917. 粛
+# 1917. 粛
 [粛](https://jisho.org/search/粛%23kanjii) [粛](https://jisho.org/search/*粛*)
-#1918. 赴
+# 1918. 赴
 [赴](https://jisho.org/search/赴%23kanjii) [赴](https://jisho.org/search/*赴*)
-#1919. 胴
+# 1919. 胴
 [胴](https://jisho.org/search/胴%23kanjii) [胴](https://jisho.org/search/*胴*)
-#1920. 鳩
+# 1920. 鳩
 [鳩](https://jisho.org/search/鳩%23kanjii) [鳩](https://jisho.org/search/*鳩*)
-#1921. 遮
+# 1921. 遮
 [遮](https://jisho.org/search/遮%23kanjii) [遮](https://jisho.org/search/*遮*)
-#1922. 遷
+# 1922. 遷
 [遷](https://jisho.org/search/遷%23kanjii) [遷](https://jisho.org/search/*遷*)
-#1923. 墳
+# 1923. 墳
 [墳](https://jisho.org/search/墳%23kanjii) [墳](https://jisho.org/search/*墳*)
-#1924. 隙
+# 1924. 隙
 [隙](https://jisho.org/search/隙%23kanjii) [隙](https://jisho.org/search/*隙*)
-#1925. 薫
+# 1925. 薫
 [薫](https://jisho.org/search/薫%23kanjii) [薫](https://jisho.org/search/*薫*)
-#1926. 妄
+# 1926. 妄
 [妄](https://jisho.org/search/妄%23kanjii) [妄](https://jisho.org/search/*妄*)
-#1927. 蜂
+# 1927. 蜂
 [蜂](https://jisho.org/search/蜂%23kanjii) [蜂](https://jisho.org/search/*蜂*)
-#1928. 稀
+# 1928. 稀
 [稀](https://jisho.org/search/稀%23kanjii) [稀](https://jisho.org/search/*稀*)
-#1929. 伎
+# 1929. 伎
 [伎](https://jisho.org/search/伎%23kanjii) [伎](https://jisho.org/search/*伎*)
-#1930. 禄
+# 1930. 禄
 [禄](https://jisho.org/search/禄%23kanjii) [禄](https://jisho.org/search/*禄*)
-#1931. 衡
+# 1931. 衡
 [衡](https://jisho.org/search/衡%23kanjii) [衡](https://jisho.org/search/*衡*)
-#1932. 抹
+# 1932. 抹
 [抹](https://jisho.org/search/抹%23kanjii) [抹](https://jisho.org/search/*抹*)
-#1933. 滴
+# 1933. 滴
 [滴](https://jisho.org/search/滴%23kanjii) [滴](https://jisho.org/search/*滴*)
-#1934. 俵
+# 1934. 俵
 [俵](https://jisho.org/search/俵%23kanjii) [俵](https://jisho.org/search/*俵*)
-#1935. 囚
+# 1935. 囚
 [囚](https://jisho.org/search/囚%23kanjii) [囚](https://jisho.org/search/*囚*)
-#1936. 餌
+# 1936. 餌
 [餌](https://jisho.org/search/餌%23kanjii) [餌](https://jisho.org/search/*餌*)
-#1937. 穀
+# 1937. 穀
 [穀](https://jisho.org/search/穀%23kanjii) [穀](https://jisho.org/search/*穀*)
-#1938. 飢
+# 1938. 飢
 [飢](https://jisho.org/search/飢%23kanjii) [飢](https://jisho.org/search/*飢*)
-#1939. 茎
+# 1939. 茎
 [茎](https://jisho.org/search/茎%23kanjii) [茎](https://jisho.org/search/*茎*)
-#1940. 吟
+# 1940. 吟
 [吟](https://jisho.org/search/吟%23kanjii) [吟](https://jisho.org/search/*吟*)
-#1941. 楼
+# 1941. 楼
 [楼](https://jisho.org/search/楼%23kanjii) [楼](https://jisho.org/search/*楼*)
-#1942. 戴
+# 1942. 戴
 [戴](https://jisho.org/search/戴%23kanjii) [戴](https://jisho.org/search/*戴*)
-#1943. 猟
+# 1943. 猟
 [猟](https://jisho.org/search/猟%23kanjii) [猟](https://jisho.org/search/*猟*)
-#1944. 享
+# 1944. 享
 [享](https://jisho.org/search/享%23kanjii) [享](https://jisho.org/search/*享*)
-#1945. 壌
+# 1945. 壌
 [壌](https://jisho.org/search/壌%23kanjii) [壌](https://jisho.org/search/*壌*)
-#1946. 赦
+# 1946. 赦
 [赦](https://jisho.org/search/赦%23kanjii) [赦](https://jisho.org/search/*赦*)
-#1947. 扶
+# 1947. 扶
 [扶](https://jisho.org/search/扶%23kanjii) [扶](https://jisho.org/search/*扶*)
-#1948. 盲
+# 1948. 盲
 [盲](https://jisho.org/search/盲%23kanjii) [盲](https://jisho.org/search/*盲*)
-#1949. 絹
+# 1949. 絹
 [絹](https://jisho.org/search/絹%23kanjii) [絹](https://jisho.org/search/*絹*)
-#1950. 儲
+# 1950. 儲
 [儲](https://jisho.org/search/儲%23kanjii) [儲](https://jisho.org/search/*儲*)
-#1951. 痕
+# 1951. 痕
 [痕](https://jisho.org/search/痕%23kanjii) [痕](https://jisho.org/search/*痕*)
-#1952. 槍
+# 1952. 槍
 [槍](https://jisho.org/search/槍%23kanjii) [槍](https://jisho.org/search/*槍*)
-#1953. 閑
+# 1953. 閑
 [閑](https://jisho.org/search/閑%23kanjii) [閑](https://jisho.org/search/*閑*)
-#1954. 隷
+# 1954. 隷
 [隷](https://jisho.org/search/隷%23kanjii) [隷](https://jisho.org/search/*隷*)
-#1955. 嘩
+# 1955. 嘩
 [嘩](https://jisho.org/search/嘩%23kanjii) [嘩](https://jisho.org/search/*嘩*)
-#1956. 紺
+# 1956. 紺
 [紺](https://jisho.org/search/紺%23kanjii) [紺](https://jisho.org/search/*紺*)
-#1957. 髄
+# 1957. 髄
 [髄](https://jisho.org/search/髄%23kanjii) [髄](https://jisho.org/search/*髄*)
-#1958. 胎
+# 1958. 胎
 [胎](https://jisho.org/search/胎%23kanjii) [胎](https://jisho.org/search/*胎*)
-#1959. 唆
+# 1959. 唆
 [唆](https://jisho.org/search/唆%23kanjii) [唆](https://jisho.org/search/*唆*)
-#1960. 渦
+# 1960. 渦
 [渦](https://jisho.org/search/渦%23kanjii) [渦](https://jisho.org/search/*渦*)
-#1961. 轄
+# 1961. 轄
 [轄](https://jisho.org/search/轄%23kanjii) [轄](https://jisho.org/search/*轄*)
-#1962. 叱
+# 1962. 叱
 [叱](https://jisho.org/search/叱%23kanjii) [叱](https://jisho.org/search/*叱*)
-#1963. 虹
+# 1963. 虹
 [虹](https://jisho.org/search/虹%23kanjii) [虹](https://jisho.org/search/*虹*)
-#1964. 或
+# 1964. 或
 [或](https://jisho.org/search/或%23kanjii) [或](https://jisho.org/search/*或*)
-#1965. 汽
+# 1965. 汽
 [汽](https://jisho.org/search/汽%23kanjii) [汽](https://jisho.org/search/*汽*)
-#1966. 陛
+# 1966. 陛
 [陛](https://jisho.org/search/陛%23kanjii) [陛](https://jisho.org/search/*陛*)
-#1967. 媛
+# 1967. 媛
 [媛](https://jisho.org/search/媛%23kanjii) [媛](https://jisho.org/search/*媛*)
-#1968. 篤
+# 1968. 篤
 [篤](https://jisho.org/search/篤%23kanjii) [篤](https://jisho.org/search/*篤*)
-#1969. 勿
+# 1969. 勿
 [勿](https://jisho.org/search/勿%23kanjii) [勿](https://jisho.org/search/*勿*)
-#1970. 遥
+# 1970. 遥
 [遥](https://jisho.org/search/遥%23kanjii) [遥](https://jisho.org/search/*遥*)
-#1971. 詠
+# 1971. 詠
 [詠](https://jisho.org/search/詠%23kanjii) [詠](https://jisho.org/search/*詠*)
-#1972. 爽
+# 1972. 爽
 [爽](https://jisho.org/search/爽%23kanjii) [爽](https://jisho.org/search/*爽*)
-#1973. 拙
+# 1973. 拙
 [拙](https://jisho.org/search/拙%23kanjii) [拙](https://jisho.org/search/*拙*)
-#1974. 錠
+# 1974. 錠
 [錠](https://jisho.org/search/錠%23kanjii) [錠](https://jisho.org/search/*錠*)
-#1975. 璧
+# 1975. 璧
 [璧](https://jisho.org/search/璧%23kanjii) [璧](https://jisho.org/search/*璧*)
-#1976. 醸
+# 1976. 醸
 [醸](https://jisho.org/search/醸%23kanjii) [醸](https://jisho.org/search/*醸*)
-#1977. 憤
+# 1977. 憤
 [憤](https://jisho.org/search/憤%23kanjii) [憤](https://jisho.org/search/*憤*)
-#1978. 岬
+# 1978. 岬
 [岬](https://jisho.org/search/岬%23kanjii) [岬](https://jisho.org/search/*岬*)
-#1979. 擬
+# 1979. 擬
 [擬](https://jisho.org/search/擬%23kanjii) [擬](https://jisho.org/search/*擬*)
-#1980. 鯨
+# 1980. 鯨
 [鯨](https://jisho.org/search/鯨%23kanjii) [鯨](https://jisho.org/search/*鯨*)
-#1981. 吊
+# 1981. 吊
 [吊](https://jisho.org/search/吊%23kanjii) [吊](https://jisho.org/search/*吊*)
-#1982. 虜
+# 1982. 虜
 [虜](https://jisho.org/search/虜%23kanjii) [虜](https://jisho.org/search/*虜*)
-#1983. 丼
+# 1983. 丼
 [丼](https://jisho.org/search/丼%23kanjii) [丼](https://jisho.org/search/*丼*)
-#1984. 窟
+# 1984. 窟
 [窟](https://jisho.org/search/窟%23kanjii) [窟](https://jisho.org/search/*窟*)
-#1985. 錬
+# 1985. 錬
 [錬](https://jisho.org/search/錬%23kanjii) [錬](https://jisho.org/search/*錬*)
-#1986. 牙
+# 1986. 牙
 [牙](https://jisho.org/search/牙%23kanjii) [牙](https://jisho.org/search/*牙*)
-#1987. 肯
+# 1987. 肯
 [肯](https://jisho.org/search/肯%23kanjii) [肯](https://jisho.org/search/*肯*)
-#1988. 挫
+# 1988. 挫
 [挫](https://jisho.org/search/挫%23kanjii) [挫](https://jisho.org/search/*挫*)
-#1989. 逐
+# 1989. 逐
 [逐](https://jisho.org/search/逐%23kanjii) [逐](https://jisho.org/search/*逐*)
-#1990. 厄
+# 1990. 厄
 [厄](https://jisho.org/search/厄%23kanjii) [厄](https://jisho.org/search/*厄*)
-#1991. 裾
+# 1991. 裾
 [裾](https://jisho.org/search/裾%23kanjii) [裾](https://jisho.org/search/*裾*)
-#1992. 戚
+# 1992. 戚
 [戚](https://jisho.org/search/戚%23kanjii) [戚](https://jisho.org/search/*戚*)
-#1993. 醒
+# 1993. 醒
 [醒](https://jisho.org/search/醒%23kanjii) [醒](https://jisho.org/search/*醒*)
-#1994. 硫
+# 1994. 硫
 [硫](https://jisho.org/search/硫%23kanjii) [硫](https://jisho.org/search/*硫*)
-#1995. 肖
+# 1995. 肖
 [肖](https://jisho.org/search/肖%23kanjii) [肖](https://jisho.org/search/*肖*)
-#1996. 蜜
+# 1996. 蜜
 [蜜](https://jisho.org/search/蜜%23kanjii) [蜜](https://jisho.org/search/*蜜*)
-#1997. 翁
+# 1997. 翁
 [翁](https://jisho.org/search/翁%23kanjii) [翁](https://jisho.org/search/*翁*)
-#1998. 頓
+# 1998. 頓
 [頓](https://jisho.org/search/頓%23kanjii) [頓](https://jisho.org/search/*頓*)
-#1999. 叶
+# 1999. 叶
 [叶](https://jisho.org/search/叶%23kanjii) [叶](https://jisho.org/search/*叶*)
-#2000. 腎
+# 2000. 腎
 [腎](https://jisho.org/search/腎%23kanjii) [腎](https://jisho.org/search/*腎*)
-#2001. 杖
+# 2001. 杖
 [杖](https://jisho.org/search/杖%23kanjii) [杖](https://jisho.org/search/*杖*)
-#2002. 逝
+# 2002. 逝
 [逝](https://jisho.org/search/逝%23kanjii) [逝](https://jisho.org/search/*逝*)
-#2003. 僅
+# 2003. 僅
 [僅](https://jisho.org/search/僅%23kanjii) [僅](https://jisho.org/search/*僅*)
-#2004. 骸
+# 2004. 骸
 [骸](https://jisho.org/search/骸%23kanjii) [骸](https://jisho.org/search/*骸*)
-#2005. 串
+# 2005. 串
 [串](https://jisho.org/search/串%23kanjii) [串](https://jisho.org/search/*串*)
-#2006. 箸
+# 2006. 箸
 [箸](https://jisho.org/search/箸%23kanjii) [箸](https://jisho.org/search/*箸*)
-#2007. 叙
+# 2007. 叙
 [叙](https://jisho.org/search/叙%23kanjii) [叙](https://jisho.org/search/*叙*)
-#2008. 顎
+# 2008. 顎
 [顎](https://jisho.org/search/顎%23kanjii) [顎](https://jisho.org/search/*顎*)
-#2009. 餓
+# 2009. 餓
 [餓](https://jisho.org/search/餓%23kanjii) [餓](https://jisho.org/search/*餓*)
-#2010. 玩
+# 2010. 玩
 [玩](https://jisho.org/search/玩%23kanjii) [玩](https://jisho.org/search/*玩*)
-#2011. 累
+# 2011. 累
 [累](https://jisho.org/search/累%23kanjii) [累](https://jisho.org/search/*累*)
-#2012. 艶
+# 2012. 艶
 [艶](https://jisho.org/search/艶%23kanjii) [艶](https://jisho.org/search/*艶*)
-#2013. 賜
+# 2013. 賜
 [賜](https://jisho.org/search/賜%23kanjii) [賜](https://jisho.org/search/*賜*)
-#2014. 舶
+# 2014. 舶
 [舶](https://jisho.org/search/舶%23kanjii) [舶](https://jisho.org/search/*舶*)
-#2015. 枢
+# 2015. 枢
 [枢](https://jisho.org/search/枢%23kanjii) [枢](https://jisho.org/search/*枢*)
-#2016. 朽
+# 2016. 朽
 [朽](https://jisho.org/search/朽%23kanjii) [朽](https://jisho.org/search/*朽*)
-#2017. 賄
+# 2017. 賄
 [賄](https://jisho.org/search/賄%23kanjii) [賄](https://jisho.org/search/*賄*)
-#2018. 襟
+# 2018. 襟
 [襟](https://jisho.org/search/襟%23kanjii) [襟](https://jisho.org/search/*襟*)
-#2019. 獅
+# 2019. 獅
 [獅](https://jisho.org/search/獅%23kanjii) [獅](https://jisho.org/search/*獅*)
-#2020. 漆
+# 2020. 漆
 [漆](https://jisho.org/search/漆%23kanjii) [漆](https://jisho.org/search/*漆*)
-#2021. 瑠
+# 2021. 瑠
 [瑠](https://jisho.org/search/瑠%23kanjii) [瑠](https://jisho.org/search/*瑠*)
-#2022. 桁
+# 2022. 桁
 [桁](https://jisho.org/search/桁%23kanjii) [桁](https://jisho.org/search/*桁*)
-#2023. 喝
+# 2023. 喝
 [喝](https://jisho.org/search/喝%23kanjii) [喝](https://jisho.org/search/*喝*)
-#2024. 蛍
+# 2024. 蛍
 [蛍](https://jisho.org/search/蛍%23kanjii) [蛍](https://jisho.org/search/*蛍*)
-#2025. 奔
+# 2025. 奔
 [奔](https://jisho.org/search/奔%23kanjii) [奔](https://jisho.org/search/*奔*)
-#2026. 猶
+# 2026. 猶
 [猶](https://jisho.org/search/猶%23kanjii) [猶](https://jisho.org/search/*猶*)
-#2027. 鮎
+# 2027. 鮎
 [鮎](https://jisho.org/search/鮎%23kanjii) [鮎](https://jisho.org/search/*鮎*)
-#2028. 捧
+# 2028. 捧
 [捧](https://jisho.org/search/捧%23kanjii) [捧](https://jisho.org/search/*捧*)
-#2029. 麓
+# 2029. 麓
 [麓](https://jisho.org/search/麓%23kanjii) [麓](https://jisho.org/search/*麓*)
-#2030. 崖
+# 2030. 崖
 [崖](https://jisho.org/search/崖%23kanjii) [崖](https://jisho.org/search/*崖*)
-#2031. 剖
+# 2031. 剖
 [剖](https://jisho.org/search/剖%23kanjii) [剖](https://jisho.org/search/*剖*)
-#2032. 臼
+# 2032. 臼
 [臼](https://jisho.org/search/臼%23kanjii) [臼](https://jisho.org/search/*臼*)
-#2033. 狐
+# 2033. 狐
 [狐](https://jisho.org/search/狐%23kanjii) [狐](https://jisho.org/search/*狐*)
-#2034. 蛮
+# 2034. 蛮
 [蛮](https://jisho.org/search/蛮%23kanjii) [蛮](https://jisho.org/search/*蛮*)
-#2035. 藻
+# 2035. 藻
 [藻](https://jisho.org/search/藻%23kanjii) [藻](https://jisho.org/search/*藻*)
-#2036. 嗣
+# 2036. 嗣
 [嗣](https://jisho.org/search/嗣%23kanjii) [嗣](https://jisho.org/search/*嗣*)
-#2037. 怨
+# 2037. 怨
 [怨](https://jisho.org/search/怨%23kanjii) [怨](https://jisho.org/search/*怨*)
-#2038. 勃
+# 2038. 勃
 [勃](https://jisho.org/search/勃%23kanjii) [勃](https://jisho.org/search/*勃*)
-#2039. 嘘
+# 2039. 嘘
 [嘘](https://jisho.org/search/嘘%23kanjii) [嘘](https://jisho.org/search/*嘘*)
-#2040. 巾
+# 2040. 巾
 [巾](https://jisho.org/search/巾%23kanjii) [巾](https://jisho.org/search/*巾*)
-#2041. 侮
+# 2041. 侮
 [侮](https://jisho.org/search/侮%23kanjii) [侮](https://jisho.org/search/*侮*)
-#2042. 悼
+# 2042. 悼
 [悼](https://jisho.org/search/悼%23kanjii) [悼](https://jisho.org/search/*悼*)
-#2043. 蚊
+# 2043. 蚊
 [蚊](https://jisho.org/search/蚊%23kanjii) [蚊](https://jisho.org/search/*蚊*)
-#2044. 贅
+# 2044. 贅
 [贅](https://jisho.org/search/贅%23kanjii) [贅](https://jisho.org/search/*贅*)
-#2045. 酎
+# 2045. 酎
 [酎](https://jisho.org/search/酎%23kanjii) [酎](https://jisho.org/search/*酎*)
-#2046. 妬
+# 2046. 妬
 [妬](https://jisho.org/search/妬%23kanjii) [妬](https://jisho.org/search/*妬*)
-#2047. 繋
+# 2047. 繋
 [繋](https://jisho.org/search/繋%23kanjii) [繋](https://jisho.org/search/*繋*)
-#2048. 准
+# 2048. 准
 [准](https://jisho.org/search/准%23kanjii) [准](https://jisho.org/search/*准*)
-#2049. 紐
+# 2049. 紐
 [紐](https://jisho.org/search/紐%23kanjii) [紐](https://jisho.org/search/*紐*)
-#2050. 慕
+# 2050. 慕
 [慕](https://jisho.org/search/慕%23kanjii) [慕](https://jisho.org/search/*慕*)
-#2051. 麺
+# 2051. 麺
 [麺](https://jisho.org/search/麺%23kanjii) [麺](https://jisho.org/search/*麺*)
-#2052. 乞
+# 2052. 乞
 [乞](https://jisho.org/search/乞%23kanjii) [乞](https://jisho.org/search/*乞*)
-#2053. 詣
+# 2053. 詣
 [詣](https://jisho.org/search/詣%23kanjii) [詣](https://jisho.org/search/*詣*)
-#2054. 拐
+# 2054. 拐
 [拐](https://jisho.org/search/拐%23kanjii) [拐](https://jisho.org/search/*拐*)
-#2055. 綻
+# 2055. 綻
 [綻](https://jisho.org/search/綻%23kanjii) [綻](https://jisho.org/search/*綻*)
-#2056. 娯
+# 2056. 娯
 [娯](https://jisho.org/search/娯%23kanjii) [娯](https://jisho.org/search/*娯*)
-#2057. 堕
+# 2057. 堕
 [堕](https://jisho.org/search/堕%23kanjii) [堕](https://jisho.org/search/*堕*)
-#2058. 醜
+# 2058. 醜
 [醜](https://jisho.org/search/醜%23kanjii) [醜](https://jisho.org/search/*醜*)
-#2059. 弄
+# 2059. 弄
 [弄](https://jisho.org/search/弄%23kanjii) [弄](https://jisho.org/search/*弄*)
-#2060. 侯
+# 2060. 侯
 [侯](https://jisho.org/search/侯%23kanjii) [侯](https://jisho.org/search/*侯*)
-#2061. 癌
+# 2061. 癌
 [癌](https://jisho.org/search/癌%23kanjii) [癌](https://jisho.org/search/*癌*)
-#2062. 冥
+# 2062. 冥
 [冥](https://jisho.org/search/冥%23kanjii) [冥](https://jisho.org/search/*冥*)
-#2063. 苛
+# 2063. 苛
 [苛](https://jisho.org/search/苛%23kanjii) [苛](https://jisho.org/search/*苛*)
-#2064. 畔
+# 2064. 畔
 [畔](https://jisho.org/search/畔%23kanjii) [畔](https://jisho.org/search/*畔*)
-#2065. 諦
+# 2065. 諦
 [諦](https://jisho.org/search/諦%23kanjii) [諦](https://jisho.org/search/*諦*)
-#2066. 渇
+# 2066. 渇
 [渇](https://jisho.org/search/渇%23kanjii) [渇](https://jisho.org/search/*渇*)
-#2067. 嫉
+# 2067. 嫉
 [嫉](https://jisho.org/search/嫉%23kanjii) [嫉](https://jisho.org/search/*嫉*)
-#2068. 煩
+# 2068. 煩
 [煩](https://jisho.org/search/煩%23kanjii) [煩](https://jisho.org/search/*煩*)
-#2069. 韻
+# 2069. 韻
 [韻](https://jisho.org/search/韻%23kanjii) [韻](https://jisho.org/search/*韻*)
-#2070. 琶
+# 2070. 琶
 [琶](https://jisho.org/search/琶%23kanjii) [琶](https://jisho.org/search/*琶*)
-#2071. 斑
+# 2071. 斑
 [斑](https://jisho.org/search/斑%23kanjii) [斑](https://jisho.org/search/*斑*)
-#2072. 雌
+# 2072. 雌
 [雌](https://jisho.org/search/雌%23kanjii) [雌](https://jisho.org/search/*雌*)
-#2073. 睦
+# 2073. 睦
 [睦](https://jisho.org/search/睦%23kanjii) [睦](https://jisho.org/search/*睦*)
-#2074. 窒
+# 2074. 窒
 [窒](https://jisho.org/search/窒%23kanjii) [窒](https://jisho.org/search/*窒*)
-#2075. 廉
+# 2075. 廉
 [廉](https://jisho.org/search/廉%23kanjii) [廉](https://jisho.org/search/*廉*)
-#2076. 蔑
+# 2076. 蔑
 [蔑](https://jisho.org/search/蔑%23kanjii) [蔑](https://jisho.org/search/*蔑*)
-#2077. 窯
+# 2077. 窯
 [窯](https://jisho.org/search/窯%23kanjii) [窯](https://jisho.org/search/*窯*)
-#2078. 惧
+# 2078. 惧
 [惧](https://jisho.org/search/惧%23kanjii) [惧](https://jisho.org/search/*惧*)
-#2079. 愁
+# 2079. 愁
 [愁](https://jisho.org/search/愁%23kanjii) [愁](https://jisho.org/search/*愁*)
-#2080. 釘
+# 2080. 釘
 [釘](https://jisho.org/search/釘%23kanjii) [釘](https://jisho.org/search/*釘*)
-#2081. 痩
+# 2081. 痩
 [痩](https://jisho.org/search/痩%23kanjii) [痩](https://jisho.org/search/*痩*)
-#2082. 蟹
+# 2082. 蟹
 [蟹](https://jisho.org/search/蟹%23kanjii) [蟹](https://jisho.org/search/*蟹*)
-#2083. 詮
+# 2083. 詮
 [詮](https://jisho.org/search/詮%23kanjii) [詮](https://jisho.org/search/*詮*)
-#2084. 塀
+# 2084. 塀
 [塀](https://jisho.org/search/塀%23kanjii) [塀](https://jisho.org/search/*塀*)
-#2085. 宵
+# 2085. 宵
 [宵](https://jisho.org/search/宵%23kanjii) [宵](https://jisho.org/search/*宵*)
-#2086. 罵
+# 2086. 罵
 [罵](https://jisho.org/search/罵%23kanjii) [罵](https://jisho.org/search/*罵*)
-#2087. 芯
+# 2087. 芯
 [芯](https://jisho.org/search/芯%23kanjii) [芯](https://jisho.org/search/*芯*)
-#2088. 剥
+# 2088. 剥
 [剥](https://jisho.org/search/剥%23kanjii) [剥](https://jisho.org/search/*剥*)
-#2089. 勅
+# 2089. 勅
 [勅](https://jisho.org/search/勅%23kanjii) [勅](https://jisho.org/search/*勅*)
-#2090. 慨
+# 2090. 慨
 [慨](https://jisho.org/search/慨%23kanjii) [慨](https://jisho.org/search/*慨*)
-#2091. 謹
+# 2091. 謹
 [謹](https://jisho.org/search/謹%23kanjii) [謹](https://jisho.org/search/*謹*)
-#2092. 泌
+# 2092. 泌
 [泌](https://jisho.org/search/泌%23kanjii) [泌](https://jisho.org/search/*泌*)
-#2093. 硝
+# 2093. 硝
 [硝](https://jisho.org/search/硝%23kanjii) [硝](https://jisho.org/search/*硝*)
-#2094. 紡
+# 2094. 紡
 [紡](https://jisho.org/search/紡%23kanjii) [紡](https://jisho.org/search/*紡*)
-#2095. 侶
+# 2095. 侶
 [侶](https://jisho.org/search/侶%23kanjii) [侶](https://jisho.org/search/*侶*)
-#2096. 霜
+# 2096. 霜
 [霜](https://jisho.org/search/霜%23kanjii) [霜](https://jisho.org/search/*霜*)
-#2097. 脊
+# 2097. 脊
 [脊](https://jisho.org/search/脊%23kanjii) [脊](https://jisho.org/search/*脊*)
-#2098. 肘
+# 2098. 肘
 [肘](https://jisho.org/search/肘%23kanjii) [肘](https://jisho.org/search/*肘*)
-#2099. 腺
+# 2099. 腺
 [腺](https://jisho.org/search/腺%23kanjii) [腺](https://jisho.org/search/*腺*)
-#2100. 屯
+# 2100. 屯
 [屯](https://jisho.org/search/屯%23kanjii) [屯](https://jisho.org/search/*屯*)
-#2101. 捻
+# 2101. 捻
 [捻](https://jisho.org/search/捻%23kanjii) [捻](https://jisho.org/search/*捻*)
-#2102. 梗
+# 2102. 梗
 [梗](https://jisho.org/search/梗%23kanjii) [梗](https://jisho.org/search/*梗*)
-#2103. 礁
+# 2103. 礁
 [礁](https://jisho.org/search/礁%23kanjii) [礁](https://jisho.org/search/*礁*)
-#2104. 溺
+# 2104. 溺
 [溺](https://jisho.org/search/溺%23kanjii) [溺](https://jisho.org/search/*溺*)
-#2105. 矯
+# 2105. 矯
 [矯](https://jisho.org/search/矯%23kanjii) [矯](https://jisho.org/search/*矯*)
-#2106. 璃
+# 2106. 璃
 [璃](https://jisho.org/search/璃%23kanjii) [璃](https://jisho.org/search/*璃*)
-#2107. 瘍
+# 2107. 瘍
 [瘍](https://jisho.org/search/瘍%23kanjii) [瘍](https://jisho.org/search/*瘍*)
-#2108. 帥
+# 2108. 帥
 [帥](https://jisho.org/search/帥%23kanjii) [帥](https://jisho.org/search/*帥*)
-#2109. 諮
+# 2109. 諮
 [諮](https://jisho.org/search/諮%23kanjii) [諮](https://jisho.org/search/*諮*)
-#2110. 鋳
+# 2110. 鋳
 [鋳](https://jisho.org/search/鋳%23kanjii) [鋳](https://jisho.org/search/*鋳*)
-#2111. 凹
+# 2111. 凹
 [凹](https://jisho.org/search/凹%23kanjii) [凹](https://jisho.org/search/*凹*)
-#2112. 瞭
+# 2112. 瞭
 [瞭](https://jisho.org/search/瞭%23kanjii) [瞭](https://jisho.org/search/*瞭*)
-#2113. 羨
+# 2113. 羨
 [羨](https://jisho.org/search/羨%23kanjii) [羨](https://jisho.org/search/*羨*)
-#2114. 且
+# 2114. 且
 [且](https://jisho.org/search/且%23kanjii) [且](https://jisho.org/search/*且*)
-#2115. 炒
+# 2115. 炒
 [炒](https://jisho.org/search/炒%23kanjii) [炒](https://jisho.org/search/*炒*)
-#2116. 淫
+# 2116. 淫
 [淫](https://jisho.org/search/淫%23kanjii) [淫](https://jisho.org/search/*淫*)
-#2117. 儒
+# 2117. 儒
 [儒](https://jisho.org/search/儒%23kanjii) [儒](https://jisho.org/search/*儒*)
-#2118. 壱
+# 2118. 壱
 [壱](https://jisho.org/search/壱%23kanjii) [壱](https://jisho.org/search/*壱*)
-#2119. 耗
+# 2119. 耗
 [耗](https://jisho.org/search/耗%23kanjii) [耗](https://jisho.org/search/*耗*)
-#2120. 薪
+# 2120. 薪
 [薪](https://jisho.org/search/薪%23kanjii) [薪](https://jisho.org/search/*薪*)
-#2121. 桟
+# 2121. 桟
 [桟](https://jisho.org/search/桟%23kanjii) [桟](https://jisho.org/search/*桟*)
-#2122. 煎
+# 2122. 煎
 [煎](https://jisho.org/search/煎%23kanjii) [煎](https://jisho.org/search/*煎*)
-#2123. 栓
+# 2123. 栓
 [栓](https://jisho.org/search/栓%23kanjii) [栓](https://jisho.org/search/*栓*)
-#2124. 咽
+# 2124. 咽
 [咽](https://jisho.org/search/咽%23kanjii) [咽](https://jisho.org/search/*咽*)
-#2125. 柵
+# 2125. 柵
 [柵](https://jisho.org/search/柵%23kanjii) [柵](https://jisho.org/search/*柵*)
-#2126. 搾
+# 2126. 搾
 [搾](https://jisho.org/search/搾%23kanjii) [搾](https://jisho.org/search/*搾*)
-#2127. 嗅
+# 2127. 嗅
 [嗅](https://jisho.org/search/嗅%23kanjii) [嗅](https://jisho.org/search/*嗅*)
-#2128. 痺
+# 2128. 痺
 [痺](https://jisho.org/search/痺%23kanjii) [痺](https://jisho.org/search/*痺*)
-#2129. 旺
+# 2129. 旺
 [旺](https://jisho.org/search/旺%23kanjii) [旺](https://jisho.org/search/*旺*)
-#2130. 淑
+# 2130. 淑
 [淑](https://jisho.org/search/淑%23kanjii) [淑](https://jisho.org/search/*淑*)
-#2131. 俸
+# 2131. 俸
 [俸](https://jisho.org/search/俸%23kanjii) [俸](https://jisho.org/search/*俸*)
-#2132. 抄
+# 2132. 抄
 [抄](https://jisho.org/search/抄%23kanjii) [抄](https://jisho.org/search/*抄*)
-#2133. 婿
+# 2133. 婿
 [婿](https://jisho.org/search/婿%23kanjii) [婿](https://jisho.org/search/*婿*)
-#2134. 萎
+# 2134. 萎
 [萎](https://jisho.org/search/萎%23kanjii) [萎](https://jisho.org/search/*萎*)
-#2135. 鯉
+# 2135. 鯉
 [鯉](https://jisho.org/search/鯉%23kanjii) [鯉](https://jisho.org/search/*鯉*)
-#2136. 碗
+# 2136. 碗
 [碗](https://jisho.org/search/碗%23kanjii) [碗](https://jisho.org/search/*碗*)
-#2137. 汎
+# 2137. 汎
 [汎](https://jisho.org/search/汎%23kanjii) [汎](https://jisho.org/search/*汎*)
-#2138. 賓
+# 2138. 賓
 [賓](https://jisho.org/search/賓%23kanjii) [賓](https://jisho.org/search/*賓*)
-#2139. 酌
+# 2139. 酌
 [酌](https://jisho.org/search/酌%23kanjii) [酌](https://jisho.org/search/*酌*)
-#2140. 遡
+# 2140. 遡
 [遡](https://jisho.org/search/遡%23kanjii) [遡](https://jisho.org/search/*遡*)
-#2141. 升
+# 2141. 升
 [升](https://jisho.org/search/升%23kanjii) [升](https://jisho.org/search/*升*)
-#2142. 唾
+# 2142. 唾
 [唾](https://jisho.org/search/唾%23kanjii) [唾](https://jisho.org/search/*唾*)
-#2143. 繕
+# 2143. 繕
 [繕](https://jisho.org/search/繕%23kanjii) [繕](https://jisho.org/search/*繕*)
-#2144. 庸
+# 2144. 庸
 [庸](https://jisho.org/search/庸%23kanjii) [庸](https://jisho.org/search/*庸*)
-#2145. 勾
+# 2145. 勾
 [勾](https://jisho.org/search/勾%23kanjii) [勾](https://jisho.org/search/*勾*)
-#2146. 租
+# 2146. 租
 [租](https://jisho.org/search/租%23kanjii) [租](https://jisho.org/search/*租*)
-#2147. 倣
+# 2147. 倣
 [倣](https://jisho.org/search/倣%23kanjii) [倣](https://jisho.org/search/*倣*)
-#2148. 堆
+# 2148. 堆
 [堆](https://jisho.org/search/堆%23kanjii) [堆](https://jisho.org/search/*堆*)
-#2149. 茸
+# 2149. 茸
 [茸](https://jisho.org/search/茸%23kanjii) [茸](https://jisho.org/search/*茸*)
-#2150. 棺
+# 2150. 棺
 [棺](https://jisho.org/search/棺%23kanjii) [棺](https://jisho.org/search/*棺*)
-#2151. 姻
+# 2151. 姻
 [姻](https://jisho.org/search/姻%23kanjii) [姻](https://jisho.org/search/*姻*)
-#2152. 凸
+# 2152. 凸
 [凸](https://jisho.org/search/凸%23kanjii) [凸](https://jisho.org/search/*凸*)
-#2153. 蔽
+# 2153. 蔽
 [蔽](https://jisho.org/search/蔽%23kanjii) [蔽](https://jisho.org/search/*蔽*)
-#2154. 坑
+# 2154. 坑
 [坑](https://jisho.org/search/坑%23kanjii) [坑](https://jisho.org/search/*坑*)
-#2155. 弧
+# 2155. 弧
 [弧](https://jisho.org/search/弧%23kanjii) [弧](https://jisho.org/search/*弧*)
-#2156. 濫
+# 2156. 濫
 [濫](https://jisho.org/search/濫%23kanjii) [濫](https://jisho.org/search/*濫*)
-#2157. 吏
+# 2157. 吏
 [吏](https://jisho.org/search/吏%23kanjii) [吏](https://jisho.org/search/*吏*)
-#2158. 冶
+# 2158. 冶
 [冶](https://jisho.org/search/冶%23kanjii) [冶](https://jisho.org/search/*冶*)
-#2159. 采
+# 2159. 采
 [采](https://jisho.org/search/采%23kanjii) [采](https://jisho.org/search/*采*)
-#2160. 臆
+# 2160. 臆
 [臆](https://jisho.org/search/臆%23kanjii) [臆](https://jisho.org/search/*臆*)
-#2161. 痢
+# 2161. 痢
 [痢](https://jisho.org/search/痢%23kanjii) [痢](https://jisho.org/search/*痢*)
-#2162. 醤
+# 2162. 醤
 [醤](https://jisho.org/search/醤%23kanjii) [醤](https://jisho.org/search/*醤*)
-#2163. 窃
+# 2163. 窃
 [窃](https://jisho.org/search/窃%23kanjii) [窃](https://jisho.org/search/*窃*)
-#2164. 寡
+# 2164. 寡
 [寡](https://jisho.org/search/寡%23kanjii) [寡](https://jisho.org/search/*寡*)
-#2165. 殉
+# 2165. 殉
 [殉](https://jisho.org/search/殉%23kanjii) [殉](https://jisho.org/search/*殉*)
-#2166. 弔
+# 2166. 弔
 [弔](https://jisho.org/search/弔%23kanjii) [弔](https://jisho.org/search/*弔*)
-#2167. 褐
+# 2167. 褐
 [褐](https://jisho.org/search/褐%23kanjii) [褐](https://jisho.org/search/*褐*)
-#2168. 糾
+# 2168. 糾
 [糾](https://jisho.org/search/糾%23kanjii) [糾](https://jisho.org/search/*糾*)
-#2169. 禍
+# 2169. 禍
 [禍](https://jisho.org/search/禍%23kanjii) [禍](https://jisho.org/search/*禍*)
-#2170. 鯛
+# 2170. 鯛
 [鯛](https://jisho.org/search/鯛%23kanjii) [鯛](https://jisho.org/search/*鯛*)
-#2171. 飴
+# 2171. 飴
 [飴](https://jisho.org/search/飴%23kanjii) [飴](https://jisho.org/search/*飴*)
-#2172. 拷
+# 2172. 拷
 [拷](https://jisho.org/search/拷%23kanjii) [拷](https://jisho.org/search/*拷*)
-#2173. 毀
+# 2173. 毀
 [毀](https://jisho.org/search/毀%23kanjii) [毀](https://jisho.org/search/*毀*)
-#2174. 漸
+# 2174. 漸
 [漸](https://jisho.org/search/漸%23kanjii) [漸](https://jisho.org/search/*漸*)
-#2175. 踪
+# 2175. 踪
 [踪](https://jisho.org/search/踪%23kanjii) [踪](https://jisho.org/search/*踪*)
-#2176. 刹
+# 2176. 刹
 [刹](https://jisho.org/search/刹%23kanjii) [刹](https://jisho.org/search/*刹*)
-#2177. 款
+# 2177. 款
 [款](https://jisho.org/search/款%23kanjii) [款](https://jisho.org/search/*款*)
-#2178. 傲
+# 2178. 傲
 [傲](https://jisho.org/search/傲%23kanjii) [傲](https://jisho.org/search/*傲*)
-#2179. 喩
+# 2179. 喩
 [喩](https://jisho.org/search/喩%23kanjii) [喩](https://jisho.org/search/*喩*)
-#2180. 憾
+# 2180. 憾
 [憾](https://jisho.org/search/憾%23kanjii) [憾](https://jisho.org/search/*憾*)
-#2181. 嫡
+# 2181. 嫡
 [嫡](https://jisho.org/search/嫡%23kanjii) [嫡](https://jisho.org/search/*嫡*)
-#2182. 遜
+# 2182. 遜
 [遜](https://jisho.org/search/遜%23kanjii) [遜](https://jisho.org/search/*遜*)
-#2183. 嚇
+# 2183. 嚇
 [嚇](https://jisho.org/search/嚇%23kanjii) [嚇](https://jisho.org/search/*嚇*)
-#2184. 嘲
+# 2184. 嘲
 [嘲](https://jisho.org/search/嘲%23kanjii) [嘲](https://jisho.org/search/*嘲*)
-#2185. 畏
+# 2185. 畏
 [畏](https://jisho.org/search/畏%23kanjii) [畏](https://jisho.org/search/*畏*)
-#2186. 賦
+# 2186. 賦
 [賦](https://jisho.org/search/賦%23kanjii) [賦](https://jisho.org/search/*賦*)
-#2187. 嘱
+# 2187. 嘱
 [嘱](https://jisho.org/search/嘱%23kanjii) [嘱](https://jisho.org/search/*嘱*)
-#2188. 厘
+# 2188. 厘
 [厘](https://jisho.org/search/厘%23kanjii) [厘](https://jisho.org/search/*厘*)
-#2189. 哺
+# 2189. 哺
 [哺](https://jisho.org/search/哺%23kanjii) [哺](https://jisho.org/search/*哺*)
-#2190. 貪
+# 2190. 貪
 [貪](https://jisho.org/search/貪%23kanjii) [貪](https://jisho.org/search/*貪*)
-#2191. 摯
+# 2191. 摯
 [摯](https://jisho.org/search/摯%23kanjii) [摯](https://jisho.org/search/*摯*)
-#2192. 鮭
+# 2192. 鮭
 [鮭](https://jisho.org/search/鮭%23kanjii) [鮭](https://jisho.org/search/*鮭*)
-#2193. 箋
+# 2193. 箋
 [箋](https://jisho.org/search/箋%23kanjii) [箋](https://jisho.org/search/*箋*)
-#2194. 緻
+# 2194. 緻
 [緻](https://jisho.org/search/緻%23kanjii) [緻](https://jisho.org/search/*緻*)
-#2195. 蚕
+# 2195. 蚕
 [蚕](https://jisho.org/search/蚕%23kanjii) [蚕](https://jisho.org/search/*蚕*)
-#2196. 遵
+# 2196. 遵
 [遵](https://jisho.org/search/遵%23kanjii) [遵](https://jisho.org/search/*遵*)
-#2197. 鮫
+# 2197. 鮫
 [鮫](https://jisho.org/search/鮫%23kanjii) [鮫](https://jisho.org/search/*鮫*)
-#2198. 慄
+# 2198. 慄
 [慄](https://jisho.org/search/慄%23kanjii) [慄](https://jisho.org/search/*慄*)
-#2199. 畝
+# 2199. 畝
 [畝](https://jisho.org/search/畝%23kanjii) [畝](https://jisho.org/search/*畝*)
-#2200. 斥
+# 2200. 斥
 [斥](https://jisho.org/search/斥%23kanjii) [斥](https://jisho.org/search/*斥*)
-#2201. 陪
+# 2201. 陪
 [陪](https://jisho.org/search/陪%23kanjii) [陪](https://jisho.org/search/*陪*)
-#2202. 彙
+# 2202. 彙
 [彙](https://jisho.org/search/彙%23kanjii) [彙](https://jisho.org/search/*彙*)
-#2203. 舷
+# 2203. 舷
 [舷](https://jisho.org/search/舷%23kanjii) [舷](https://jisho.org/search/*舷*)
-#2204. 餃
+# 2204. 餃
 [餃](https://jisho.org/search/餃%23kanjii) [餃](https://jisho.org/search/*餃*)
-#2205. 詔
+# 2205. 詔
 [詔](https://jisho.org/search/詔%23kanjii) [詔](https://jisho.org/search/*詔*)
-#2206. 罷
+# 2206. 罷
 [罷](https://jisho.org/search/罷%23kanjii) [罷](https://jisho.org/search/*罷*)
-#2207. 弐
+# 2207. 弐
 [弐](https://jisho.org/search/弐%23kanjii) [弐](https://jisho.org/search/*弐*)
-#2208. 氾
+# 2208. 氾
 [氾](https://jisho.org/search/氾%23kanjii) [氾](https://jisho.org/search/*氾*)
-#2209. 惰
+# 2209. 惰
 [惰](https://jisho.org/search/惰%23kanjii) [惰](https://jisho.org/search/*惰*)
-#2210. 酪
+# 2210. 酪
 [酪](https://jisho.org/search/酪%23kanjii) [酪](https://jisho.org/search/*酪*)
-#2211. 羞
+# 2211. 羞
 [羞](https://jisho.org/search/羞%23kanjii) [羞](https://jisho.org/search/*羞*)
-#2212. 辣
+# 2212. 辣
 [辣](https://jisho.org/search/辣%23kanjii) [辣](https://jisho.org/search/*辣*)
-#2213. 捗
+# 2213. 捗
 [捗](https://jisho.org/search/捗%23kanjii) [捗](https://jisho.org/search/*捗*)
-#2214. 恣
+# 2214. 恣
 [恣](https://jisho.org/search/恣%23kanjii) [恣](https://jisho.org/search/*恣*)
-#2215. 衷
+# 2215. 衷
 [衷](https://jisho.org/search/衷%23kanjii) [衷](https://jisho.org/search/*衷*)
-#2216. 訃
+# 2216. 訃
 [訃](https://jisho.org/search/訃%23kanjii) [訃](https://jisho.org/search/*訃*)
-#2217. 迭
+# 2217. 迭
 [迭](https://jisho.org/search/迭%23kanjii) [迭](https://jisho.org/search/*迭*)
-#2218. 虞
+# 2218. 虞
 [虞](https://jisho.org/search/虞%23kanjii) [虞](https://jisho.org/search/*虞*)
-#2219. 丙
+# 2219. 丙
 [丙](https://jisho.org/search/丙%23kanjii) [丙](https://jisho.org/search/*丙*)
-#2220. 逓
+# 2220. 逓
 [逓](https://jisho.org/search/逓%23kanjii) [逓](https://jisho.org/search/*逓*)
-#2221. 頒
+# 2221. 頒
 [頒](https://jisho.org/search/頒%23kanjii) [頒](https://jisho.org/search/*頒*)
-#2222. 賂
+# 2222. 賂
 [賂](https://jisho.org/search/賂%23kanjii) [賂](https://jisho.org/search/*賂*)
-#2223. 謁
+# 2223. 謁
 [謁](https://jisho.org/search/謁%23kanjii) [謁](https://jisho.org/search/*謁*)
-#2224. 諧
+# 2224. 諧
 [諧](https://jisho.org/search/諧%23kanjii) [諧](https://jisho.org/search/*諧*)
-#2225. 墾
+# 2225. 墾
 [墾](https://jisho.org/search/墾%23kanjii) [墾](https://jisho.org/search/*墾*)
-#2226. 斤
+# 2226. 斤
 [斤](https://jisho.org/search/斤%23kanjii) [斤](https://jisho.org/search/*斤*)
-#2227. 倹
+# 2227. 倹
 [倹](https://jisho.org/search/倹%23kanjii) [倹](https://jisho.org/search/*倹*)
-#2228. 繭
+# 2228. 繭
 [繭](https://jisho.org/search/繭%23kanjii) [繭](https://jisho.org/search/*繭*)
-#2229. 劾
+# 2229. 劾
 [劾](https://jisho.org/search/劾%23kanjii) [劾](https://jisho.org/search/*劾*)
-#2230. 塑
+# 2230. 塑
 [塑](https://jisho.org/search/塑%23kanjii) [塑](https://jisho.org/search/*塑*)
-#2231. 痘
+# 2231. 痘
 [痘](https://jisho.org/search/痘%23kanjii) [痘](https://jisho.org/search/*痘*)
-#2232. 謄
+# 2232. 謄
 [謄](https://jisho.org/search/謄%23kanjii) [謄](https://jisho.org/search/*謄*)
-#2233. 沃
+# 2233. 沃
 [沃](https://jisho.org/search/沃%23kanjii) [沃](https://jisho.org/search/*沃*)
-#2234. 璽
+# 2234. 璽
 [璽](https://jisho.org/search/璽%23kanjii) [璽](https://jisho.org/search/*璽*)
-#2235. 憬
+# 2235. 憬
 [憬](https://jisho.org/search/憬%23kanjii) [憬](https://jisho.org/search/*憬*)
-#2236. 楷
+# 2236. 楷
 [楷](https://jisho.org/search/楷%23kanjii) [楷](https://jisho.org/search/*楷*)
-#2237. 朕
+# 2237. 朕
 [朕](https://jisho.org/search/朕%23kanjii) [朕](https://jisho.org/search/*朕*)
-#2238. 錮
+# 2238. 錮
 [錮](https://jisho.org/search/錮%23kanjii) [錮](https://jisho.org/search/*錮*)
-#2239. 剝
+# 2239. 剝
 [剝](https://jisho.org/search/剝%23kanjii) [剝](https://jisho.org/search/*剝*)
-#2240. 頰
+# 2240. 頰
 [頰](https://jisho.org/search/頰%23kanjii) [頰](https://jisho.org/search/*頰*)
-#2241. 塡
+# 2241. 塡
 [塡](https://jisho.org/search/塡%23kanjii) [塡](https://jisho.org/search/*塡*)
-#2242. 
+# 2242. 
 [](https://jisho.org/search/%23kanjii) [](https://jisho.org/search/**)𠮟
